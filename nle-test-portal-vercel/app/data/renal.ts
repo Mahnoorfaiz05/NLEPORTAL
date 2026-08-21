@@ -1,0 +1,1443 @@
+import type { Question } from "./types";
+export const renalQuestions:Question[]=[
+  {
+    "id": 1,
+    "question": "A 24-year-old man presents with generalized edema and frothy urine that has progressively worsened over the past 2 weeks. His blood pressure is normal, serum creatinine is mildly elevated, and urinalysis shows 4+ protein without significant hematuria. A 24-hour urine collection demonstrates 7.5 g of protein. Renal biopsy shows diffuse effacement of podocyte foot processes on electron microscopy without significant immune complex deposition. Which alteration most directly explains the increased urinary protein loss?",
+    "options": [
+      "Destruction of the glomerular basement membrane by immune complexes",
+      "Loss of the negative charge and integrity of the glomerular filtration barrier",
+      "Increased hydrostatic pressure within the collecting duct",
+      "Decreased renal plasma flow causing tubular protein secretion"
+    ],
+    "answer": 1,
+    "explanation": "Nephrotic-range proteinuria results from disruption of the glomerular filtration barrier, including endothelial cells, GBM, and podocytes. Minimal change disease classically shows podocyte foot-process effacement and selective albuminuria."
+  },
+  {
+    "id": 2,
+    "question": "A 9-year-old boy develops periorbital edema and frothy urine several days after recovering from an upper respiratory infection. Laboratory studies reveal heavy proteinuria, hypoalbuminemia, and hyperlipidemia. Renal biopsy by light microscopy appears essentially normal, while electron microscopy shows widespread fusion of podocyte foot processes. He responds dramatically to corticosteroid therapy. Which diagnosis is most likely?",
+    "options": [
+      "Focal segmental glomerulosclerosis",
+      "Minimal change disease",
+      "Membranous nephropathy",
+      "IgA nephropathy"
+    ],
+    "answer": 1,
+    "explanation": "Minimal change disease is the most common cause of nephrotic syndrome in children. Light microscopy is normal, while EM shows foot-process effacement. It is usually highly steroid responsive."
+  },
+  {
+    "id": 3,
+    "question": "A 31-year-old man develops edema and proteinuria several months after starting heroin. Renal biopsy demonstrates sclerosis involving portions of some glomeruli, with prominent podocyte injury. His proteinuria is severe and he has progressive renal dysfunction. Which diagnosis best explains these findings?",
+    "options": [
+      "Minimal change disease",
+      "Focal segmental glomerulosclerosis",
+      "Poststreptococcal glomerulonephritis",
+      "Thin basement membrane disease"
+    ],
+    "answer": 1,
+    "explanation": "FSGS produces sclerosis of some glomeruli and portions of affected glomeruli. Secondary causes include heroin use, HIV, obesity, and reduced nephron mass."
+  },
+  {
+    "id": 4,
+    "question": "A 42-year-old woman presents with edema, hypertension, and nephrotic-range proteinuria. Renal biopsy demonstrates diffuse thickening of the glomerular capillary walls. Immunofluorescence shows granular IgG and C3 deposition along the subepithelial surface, and electron microscopy reveals subepithelial deposits with “spike and dome” appearance. Which mechanism is most likely responsible?",
+    "options": [
+      "Anti-GBM antibodies directed against type IV collagen",
+      "Immune complex deposition along the subepithelial GBM",
+      "Mesangial IgA deposition",
+      "Podocyte foot-process injury without immune deposits"
+    ],
+    "answer": 1,
+    "explanation": "Membranous nephropathy is characterized by subepithelial immune complexes, granular IgG/C3, and spike-and-dome appearance. Primary disease is often associated with anti-PLA2R antibodies."
+  },
+  {
+    "id": 5,
+    "question": "A 27-year-old man develops cola-colored urine approximately 2 days after an upper respiratory infection. He has mild edema and hypertension. Urinalysis reveals dysmorphic RBCs and RBC casts. Complement levels are normal. Which diagnosis is most likely?",
+    "options": [
+      "Poststreptococcal glomerulonephritis",
+      "IgA nephropathy",
+      "Membranous nephropathy",
+      "Diabetic nephropathy"
+    ],
+    "answer": 1,
+    "explanation": "IgA nephropathy classically causes recurrent hematuria occurring within days of an upper respiratory infection. RBC casts indicate glomerular bleeding."
+  },
+  {
+    "id": 6,
+    "question": "A 10-year-old boy develops periorbital edema, hypertension, and dark urine 3 weeks after recovering from impetigo. Laboratory testing reveals low C3. Renal biopsy demonstrates enlarged hypercellular glomeruli, and electron microscopy reveals subepithelial “humps.” Which mechanism best explains this disease?",
+    "options": [
+      "Deposition of IgA in the mesangium",
+      "Immune complex deposition following streptococcal infection",
+      "Antibodies against podocyte proteins",
+      "Anti-GBM antibodies against type IV collagen"
+    ],
+    "answer": 1,
+    "explanation": "Poststreptococcal glomerulonephritis occurs 1–3 weeks after streptococcal infection, producing nephritic syndrome, low C3, and subepithelial humps."
+  },
+  {
+    "id": 7,
+    "question": "A 29-year-old man develops hemoptysis and rapidly progressive renal failure. Urinalysis shows RBC casts and dysmorphic RBCs. Renal biopsy demonstrates crescent formation, and immunofluorescence reveals linear IgG deposition along the glomerular basement membrane. Which antigen is targeted by the pathogenic antibodies?",
+    "options": [
+      "Phospholipase A2 receptor",
+      "α3 chain of type IV collagen",
+      "Double-stranded DNA",
+      "Neutrophil elastase"
+    ],
+    "answer": 1,
+    "explanation": "Goodpasture syndrome involves antibodies against the α3 chain of type IV collagen in the GBM and pulmonary alveoli, producing rapidly progressive glomerulonephritis and pulmonary hemorrhage."
+  },
+  {
+    "id": 8,
+    "question": "A 35-year-old woman presents with hematuria, proteinuria, hypertension, and declining renal function. She also has photosensitive rash and joint pain. Renal biopsy demonstrates “full-house” immunofluorescence with IgG, IgA, IgM, C3, and C1q deposition. Which systemic disease is responsible?",
+    "options": [
+      "Systemic lupus erythematosus",
+      "Polyarteritis nodosa",
+      "Systemic sclerosis",
+      "Rheumatoid arthritis"
+    ],
+    "answer": 0,
+    "explanation": "Lupus nephritis can produce multiple renal patterns. Full-house immunofluorescence is highly characteristic of SLE."
+  },
+  {
+    "id": 9,
+    "question": "A 45-year-old man presents with hematuria, hypertension, and rapidly progressive loss of kidney function. Serologic testing reveals positive c-ANCA and antibodies against proteinase-3. Renal biopsy demonstrates necrotizing crescentic glomerulonephritis with minimal immune deposition. Which diagnosis is most likely?",
+    "options": [
+      "Granulomatosis with polyangiitis",
+      "Goodpasture syndrome",
+      "IgA nephropathy",
+      "Membranous nephropathy"
+    ],
+    "answer": 0,
+    "explanation": "GPA is associated with c-ANCA/PR3 antibodies and causes pauci-immune necrotizing vasculitis affecting the upper airway, lungs, and kidneys."
+  },
+  {
+    "id": 10,
+    "question": "A 51-year-old woman presents with asthma, sinusitis, pulmonary infiltrates, eosinophilia, and rapidly progressive renal dysfunction. Renal biopsy shows pauci-immune crescentic glomerulonephritis. Which antibody is most likely present?",
+    "options": [
+      "Anti-GBM antibody",
+      "p-ANCA against myeloperoxidase",
+      "Anti-PLA2R antibody",
+      "Anti-dsDNA antibody"
+    ],
+    "answer": 1,
+    "explanation": "Eosinophilic granulomatosis with polyangiitis is associated with p-ANCA/MPO, asthma, eosinophilia, and systemic small-vessel vasculitis."
+  },
+  {
+    "id": 11,
+    "question": "A 56-year-old man with long-standing diabetes develops progressively increasing albuminuria and hypertension. His renal function gradually declines over several years. Renal biopsy shows thickening of the glomerular basement membrane and nodular expansion of the mesangium. Which renal lesion is characteristic?",
+    "options": [
+      "Kimmelstiel-Wilson nodules",
+      "Crescent formation",
+      "Subepithelial humps",
+      "Wire-loop lesions"
+    ],
+    "answer": 0,
+    "explanation": "Diabetic nephropathy produces GBM thickening, mesangial expansion, and Kimmelstiel-Wilson nodules. Early screening detects microalbuminuria."
+  },
+  {
+    "id": 12,
+    "question": "A 62-year-old man with poorly controlled diabetes has significant proteinuria and progressive chronic kidney disease. His kidneys are enlarged despite advanced renal dysfunction. Which mechanism contributes to the initial glomerular injury in diabetic nephropathy?",
+    "options": [
+      "Persistent hyperglycemia causing advanced glycation and glomerular hypertension",
+      "Anti-GBM antibody formation",
+      "Reduced renal blood flow causing ischemic glomerulonephritis",
+      "Immune complex deposition from streptococcal infection"
+    ],
+    "answer": 0,
+    "explanation": "Chronic hyperglycemia causes advanced glycation end products, oxidative stress, mesangial expansion, and intraglomerular hypertension, ultimately damaging the filtration barrier."
+  },
+  {
+    "id": 13,
+    "question": "A 70-year-old man with severe hypertension develops progressive renal dysfunction. Fundoscopic examination shows arteriolar narrowing and flame-shaped hemorrhages. Renal biopsy demonstrates fibrinoid necrosis of arterioles. Which diagnosis is most likely?",
+    "options": [
+      "Benign nephrosclerosis",
+      "Malignant nephrosclerosis",
+      "Minimal change disease",
+      "Renal artery stenosis"
+    ],
+    "answer": 1,
+    "explanation": "Severe accelerated hypertension causes hyperplastic arteriolosclerosis and fibrinoid necrosis, producing malignant nephrosclerosis and acute kidney injury."
+  },
+  {
+    "id": 14,
+    "question": "A 64-year-old man with long-standing hypertension has slowly progressive CKD. Renal biopsy demonstrates hyaline thickening of small renal arterioles and ischemic glomerular changes. Which process is most likely?",
+    "options": [
+      "Hyaline arteriolosclerosis",
+      "Fibrinoid necrosis",
+      "Immune complex deposition",
+      "Crescent formation"
+    ],
+    "answer": 0,
+    "explanation": "Chronic hypertension causes hyaline arteriolosclerosis, resulting in narrowing of arteriolar lumens and chronic ischemic renal injury. It is also prominent in diabetes."
+  },
+  {
+    "id": 15,
+    "question": "A 44-year-old man develops severe flank pain radiating toward the groin with microscopic hematuria. CT demonstrates a small ureteric stone. The stone is composed of calcium oxalate. Which urinary crystal morphology is classically associated with this stone?",
+    "options": [
+      "Coffin-lid crystals",
+      "Envelope-shaped crystals",
+      "Hexagonal crystals",
+      "Triple phosphate rosettes"
+    ],
+    "answer": 1,
+    "explanation": "Calcium oxalate crystals are classically envelope-shaped or dumbbell-shaped. Calcium oxalate is the most common renal stone type."
+  },
+  {
+    "id": 16,
+    "question": "A 33-year-old woman has recurrent renal stones. Analysis shows hexagonal crystals in acidic urine. She has a family history of similar episodes. Which defect is most likely responsible?",
+    "options": [
+      "Increased uric acid production",
+      "Defective cystine reabsorption in the proximal tubule",
+      "Increased calcium absorption",
+      "Increased phosphate excretion"
+    ],
+    "answer": 1,
+    "explanation": "Cystinuria is an inherited defect in reabsorption of cystine, ornithine, lysine, and arginine. Cystine stones form in acidic urine and have characteristic hexagonal crystals."
+  },
+  {
+    "id": 17,
+    "question": "A 42-year-old man with gout develops recurrent renal stones. Urinalysis shows reddish-brown crystals that are rhomboid-shaped. The urine is acidic. Which stone is most likely present?",
+    "options": [
+      "Calcium phosphate",
+      "Uric acid",
+      "Struvite",
+      "Cystine"
+    ],
+    "answer": 1,
+    "explanation": "Uric acid stones occur in acidic urine and may appear as rhomboid or rosette-shaped crystals. They are radiolucent on plain X-ray."
+  },
+  {
+    "id": 18,
+    "question": "A 38-year-old woman develops recurrent urinary tract infections with a urease-positive organism and subsequently develops a large branching renal stone. Which organism is most likely responsible?",
+    "options": [
+      "Escherichia coli",
+      "Proteus mirabilis",
+      "Staphylococcus saprophyticus",
+      "Enterococcus faecalis"
+    ],
+    "answer": 1,
+    "explanation": "Proteus produces urease, increasing urinary ammonia and alkalinizing urine. This promotes magnesium ammonium phosphate (struvite) stones, which may form staghorn calculi."
+  },
+  {
+    "id": 19,
+    "question": "A 29-year-old man has recurrent calcium stones despite adequate hydration. Laboratory studies reveal elevated PTH, hypercalcemia, and low phosphate. Which mechanism contributes to his increased urinary calcium excretion?",
+    "options": [
+      "Increased intestinal calcium absorption and bone resorption",
+      "Increased proximal calcium reabsorption",
+      "Decreased bone turnover",
+      "Reduced PTH secretion"
+    ],
+    "answer": 0,
+    "explanation": "Primary hyperparathyroidism increases serum calcium through bone resorption, increased intestinal absorption via calcitriol, and renal calcium retention, although the high filtered calcium load can produce hypercalciuria and stones."
+  },
+  {
+    "id": 20,
+    "question": "A 58-year-old man presents with acute kidney injury after several days of severe vomiting and diarrhea. He is hypotensive and tachycardic, and his urine sodium is very low. Which renal response is primarily responsible for preserving his circulating volume?",
+    "options": [
+      "Increased sodium and water reabsorption",
+      "Decreased renin release",
+      "Increased atrial natriuretic peptide secretion",
+      "Reduced sympathetic activity"
+    ],
+    "answer": 0,
+    "explanation": "Volume depletion activates RAAS and sympathetic pathways, increasing sodium and water reabsorption and maintaining blood pressure and renal perfusion."
+  },
+  {
+    "id": 21,
+    "question": "A dehydrated patient develops prerenal azotemia. His BUN-to-creatinine ratio is elevated, and urine sodium is low. Which nephron segment is responsible for reabsorbing the largest fraction of filtered sodium and water?",
+    "options": [
+      "Proximal convoluted tubule",
+      "Thin ascending limb",
+      "Distal convoluted tubule",
+      "Collecting duct"
+    ],
+    "answer": 0,
+    "explanation": "The proximal tubule reabsorbs approximately 65% of filtered Na⁺ and water, along with glucose, amino acids, bicarbonate, phosphate, and other solutes."
+  },
+  {
+    "id": 22,
+    "question": "A 67-year-old man develops acute kidney injury after receiving an aminoglycoside. His serum creatinine rises several days later. Urinalysis reveals granular “muddy brown” casts. Which site of injury is most likely?",
+    "options": [
+      "Glomerular podocytes",
+      "Proximal tubular epithelial cells",
+      "Collecting duct principal cells",
+      "Renal pelvis"
+    ],
+    "answer": 1,
+    "explanation": "Aminoglycosides can cause acute tubular injury/necrosis, particularly involving proximal tubular epithelial cells. Muddy brown granular casts are characteristic."
+  },
+  {
+    "id": 23,
+    "question": "A 48-year-old woman develops oliguria after prolonged hypotension during surgery. Serum creatinine rises rapidly. Urinalysis demonstrates muddy brown granular casts. Which renal mechanism most directly contributes to the decrease in GFR?",
+    "options": [
+      "Tubular obstruction and renal vasoconstriction",
+      "Increased glomerular capillary pressure",
+      "Increased renal plasma flow",
+      "Increased filtration coefficient"
+    ],
+    "answer": 0,
+    "explanation": "Acute tubular injury causes tubular obstruction, back-leak of filtrate, and intrarenal vasoconstriction, all of which reduce GFR."
+  },
+  {
+    "id": 24,
+    "question": "A 35-year-old woman develops acute kidney injury 10 days after starting a new antibiotic. She has fever, rash, eosinophilia, and mild proteinuria. Urinalysis demonstrates WBC casts. Which diagnosis is most likely?",
+    "options": [
+      "Acute interstitial nephritis",
+      "Acute tubular necrosis",
+      "Poststreptococcal glomerulonephritis",
+      "Renal artery thrombosis"
+    ],
+    "answer": 0,
+    "explanation": "Acute interstitial nephritis is commonly drug-induced and classically presents with fever, rash, eosinophilia, and WBC casts. Common causes include β-lactams, sulfonamides, NSAIDs, and PPIs."
+  },
+  {
+    "id": 25,
+    "question": "A 59-year-old man develops AKI after taking NSAIDs for several weeks. He has mild edema and hypertension. Which renal hemodynamic effect of NSAIDs contributes to decreased GFR?",
+    "options": [
+      "Afferent arteriole dilation",
+      "Afferent arteriole constriction due to decreased prostaglandins",
+      "Efferent arteriole constriction",
+      "Increased renin secretion"
+    ],
+    "answer": 1,
+    "explanation": "Renal prostaglandins normally dilate the afferent arteriole, especially during volume depletion. NSAIDs inhibit prostaglandin synthesis, causing afferent constriction and reduced GFR."
+  },
+  {
+    "id": 26,
+    "question": "A 63-year-old man with heart failure is treated with an ACE inhibitor and develops a modest rise in serum creatinine. The physician explains that angiotensin II normally maintains GFR during reduced renal perfusion by constricting a specific arteriole. Which arteriole is affected?",
+    "options": [
+      "Afferent arteriole",
+      "Efferent arteriole",
+      "Interlobular artery only",
+      "Vasa recta only"
+    ],
+    "answer": 1,
+    "explanation": "Angiotensin II preferentially constricts the efferent arteriole, helping maintain glomerular capillary pressure when renal perfusion is reduced. ACE inhibitors remove this effect."
+  },
+  {
+    "id": 27,
+    "question": "A patient with bilateral renal artery stenosis is started on an ACE inhibitor and develops a marked increase in serum creatinine. Which mechanism best explains this finding?",
+    "options": [
+      "Excessive afferent constriction",
+      "Loss of angiotensin II-mediated efferent constriction",
+      "Increased aldosterone secretion",
+      "Increased sympathetic stimulation"
+    ],
+    "answer": 1,
+    "explanation": "In bilateral renal artery stenosis, GFR depends heavily on angiotensin II-mediated efferent constriction. ACE inhibition removes this compensatory mechanism."
+  },
+  {
+    "id": 28,
+    "question": "A 46-year-old man develops sudden severe flank pain and hematuria. Imaging reveals narrowing of a renal artery. Renin secretion is markedly elevated. Which cells directly release renin?",
+    "options": [
+      "Macula densa cells",
+      "Juxtaglomerular cells",
+      "Podocytes",
+      "Principal cells"
+    ],
+    "answer": 1,
+    "explanation": "Juxtaglomerular cells are modified smooth muscle cells in the afferent arteriole that release renin in response to decreased renal perfusion, sympathetic β1 stimulation, and decreased NaCl delivery to the macula densa."
+  },
+  {
+    "id": 29,
+    "question": "A patient develops renal artery stenosis with decreased perfusion pressure. The macula densa senses reduced sodium chloride delivery and triggers renin release. Which signaling molecule is released by macula densa cells to promote this response?",
+    "options": [
+      "Adenosine",
+      "Prostaglandins",
+      "ANP",
+      "Endothelin only"
+    ],
+    "answer": 1,
+    "explanation": "Reduced NaCl delivery to the macula densa promotes prostaglandin release, stimulating renin secretion from juxtaglomerular cells."
+  },
+  {
+    "id": 30,
+    "question": "A 54-year-old man develops severe hypertension due to renal artery stenosis. Renin increases angiotensin II formation. Which direct effect of angiotensin II occurs in the adrenal gland?",
+    "options": [
+      "Inhibition of aldosterone secretion",
+      "Stimulation of aldosterone secretion",
+      "Inhibition of cortisol production",
+      "Suppression of catecholamine synthesis"
+    ],
+    "answer": 1,
+    "explanation": "Angiotensin II stimulates the zona glomerulosa to release aldosterone, increasing sodium reabsorption and potassium/hydrogen secretion."
+  },
+  {
+    "id": 31,
+    "question": "A 42-year-old woman presents with polyuria and polydipsia. Her serum sodium is elevated and urine osmolality is very low. After administration of desmopressin, urine osmolality increases dramatically. Which receptor mediates the renal effect responsible for this response?",
+    "options": [
+      "V1",
+      "V2",
+      "AT1",
+      "M3"
+    ],
+    "answer": 1,
+    "explanation": "ADH binds V2 receptors on collecting duct principal cells, activating Gs/cAMP and promoting aquaporin-2 insertion."
+  },
+  {
+    "id": 32,
+    "question": "A patient with central diabetes insipidus is treated with desmopressin. Several days later he develops headache and mild confusion after drinking excessive amounts of water. Which electrolyte abnormality is most likely?",
+    "options": [
+      "Hypernatremia",
+      "Hyponatremia",
+      "Hyperkalemia",
+      "Hypercalcemia"
+    ],
+    "answer": 1,
+    "explanation": "Desmopressin increases free-water retention. Excessive water intake during therapy can cause dilutional hyponatremia."
+  },
+  {
+    "id": 33,
+    "question": "A 52-year-old man develops severe hyponatremia after a subarachnoid hemorrhage. His urine is concentrated and urinary sodium is elevated despite low serum osmolality. He is euvolemic. Which hormone is inappropriately elevated?",
+    "options": [
+      "Aldosterone",
+      "ADH",
+      "Renin only",
+      "ANP deficiency"
+    ],
+    "answer": 1,
+    "explanation": "This is SIADH, characterized by inappropriately elevated ADH, causing water retention, low serum osmolality, concentrated urine, and euvolemic hyponatremia."
+  },
+  {
+    "id": 34,
+    "question": "A 45-year-old woman develops severe hyponatremia over several days. Her serum sodium is corrected too rapidly with hypertonic saline, and 2 days later she develops dysarthria, dysphagia, and quadriparesis. MRI shows a central pontine lesion. Which complication occurred?",
+    "options": [
+      "Wernicke encephalopathy",
+      "Osmotic demyelination syndrome",
+      "Subarachnoid hemorrhage",
+      "Cerebral edema from hyponatremia"
+    ],
+    "answer": 1,
+    "explanation": "Rapid correction of chronic hyponatremia can cause osmotic demyelination, classically involving the central pons. Sodium correction must therefore be controlled."
+  },
+  {
+    "id": 35,
+    "question": "A healthy man is evaluated for renal function. A substance is freely filtered by the glomerulus, neither secreted nor reabsorbed by renal tubules, and is not metabolized by the kidney. Measurement of its clearance is therefore used to estimate GFR. Which substance is being described?",
+    "options": [
+      "PAH",
+      "Inulin",
+      "Glucose",
+      "Urea"
+    ],
+    "answer": 1,
+    "explanation": "Inulin clearance is the gold-standard measurement of GFR because it is filtered but neither reabsorbed nor secreted."
+  },
+  {
+    "id": 36,
+    "question": "A patient is undergoing evaluation of renal plasma flow using a substance that is filtered and strongly secreted by proximal tubular cells, resulting in nearly complete extraction from renal plasma. Which substance is used for this purpose?",
+    "options": [
+      "Inulin",
+      "PAH",
+      "Creatinine",
+      "Albumin"
+    ],
+    "answer": 1,
+    "explanation": "PAH clearance approximates effective renal plasma flow because PAH is filtered and strongly secreted, resulting in high renal extraction."
+  },
+  {
+    "id": 37,
+    "question": "A 49-year-old man has a serum creatinine of 2.8 mg/dL. His physician explains that creatinine clearance slightly overestimates the true GFR because creatinine undergoes a small additional renal process. Which process is responsible?",
+    "options": [
+      "Significant tubular reabsorption",
+      "Tubular secretion",
+      "Glomerular protein binding",
+      "Hepatic conversion to urea"
+    ],
+    "answer": 1,
+    "explanation": "Creatinine is freely filtered and undergoes a small amount of proximal tubular secretion, so creatinine clearance slightly overestimates true GFR."
+  },
+  {
+    "id": 38,
+    "question": "A patient has severe dehydration and reduced renal perfusion. Despite reduced GFR, the kidney maintains a relatively concentrated urine. Which nephron structure is primarily responsible for establishing the medullary osmotic gradient required for urine concentration?",
+    "options": [
+      "Proximal tubule only",
+      "Loop of Henle",
+      "Glomerulus",
+      "Distal convoluted tubule only"
+    ],
+    "answer": 1,
+    "explanation": "The countercurrent multiplier in the loop of Henle establishes the medullary osmotic gradient. The thick ascending limb actively transports Na⁺, K⁺, and Cl⁻ but is impermeable to water."
+  },
+  {
+    "id": 39,
+    "question": "A 28-year-old woman is treated with furosemide for severe pulmonary edema. The medication acts on the thick ascending limb and causes substantial urinary sodium and water loss. Which transporter is inhibited?",
+    "options": [
+      "NCC",
+      "ENaC",
+      "NKCC2",
+      "SGLT2"
+    ],
+    "answer": 2,
+    "explanation": "Loop diuretics inhibit the Na⁺-K⁺-2Cl⁻ cotransporter (NKCC2) in the thick ascending limb. They are the most potent diuretics."
+  },
+  {
+    "id": 40,
+    "question": "A patient receiving long-term furosemide develops hypokalemia, metabolic alkalosis, hypomagnesemia, and increased urinary calcium excretion. Which physiological property of the thick ascending limb explains the increased calcium loss?",
+    "options": [
+      "It normally creates a lumen-positive potential that promotes paracellular calcium reabsorption",
+      "It normally secretes calcium into the lumen",
+      "It is impermeable to sodium",
+      "It contains ENaC as its primary transporter"
+    ],
+    "answer": 0,
+    "explanation": "NKCC2 activity and ROMK recycling create a lumen-positive potential, driving paracellular Ca²⁺ and Mg²⁺ reabsorption. Loop diuretics abolish this effect."
+  },
+  {
+    "id": 41,
+    "question": "A 48-year-old woman with hypertension is started on hydrochlorothiazide. Several months later she develops mild hypercalcemia. Which nephron transporter is inhibited by this medication?",
+    "options": [
+      "NKCC2",
+      "NCC",
+      "ENaC",
+      "SGLT2"
+    ],
+    "answer": 1,
+    "explanation": "Thiazides inhibit the Na⁺-Cl⁻ cotransporter (NCC) in the distal convoluted tubule and increase calcium reabsorption, which can decrease urinary calcium."
+  },
+  {
+    "id": 42,
+    "question": "A patient with recurrent calcium stones is started on a thiazide diuretic. His urinary calcium decreases. Which mechanism best explains this effect?",
+    "options": [
+      "Increased proximal sodium reabsorption secondary to mild volume contraction",
+      "Direct inhibition of calcium secretion",
+      "Increased PTH secretion",
+      "Inhibition of NKCC2"
+    ],
+    "answer": 0,
+    "explanation": "Thiazides promote mild volume contraction, increasing proximal Na⁺ and Ca²⁺ reabsorption. They are useful for prevention of calcium-containing kidney stones."
+  },
+  {
+    "id": 43,
+    "question": "A 55-year-old man with heart failure receives spironolactone. Several weeks later he develops hyperkalemia. Which nephron cell is primarily affected by aldosterone blockade?",
+    "options": [
+      "Podocyte",
+      "Principal cell",
+      "Macula densa cell",
+      "Proximal tubular cell"
+    ],
+    "answer": 1,
+    "explanation": "Aldosterone increases Na⁺ reabsorption and K⁺ secretion in principal cells. Spironolactone blocks the mineralocorticoid receptor and therefore reduces K⁺ secretion."
+  },
+  {
+    "id": 44,
+    "question": "A patient with resistant hypertension is treated with amiloride. Unlike spironolactone, the medication acts directly on an apical sodium channel in collecting duct principal cells. Which channel is inhibited?",
+    "options": [
+      "ENaC",
+      "NCC",
+      "NKCC2",
+      "SGLT2"
+    ],
+    "answer": 0,
+    "explanation": "Amiloride and triamterene inhibit ENaC directly. They are potassium-sparing diuretics."
+  },
+  {
+    "id": 45,
+    "question": "A 66-year-old man with heart failure is prescribed spironolactone. He later develops gynecomastia and decreased libido. Which pharmacological property explains these adverse effects?",
+    "options": [
+      "Androgen receptor activation",
+      "Antiandrogenic effects of spironolactone",
+      "β1 receptor blockade",
+      "Increased testosterone synthesis"
+    ],
+    "answer": 1,
+    "explanation": "Spironolactone can cause gynecomastia, impotence, and menstrual abnormalities because of antiandrogenic effects. Eplerenone is more selective."
+  },
+  {
+    "id": 46,
+    "question": "A 31-year-old woman with glaucoma is treated with acetazolamide. She develops mild metabolic acidosis. The drug acts primarily in the proximal tubule by inhibiting carbonic anhydrase. Which process is decreased?",
+    "options": [
+      "Bicarbonate reabsorption",
+      "Potassium secretion",
+      "Calcium reabsorption in the thick ascending limb",
+      "Sodium reabsorption through ENaC"
+    ],
+    "answer": 0,
+    "explanation": "Carbonic anhydrase is essential for proximal bicarbonate reabsorption. Acetazolamide causes bicarbonaturia and metabolic acidosis."
+  },
+  {
+    "id": 47,
+    "question": "A patient taking acetazolamide develops kidney stones. Which type of stone is promoted by this medication?",
+    "options": [
+      "Uric acid",
+      "Calcium phosphate",
+      "Cystine",
+      "Struvite"
+    ],
+    "answer": 1,
+    "explanation": "Acetazolamide causes bicarbonaturia and alkaline urine, promoting calcium phosphate stone formation."
+  },
+  {
+    "id": 48,
+    "question": "A 40-year-old woman presents with recurrent episodes of muscle weakness. Laboratory studies show hypokalemia and metabolic alkalosis. Genetic testing demonstrates a defect in the thiazide-sensitive Na⁺-Cl⁻ cotransporter of the distal convoluted tubule. Which syndrome is most likely?",
+    "options": [
+      "Bartter syndrome",
+      "Gitelman syndrome",
+      "Liddle syndrome",
+      "Fanconi syndrome"
+    ],
+    "answer": 1,
+    "explanation": "Gitelman syndrome resembles chronic thiazide use and causes hypokalemic metabolic alkalosis, often with hypomagnesemia and hypocalciuria."
+  },
+  {
+    "id": 49,
+    "question": "A newborn develops severe salt wasting, hypokalemic metabolic alkalosis, and increased renin and aldosterone. Genetic testing demonstrates impaired NKCC2 function in the thick ascending limb. Which syndrome is most likely?",
+    "options": [
+      "Gitelman syndrome",
+      "Bartter syndrome",
+      "Liddle syndrome",
+      "Apparent mineralocorticoid excess"
+    ],
+    "answer": 1,
+    "explanation": "Bartter syndrome involves defects in the thick ascending limb, often affecting NKCC2 or related proteins, producing a physiology similar to loop diuretic use."
+  },
+  {
+    "id": 50,
+    "question": "A 24-year-old man presents with hypokalemic metabolic alkalosis, hypertension, suppressed renin, and suppressed aldosterone. Genetic testing reveals an activating mutation of ENaC. Which treatment directly corrects the underlying tubular abnormality?",
+    "options": [
+      "Spironolactone",
+      "Amiloride",
+      "Furosemide",
+      "Hydrochlorothiazide"
+    ],
+    "answer": 1,
+    "explanation": "Liddle syndrome results from excessive ENaC activity. Amiloride directly blocks ENaC and is the treatment of choice."
+  },
+  {
+    "id": 51,
+    "question": "A 33-year-old woman presents with polyuria, polydipsia, dehydration, and metabolic acidosis. Arterial blood gas shows pH 7.25 and bicarbonate 14 mEq/L. Urine pH is 6.5 despite systemic acidosis. Which renal tubular defect is most likely?",
+    "options": [
+      "Failure of distal hydrogen ion secretion",
+      "Excess bicarbonate reabsorption",
+      "Increased ammonium excretion",
+      "Increased aldosterone activity"
+    ],
+    "answer": 0,
+    "explanation": "Type 1 distal RTA results from impaired H⁺ secretion by α-intercalated cells, producing non-anion-gap metabolic acidosis and an inappropriately high urine pH."
+  },
+  {
+    "id": 52,
+    "question": "A patient with rheumatoid arthritis develops non-anion-gap metabolic acidosis and recurrent calcium phosphate stones. Despite systemic acidosis, urine pH remains above 5.5. Which diagnosis is most likely?",
+    "options": [
+      "Proximal RTA",
+      "Distal RTA",
+      "Type 4 RTA",
+      "Diarrhea"
+    ],
+    "answer": 1,
+    "explanation": "Distal RTA causes impaired H⁺ secretion, urine pH >5.5 despite systemic acidosis, hypokalemia, and calcium phosphate stones."
+  },
+  {
+    "id": 53,
+    "question": "A 29-year-old man has metabolic acidosis with normal anion gap. Urine bicarbonate is elevated, but once plasma bicarbonate falls below a certain level, the kidney can acidify urine appropriately. Which type of RTA is most likely?",
+    "options": [
+      "Type 1",
+      "Type 2",
+      "Type 4",
+      "Type 5"
+    ],
+    "answer": 1,
+    "explanation": "Proximal RTA results from impaired bicarbonate reabsorption. Once plasma bicarbonate is sufficiently low, distal acidification remains intact and urine pH can fall appropriately."
+  },
+  {
+    "id": 54,
+    "question": "A 61-year-old diabetic man develops mild hyperkalemia and non-anion-gap metabolic acidosis. Renin and aldosterone activity are reduced. Which type of renal tubular acidosis is most likely?",
+    "options": [
+      "Type 1",
+      "Type 2",
+      "Type 4",
+      "Type 3"
+    ],
+    "answer": 2,
+    "explanation": "Type 4 RTA is associated with hypoaldosteronism or aldosterone resistance, producing hyperkalemia and impaired ammonium excretion, leading to non-anion-gap metabolic acidosis."
+  },
+  {
+    "id": 55,
+    "question": "A patient with severe diarrhea develops metabolic acidosis. Laboratory studies reveal decreased bicarbonate with a normal anion gap. Which mechanism best explains the acidosis?",
+    "options": [
+      "Increased lactate production",
+      "Gastrointestinal bicarbonate loss",
+      "Increased ketoacid production",
+      "Decreased chloride concentration"
+    ],
+    "answer": 1,
+    "explanation": "Diarrhea causes bicarbonate loss, producing hyperchloremic/non-anion-gap metabolic acidosis."
+  },
+  {
+    "id": 56,
+    "question": "A 45-year-old woman presents with severe vomiting for several days. Arterial blood gas reveals metabolic alkalosis and hypokalemia. Which renal response contributes to maintenance of the alkalosis?",
+    "options": [
+      "Increased bicarbonate excretion",
+      "Increased hydrogen ion secretion and bicarbonate reabsorption",
+      "Increased potassium retention",
+      "Decreased aldosterone activity"
+    ],
+    "answer": 1,
+    "explanation": "Volume depletion activates RAAS. Aldosterone and increased distal Na⁺ delivery promote H⁺ and K⁺ secretion, maintaining metabolic alkalosis."
+  },
+  {
+    "id": 57,
+    "question": "A patient with severe metabolic acidosis has a pH of 7.20 and bicarbonate of 10 mEq/L. His PCO₂ is 22 mmHg. The physician uses Winter's formula to determine whether respiratory compensation is appropriate. Which PCO₂ range is expected?",
+    "options": [
+      "5–10 mmHg",
+      "20–24 mmHg",
+      "30–35 mmHg",
+      "45–50 mmHg"
+    ],
+    "answer": 1,
+    "explanation": "Winter's formula: expected PCO₂ = 1.5 × HCO₃⁻ + 8 ±2. For HCO₃⁻ 10: 15 + 8 = 23 ±2, so 21–25 approximately."
+  },
+  {
+    "id": 58,
+    "question": "A patient develops severe metabolic alkalosis after repeated vomiting. His serum potassium is low. Which intracellular shift contributes to the hypokalemia?",
+    "options": [
+      "Potassium shifts out of cells due to acidosis",
+      "Potassium shifts into cells during alkalemia",
+      "Sodium shifts into cells",
+      "Calcium shifts into cells"
+    ],
+    "answer": 1,
+    "explanation": "Alkalemia promotes intracellular K⁺ shift, contributing to hypokalemia. Renal potassium losses often further worsen the deficit."
+  },
+  {
+    "id": 59,
+    "question": "A 37-year-old man develops metabolic acidosis with an elevated anion gap after prolonged fasting. Which substance is primarily responsible for the increased anion gap?",
+    "options": [
+      "Bicarbonate",
+      "Ketone bodies",
+      "Chloride",
+      "Albumin"
+    ],
+    "answer": 1,
+    "explanation": "Starvation causes increased ketogenesis, producing β-hydroxybutyrate and acetoacetate. These unmeasured anions increase the anion gap."
+  },
+  {
+    "id": 60,
+    "question": "A 72-year-old man with septic shock develops lactic acidosis. His serum lactate is markedly elevated. Which cellular metabolic process most directly causes lactate accumulation during severe tissue hypoperfusion?",
+    "options": [
+      "Increased oxidative phosphorylation",
+      "Anaerobic glycolysis with pyruvate conversion to lactate",
+      "Increased fatty acid synthesis",
+      "Increased ketone utilization"
+    ],
+    "answer": 1,
+    "explanation": "Tissue hypoxia decreases oxidative phosphorylation, causing pyruvate to be converted to lactate, resulting in high-anion-gap metabolic acidosis."
+  },
+  {
+    "id": 61,
+    "question": "A 58-year-old man develops chronic kidney disease with a GFR of 25 mL/min/1.73 m². He develops fatigue and pallor. Hemoglobin is 8.9 g/dL with normal MCV. Which renal endocrine abnormality most directly contributes?",
+    "options": [
+      "Increased renin production",
+      "Decreased erythropoietin production",
+      "Increased calcitonin production",
+      "Decreased ADH secretion"
+    ],
+    "answer": 1,
+    "explanation": "The kidney produces erythropoietin, which stimulates erythroid precursors in bone marrow. CKD causes normocytic normochromic anemia due to reduced EPO."
+  },
+  {
+    "id": 62,
+    "question": "A patient with advanced CKD develops bone pain and elevated PTH. Serum phosphate is increased and calcitriol is decreased. Which mechanism explains the development of secondary hyperparathyroidism?",
+    "options": [
+      "Increased phosphate excretion",
+      "Phosphate retention and decreased calcitriol causing hypocalcemic stimulation of PTH",
+      "Increased calcium absorption",
+      "Increased renal 1α-hydroxylase activity"
+    ],
+    "answer": 1,
+    "explanation": "CKD causes phosphate retention and decreased calcitriol production, reducing calcium availability and stimulating secondary hyperparathyroidism."
+  },
+  {
+    "id": 63,
+    "question": "A 60-year-old man with advanced CKD develops severe hyperphosphatemia. Which mechanism contributes directly to the elevated serum phosphate?",
+    "options": [
+      "Increased GFR",
+      "Decreased renal phosphate excretion",
+      "Increased proximal phosphate secretion",
+      "Increased intestinal phosphate excretion"
+    ],
+    "answer": 1,
+    "explanation": "As GFR declines, the kidney becomes less capable of excreting phosphate, causing phosphate retention."
+  },
+  {
+    "id": 64,
+    "question": "A 65-year-old man with CKD is prescribed calcium acetate as a phosphate binder. The physician explains that it works primarily within the gastrointestinal tract. Which process is reduced?",
+    "options": [
+      "Intestinal phosphate absorption",
+      "Renal phosphate secretion",
+      "Renal calcium reabsorption",
+      "Vitamin D synthesis"
+    ],
+    "answer": 0,
+    "explanation": "Phosphate binders bind dietary phosphate in the gut and reduce its intestinal absorption, helping control hyperphosphatemia in CKD."
+  },
+  {
+    "id": 65,
+    "question": "A 57-year-old woman with CKD develops severe metabolic acidosis. Her kidneys cannot adequately excrete the daily acid load. Which substance normally allows the kidney to excrete large quantities of hydrogen ions in the urine while maintaining acid-base balance?",
+    "options": [
+      "Ammonium",
+      "Glucose",
+      "Albumin",
+      "Creatinine"
+    ],
+    "answer": 0,
+    "explanation": "Renal NH₄⁺ excretion is an important mechanism for eliminating nonvolatile acid. Chronic acidosis normally increases ammonium production and excretion."
+  },
+  {
+    "id": 66,
+    "question": "A 44-year-old man develops an obstruction at the ureteropelvic junction. Initially, pressure builds up within the renal pelvis and eventually affects glomerular filtration. Which mechanism best explains the decrease in GFR?",
+    "options": [
+      "Increased plasma oncotic pressure",
+      "Increased hydrostatic pressure in Bowman's space opposing filtration",
+      "Increased glomerular capillary hydrostatic pressure",
+      "Increased filtration coefficient"
+    ],
+    "answer": 1,
+    "explanation": "Urinary tract obstruction increases Bowman's space hydrostatic pressure, opposing glomerular filtration and decreasing GFR."
+  },
+  {
+    "id": 67,
+    "question": "A newborn has severe bilateral urinary tract obstruction due to posterior urethral valves. Prenatal ultrasound demonstrates oligohydramnios. Which fetal complication is most likely?",
+    "options": [
+      "Pulmonary hypoplasia",
+      "Macrosomia",
+      "Polyhydramnios",
+      "Neural tube defect"
+    ],
+    "answer": 0,
+    "explanation": "Severe fetal urinary obstruction reduces fetal urine production, causing oligohydramnios, which can lead to pulmonary hypoplasia and Potter sequence."
+  },
+  {
+    "id": 68,
+    "question": "A newborn has bilateral renal agenesis and severe oligohydramnios. The infant develops characteristic facial abnormalities and pulmonary hypoplasia. Which embryologic structure normally induces development of the definitive kidney?",
+    "options": [
+      "Ureteric bud",
+      "Metanephric mesenchyme",
+      "Pronephros",
+      "Mesonephric duct only"
+    ],
+    "answer": 1,
+    "explanation": "The ureteric bud induces the metanephric mesenchyme, while the metanephric mesenchyme reciprocally induces ureteric bud branching. Both are essential for definitive kidney development."
+  },
+  {
+    "id": 69,
+    "question": "A newborn has a congenital renal anomaly in which both kidneys are fused at their lower poles. The fused kidney is located lower than normal because its upward migration was prevented by a major abdominal vessel. Which vessel typically prevents further ascent?",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Renal artery",
+      "Celiac trunk"
+    ],
+    "answer": 1,
+    "explanation": "In horseshoe kidney, fusion usually occurs at the lower poles, and the kidney becomes trapped beneath the inferior mesenteric artery during ascent."
+  },
+  {
+    "id": 70,
+    "question": "A 34-year-old man is diagnosed with horseshoe kidney incidentally. The physician explains that this anomaly results from abnormal fusion during development. Which portion of the kidney is most commonly fused?",
+    "options": [
+      "Upper poles",
+      "Lower poles",
+      "Renal medullae only",
+      "Renal cortices only"
+    ],
+    "answer": 1,
+    "explanation": "Horseshoe kidney most commonly results from fusion of the lower poles of the developing kidneys."
+  },
+  {
+    "id": 71,
+    "question": "A 62-year-old man with long-standing hypertension and poorly controlled diabetes presents with gradually increasing lower-extremity edema and fatigue. His creatinine has increased over several years, and urinalysis shows persistent albuminuria without active sediment. Which diagnosis best explains his renal dysfunction?",
+    "options": [
+      "Acute tubular necrosis",
+      "Chronic kidney disease due to diabetic nephropathy",
+      "Acute glomerulonephritis",
+      "Renal artery thrombosis"
+    ],
+    "answer": 1,
+    "explanation": "Long-standing diabetes with persistent albuminuria and gradually progressive loss of renal function is classic for diabetic kidney disease."
+  },
+  {
+    "id": 72,
+    "question": "A 58-year-old woman with chronic kidney disease presents with fatigue and exertional dyspnea. Her hemoglobin is 8.9 g/dL, MCV is normal, and iron studies are adequate. Which mechanism most likely explains her anemia?",
+    "options": [
+      "Increased hemolysis",
+      "Reduced erythropoietin production",
+      "Vitamin B12 deficiency",
+      "Bone marrow infiltration"
+    ],
+    "answer": 1,
+    "explanation": "Diseased kidneys produce insufficient erythropoietin, causing a normocytic, normochromic anemia."
+  },
+  {
+    "id": 73,
+    "question": "A patient with advanced CKD develops generalized bone pain and laboratory studies show hypocalcemia, hyperphosphatemia and elevated PTH. Which mechanism is primarily responsible?",
+    "options": [
+      "Increased renal activation of vitamin D",
+      "Reduced phosphate retention",
+      "Reduced calcitriol production with secondary hyperparathyroidism",
+      "Increased intestinal calcium absorption"
+    ],
+    "answer": 2,
+    "explanation": "CKD causes phosphate retention and reduced 1,25-(OH)₂ vitamin D, leading to hypocalcemia and secondary hyperparathyroidism."
+  },
+  {
+    "id": 74,
+    "question": "A 45-year-old man presents with severe flank pain radiating toward the groin and microscopic hematuria. CT demonstrates a small ureteric stone. Which type of renal stone is most common overall?",
+    "options": [
+      "Uric acid",
+      "Calcium oxalate",
+      "Struvite",
+      "Cystine"
+    ],
+    "answer": 1,
+    "explanation": "Calcium oxalate stones are the most common kidney stones and may occur with hypercalciuria, hyperoxaluria or hypocitraturia."
+  },
+  {
+    "id": 75,
+    "question": "A 30-year-old woman presents with recurrent calcium kidney stones. Laboratory testing shows low urinary citrate. Which intervention can reduce her risk of recurrent calcium stones?",
+    "options": [
+      "Potassium citrate",
+      "High-dose vitamin C",
+      "Severe dietary calcium restriction",
+      "Ammonium chloride"
+    ],
+    "answer": 0,
+    "explanation": "Citrate binds urinary calcium and inhibits crystal formation. Potassium citrate is useful in hypocitraturia."
+  },
+  {
+    "id": 76,
+    "question": "A 40-year-old man presents with fever, dysuria and severe flank pain. Examination reveals marked costovertebral-angle tenderness. Urinalysis shows numerous WBCs and WBC casts. Which diagnosis is most likely?",
+    "options": [
+      "Acute pyelonephritis",
+      "Nephrotic syndrome",
+      "Renal cell carcinoma",
+      "Acute cystitis"
+    ],
+    "answer": 0,
+    "explanation": "Fever, flank pain, CVA tenderness and WBC casts indicate infection involving the renal parenchyma."
+  },
+  {
+    "id": 77,
+    "question": "A 26-year-old woman develops dysuria and urinary frequency without fever or flank pain. Urinalysis demonstrates pyuria and bacteriuria. Which diagnosis is most likely?",
+    "options": [
+      "Acute cystitis",
+      "Acute pyelonephritis",
+      "Glomerulonephritis",
+      "Nephrolithiasis"
+    ],
+    "answer": 0,
+    "explanation": "Dysuria and frequency without systemic symptoms are typical of lower urinary tract infection/cystitis."
+  },
+  {
+    "id": 78,
+    "question": "A hospitalized patient develops oliguria two days after severe hypotension caused by septic shock. Serum creatinine rises significantly, and urinalysis shows muddy brown granular casts. Which diagnosis is most likely?",
+    "options": [
+      "Prerenal azotemia",
+      "Acute tubular necrosis",
+      "Acute interstitial nephritis",
+      "Minimal change disease"
+    ],
+    "answer": 1,
+    "explanation": "Ischemia from prolonged hypotension causes ATN. Muddy brown granular casts are characteristic."
+  },
+  {
+    "id": 79,
+    "question": "A patient develops acute kidney injury after receiving a nephrotoxic medication. Urinalysis shows WBCs, WBC casts and mild eosinophilia. Which diagnosis should be suspected?",
+    "options": [
+      "Acute interstitial nephritis",
+      "Acute tubular necrosis",
+      "Renal artery stenosis",
+      "Minimal change disease"
+    ],
+    "answer": 0,
+    "explanation": "Drug-induced AIN may cause fever, rash, eosinophilia, pyuria and WBC casts."
+  },
+  {
+    "id": 80,
+    "question": "A 70-year-old man with vomiting and poor oral intake develops an increase in serum creatinine. After adequate IV fluids, kidney function rapidly returns toward baseline. Which mechanism best explains his initial renal dysfunction?",
+    "options": [
+      "Reduced renal perfusion",
+      "Glomerular immune-complex deposition",
+      "Tubular obstruction by crystals",
+      "Renal cortical necrosis"
+    ],
+    "answer": 0,
+    "explanation": "Volume depletion causes prerenal AKI by reducing renal blood flow. Rapid improvement after fluids supports this diagnosis."
+  },
+  {
+    "id": 81,
+    "question": "A patient with severe diarrhea develops AKI. His BUN/creatinine ratio is markedly elevated, and urine sodium is low. Which finding would further support prerenal azotemia?",
+    "options": [
+      "FeNa >3%",
+      "FeNa <1%",
+      "Muddy brown casts",
+      "Heavy proteinuria"
+    ],
+    "answer": 1,
+    "explanation": "In prerenal states, the kidneys retain sodium, producing a fractional sodium excretion <1%."
+  },
+  {
+    "id": 82,
+    "question": "A patient develops AKI after prolonged hypotension. Despite fluid correction, creatinine continues to rise and urine microscopy shows granular casts. Which renal tubular process is most likely occurring?",
+    "options": [
+      "Ischemic tubular epithelial injury",
+      "Immune-complex deposition",
+      "Glomerular basement membrane rupture",
+      "Renal papillary necrosis only"
+    ],
+    "answer": 0,
+    "explanation": "Prolonged ischemia causes tubular epithelial cell injury and necrosis, producing acute tubular necrosis."
+  },
+  {
+    "id": 83,
+    "question": "A 24-year-old man develops cola-colored urine and periorbital edema approximately two weeks after recovering from a sore throat. Blood pressure is elevated and serum complement C3 is low. Which diagnosis is most likely?",
+    "options": [
+      "IgA nephropathy",
+      "Poststreptococcal glomerulonephritis",
+      "Minimal change disease",
+      "Diabetic nephropathy"
+    ],
+    "answer": 1,
+    "explanation": "PSGN typically occurs 1–3 weeks after streptococcal infection, with hematuria, edema, hypertension and low C3."
+  },
+  {
+    "id": 84,
+    "question": "A 21-year-old man develops gross hematuria within one day of an upper respiratory infection. Complement levels are normal. Which diagnosis is most likely?",
+    "options": [
+      "IgA nephropathy",
+      "PSGN",
+      "Membranous nephropathy",
+      "Goodpasture syndrome"
+    ],
+    "answer": 0,
+    "explanation": "IgA nephropathy causes synpharyngitic hematuria, occurring during or shortly after an upper respiratory infection."
+  },
+  {
+    "id": 85,
+    "question": "A patient develops hematuria, hypertension and rapidly progressive renal failure over several weeks. Renal biopsy demonstrates crescents within Bowman's space. Which clinical syndrome is present?",
+    "options": [
+      "Nephrotic syndrome",
+      "Rapidly progressive glomerulonephritis",
+      "Acute cystitis",
+      "Chronic pyelonephritis"
+    ],
+    "answer": 1,
+    "explanation": "Crescent formation is characteristic of rapidly progressive/crescentic glomerulonephritis, which can rapidly lead to renal failure."
+  },
+  {
+    "id": 86,
+    "question": "A 30-year-old man presents with hemoptysis, hematuria and rapidly worsening renal function. Kidney biopsy demonstrates linear IgG deposition along the glomerular basement membrane. Which diagnosis is most likely?",
+    "options": [
+      "Goodpasture syndrome",
+      "IgA nephropathy",
+      "PSGN",
+      "Membranous nephropathy"
+    ],
+    "answer": 0,
+    "explanation": "Anti-GBM disease causes linear IgG deposition and can produce pulmonary hemorrhage plus rapidly progressive GN."
+  },
+  {
+    "id": 87,
+    "question": "A 42-year-old woman develops hematuria, sinusitis, cough and rapidly progressive kidney dysfunction. Testing demonstrates c-ANCA positivity. Which disease is most likely?",
+    "options": [
+      "Granulomatosis with polyangiitis",
+      "Goodpasture syndrome",
+      "Minimal change disease",
+      "Diabetic nephropathy"
+    ],
+    "answer": 0,
+    "explanation": "GPA commonly causes upper respiratory disease, pulmonary involvement and rapidly progressive GN, with PR3-ANCA/c-ANCA association."
+  },
+  {
+    "id": 88,
+    "question": "A patient with chronic hepatitis B develops nephrotic-range proteinuria and edema. Renal biopsy demonstrates thickened glomerular capillary walls with subepithelial immune deposits. Which glomerular disease is most likely?",
+    "options": [
+      "Membranous nephropathy",
+      "Minimal change disease",
+      "PSGN",
+      "IgA nephropathy"
+    ],
+    "answer": 0,
+    "explanation": "Membranous nephropathy produces subepithelial immune deposits and diffuse capillary wall thickening and can be secondary to infections, malignancy or autoimmune disease."
+  },
+  {
+    "id": 89,
+    "question": "A 25-year-old man presents with severe edema and heavy proteinuria. Renal biopsy appears normal on light microscopy, while electron microscopy shows diffuse effacement of podocyte foot processes. Which diagnosis is most likely?",
+    "options": [
+      "Minimal change disease",
+      "FSGS",
+      "Membranous nephropathy",
+      "PSGN"
+    ],
+    "answer": 0,
+    "explanation": "Minimal change disease has essentially normal light microscopy but diffuse foot-process effacement on electron microscopy."
+  },
+  {
+    "id": 90,
+    "question": "A patient with nephrotic syndrome undergoes renal biopsy demonstrating segmental sclerosis involving only some glomeruli. Which diagnosis is most consistent?",
+    "options": [
+      "Focal segmental glomerulosclerosis",
+      "Minimal change disease",
+      "PSGN",
+      "IgA nephropathy"
+    ],
+    "answer": 0,
+    "explanation": "FSGS means focal involvement of some glomeruli and segmental sclerosis within affected glomeruli."
+  },
+  {
+    "id": 91,
+    "question": "A patient with nephrotic syndrome develops sudden flank pain and hematuria. Imaging demonstrates renal vein thrombosis. Which factor contributes to this complication?",
+    "options": [
+      "Urinary loss of antithrombin III",
+      "Increased urinary sodium loss only",
+      "Reduced platelet production",
+      "Increased erythropoietin"
+    ],
+    "answer": 0,
+    "explanation": "Nephrotic syndrome causes urinary loss of anticoagulant proteins such as antithrombin III, creating a hypercoagulable state."
+  },
+  {
+    "id": 92,
+    "question": "A patient has proteinuria of 5 g/day, generalized edema, hypoalbuminemia and hyperlipidemia. Which syndrome does this constellation represent?",
+    "options": [
+      "Nephritic syndrome",
+      "Nephrotic syndrome",
+      "Acute tubular necrosis",
+      "Renal colic"
+    ],
+    "answer": 1,
+    "explanation": "Heavy proteinuria, hypoalbuminemia, edema and hyperlipidemia are classic features of nephrotic syndrome."
+  },
+  {
+    "id": 93,
+    "question": "A patient presents with hematuria, hypertension, oliguria and mild-to-moderate proteinuria. Urinalysis demonstrates RBC casts. Which syndrome best describes these findings?",
+    "options": [
+      "Nephrotic syndrome",
+      "Nephritic syndrome",
+      "Prerenal AKI",
+      "Cystitis"
+    ],
+    "answer": 1,
+    "explanation": "RBC casts, hematuria, hypertension and reduced GFR are characteristic of nephritic syndrome."
+  },
+  {
+    "id": 94,
+    "question": "A 35-year-old woman with SLE develops edema, hypertension and proteinuria. Which renal complication should be strongly suspected?",
+    "options": [
+      "Lupus nephritis",
+      "Minimal change disease only",
+      "Acute cystitis",
+      "Renal cell carcinoma"
+    ],
+    "answer": 0,
+    "explanation": "SLE can produce several forms of immune-complex glomerulonephritis, collectively termed lupus nephritis."
+  },
+  {
+    "id": 95,
+    "question": "A patient with long-standing diabetes develops progressively increasing albuminuria and declining GFR. Which histological finding is classically associated with advanced diabetic nephropathy?",
+    "options": [
+      "Kimmelstiel-Wilson nodules",
+      "Crescent formation",
+      "Linear IgG deposition",
+      "Subepithelial humps"
+    ],
+    "answer": 0,
+    "explanation": "Kimmelstiel-Wilson nodules represent nodular glomerulosclerosis associated with diabetic nephropathy."
+  },
+  {
+    "id": 96,
+    "question": "A 60-year-old smoker presents with painless gross hematuria and an unexplained weight loss. Imaging reveals a solid mass arising from the kidney. Which malignancy should be suspected?",
+    "options": [
+      "Renal cell carcinoma",
+      "Wilms tumor",
+      "Transitional cell carcinoma only",
+      "Renal lymphoma"
+    ],
+    "answer": 0,
+    "explanation": "RCC classically presents with painless hematuria, and smoking is an important risk factor."
+  },
+  {
+    "id": 97,
+    "question": "A patient with renal cell carcinoma develops polycythemia despite normal oxygen saturation. Which mechanism best explains this finding?",
+    "options": [
+      "Ectopic erythropoietin production",
+      "Increased iron absorption",
+      "Increased aldosterone secretion",
+      "Reduced plasma volume"
+    ],
+    "answer": 0,
+    "explanation": "RCC can produce ectopic erythropoietin, causing secondary polycythemia."
+  },
+  {
+    "id": 98,
+    "question": "A 4-year-old child develops abdominal distension and a palpable flank mass. Imaging shows a large renal mass. Which tumor is most likely?",
+    "options": [
+      "Wilms tumor",
+      "Renal cell carcinoma",
+      "Transitional cell carcinoma",
+      "Oncocytoma"
+    ],
+    "answer": 0,
+    "explanation": "Wilms tumor (nephroblastoma) is the most common primary renal malignancy in young children."
+  },
+  {
+    "id": 99,
+    "question": "A patient develops recurrent kidney stones and has a urine pH of 8.5. Urine culture grows a urease-positive organism. Which stone is most likely?",
+    "options": [
+      "Calcium oxalate",
+      "Struvite",
+      "Uric acid",
+      "Cystine"
+    ],
+    "answer": 1,
+    "explanation": "Urease-positive organisms increase urinary ammonia and alkalinize urine, promoting magnesium ammonium phosphate (struvite) stones."
+  },
+  {
+    "id": 100,
+    "question": "A 28-year-old man with recurrent kidney stones is found to have hexagonal crystals in his urine. Which metabolic disorder should be suspected?",
+    "options": [
+      "Cystinuria",
+      "Hyperuricemia",
+      "Hyperparathyroidism",
+      "Hyperoxaluria"
+    ],
+    "answer": 0,
+    "explanation": "Hexagonal urinary crystals are characteristic of cystine stones due to cystinuria."
+  },
+  {
+    "id": 101,
+    "question": "A patient with gout develops recurrent radiolucent kidney stones. Urine is acidic, and analysis demonstrates uric acid crystals. Which dietary change would be most appropriate?",
+    "options": [
+      "Reduce purine-rich foods",
+      "Increase organ meat intake",
+      "Increase fructose intake",
+      "Increase high-protein meals"
+    ],
+    "answer": 0,
+    "explanation": "Uric acid stones are associated with hyperuricemia and acidic urine. Reducing purine-rich foods helps decrease uric acid production."
+  },
+  {
+    "id": 102,
+    "question": "A patient develops recurrent calcium stones and is found to have elevated serum calcium and PTH. Which underlying disorder should be suspected?",
+    "options": [
+      "Primary hyperparathyroidism",
+      "Hypoparathyroidism",
+      "Addison disease",
+      "SIADH"
+    ],
+    "answer": 0,
+    "explanation": "Primary hyperparathyroidism causes hypercalcemia and hypercalciuria, increasing the risk of calcium stones."
+  },
+  {
+    "id": 103,
+    "question": "A 72-year-old man develops urinary hesitancy, weak stream, nocturia and incomplete bladder emptying. Examination reveals an enlarged, smooth prostate. Which condition is most likely?",
+    "options": [
+      "Benign prostatic hyperplasia",
+      "Prostate carcinoma",
+      "Acute prostatitis",
+      "Urethral trauma"
+    ],
+    "answer": 0,
+    "explanation": "BPH produces progressive lower urinary tract obstructive symptoms due to enlargement of periurethral prostate tissue."
+  },
+  {
+    "id": 104,
+    "question": "A patient with BPH develops worsening renal function and bilateral hydronephrosis due to chronic urinary retention. What type of kidney injury has occurred?",
+    "options": [
+      "Postrenal AKI",
+      "Prerenal AKI",
+      "Intrinsic glomerular disease",
+      "Acute cortical necrosis"
+    ],
+    "answer": 0,
+    "explanation": "Urinary tract obstruction causes postrenal kidney injury. Prolonged obstruction can cause hydronephrosis and irreversible renal damage."
+  },
+  {
+    "id": 105,
+    "question": "A 65-year-old man presents with severe colicky flank pain and hematuria. CT demonstrates a stone lodged in the ureter. Which symptom pattern is most typical?",
+    "options": [
+      "Pain radiating from flank toward groin",
+      "Constant epigastric pain radiating to shoulder",
+      "RUQ pain after meals only",
+      "Suprapubic pain without hematuria"
+    ],
+    "answer": 0,
+    "explanation": "Ureteric stones produce severe colicky flank pain that may radiate toward the groin or genital region."
+  },
+  {
+    "id": 106,
+    "question": "A patient with chronic kidney disease has persistent potassium of 6.8 mEq/L and ECG shows peaked T waves. Which complication requires immediate treatment?",
+    "options": [
+      "Hyperkalemia causing cardiac conduction abnormalities",
+      "Mild anemia",
+      "Hyperphosphatemia",
+      "Metabolic bone disease"
+    ],
+    "answer": 0,
+    "explanation": "Severe hyperkalemia can cause fatal ventricular arrhythmias and cardiac arrest. ECG changes require urgent management."
+  },
+  {
+    "id": 107,
+    "question": "A patient with advanced CKD develops weakness and deep, rapid breathing. ABG shows low bicarbonate and metabolic acidosis. Which mechanism contributes most to this acid-base disturbance?",
+    "options": [
+      "Reduced renal acid excretion",
+      "Excessive gastric acid loss",
+      "Increased bicarbonate production by kidneys",
+      "Increased intestinal acid secretion"
+    ],
+    "answer": 0,
+    "explanation": "CKD reduces the kidney's ability to excrete H⁺ and generate/reclaim bicarbonate, producing metabolic acidosis."
+  },
+  {
+    "id": 108,
+    "question": "A patient with CKD has persistent hypertension despite lifestyle modification. Which class of medication is particularly useful in patients with albuminuric CKD because it reduces intraglomerular pressure?",
+    "options": [
+      "ACE inhibitor",
+      "Loop diuretic only",
+      "Calcium supplement",
+      "Beta-2 agonist"
+    ],
+    "answer": 0,
+    "explanation": "ACE inhibitors reduce efferent arteriolar constriction, lowering intraglomerular pressure and albuminuria, thereby providing renal protection."
+  },
+  {
+    "id": 109,
+    "question": "A patient with diabetic kidney disease is started on an SGLT2 inhibitor. Which renal effect contributes to its protective action?",
+    "options": [
+      "Restoration of tubuloglomerular feedback and reduction of intraglomerular pressure",
+      "Direct stimulation of erythropoietin secretion",
+      "Increased glomerular hyperfiltration",
+      "Increased sodium retention"
+    ],
+    "answer": 0,
+    "explanation": "SGLT2 inhibitors increase distal sodium delivery, restoring tubuloglomerular feedback and reducing glomerular hyperfiltration."
+  },
+  {
+    "id": 110,
+    "question": "A patient with CKD has severe volume overload and pulmonary edema despite maximal medical therapy. Which intervention is most appropriate if the fluid overload cannot be controlled medically?",
+    "options": [
+      "Hemodialysis",
+      "Oral iron only",
+      "Calcium restriction alone",
+      "Observation"
+    ],
+    "answer": 0,
+    "explanation": "Severe refractory volume overload is an important indication for renal replacement therapy/dialysis."
+  },
+  {
+    "id": 111,
+    "question": "A patient with severe AKI develops potassium of 7.2 mEq/L with ECG changes despite medical therapy. Which is an indication for urgent dialysis?",
+    "options": [
+      "Refractory severe hyperkalemia",
+      "Mild anemia",
+      "Microscopic hematuria alone",
+      "Mild proteinuria"
+    ],
+    "answer": 0,
+    "explanation": "Life-threatening, refractory hyperkalemia is a classic emergency indication for dialysis."
+  },
+  {
+    "id": 112,
+    "question": "A patient with advanced renal failure develops confusion, pericardial friction rub and nausea despite conservative treatment. Which complication is most likely responsible?",
+    "options": [
+      "Uremia",
+      "Nephrolithiasis",
+      "Simple cystitis",
+      "Hypercalcemia"
+    ],
+    "answer": 0,
+    "explanation": "Severe accumulation of uremic toxins can cause encephalopathy, pericarditis, nausea and other systemic manifestations."
+  },
+  {
+    "id": 113,
+    "question": "A patient with nephrotic syndrome develops sudden dyspnea and pleuritic chest pain. He is found to have a pulmonary embolism. Which mechanism explains his increased thrombotic risk?",
+    "options": [
+      "Urinary loss of anticoagulant proteins",
+      "Increased erythropoietin",
+      "Reduced fibrinogen production",
+      "Severe thrombocytopenia"
+    ],
+    "answer": 0,
+    "explanation": "Nephrotic syndrome causes urinary loss of antithrombin III and other anticoagulant proteins, promoting thrombosis."
+  },
+  {
+    "id": 114,
+    "question": "A 29-year-old woman develops recurrent episodes of hematuria and mild proteinuria. Her mother and brother have similar kidney disease, and imaging demonstrates bilateral enlarged kidneys containing numerous cysts. Which diagnosis is most likely?",
+    "options": [
+      "Autosomal dominant polycystic kidney disease",
+      "Minimal change disease",
+      "Renal artery stenosis",
+      "Acute pyelonephritis"
+    ],
+    "answer": 0,
+    "explanation": "ADPKD causes bilateral enlarged cystic kidneys, hypertension and progressive CKD, with an autosomal dominant family history."
+  },
+  {
+    "id": 115,
+    "question": "A patient with ADPKD develops sudden severe headache and neck stiffness. Which associated complication should be urgently considered?",
+    "options": [
+      "Ruptured intracranial berry aneurysm",
+      "Renal papillary necrosis",
+      "Acute cystitis",
+      "Ureteric stone only"
+    ],
+    "answer": 0,
+    "explanation": "ADPKD is associated with intracranial saccular/berry aneurysms, which can rupture and cause subarachnoid hemorrhage."
+  },
+  {
+    "id": 116,
+    "question": "A patient with long-standing hypertension develops progressively worsening renal function. Renal ultrasound shows small, shrunken kidneys, and urinalysis shows relatively little protein. Which diagnosis is most likely?",
+    "options": [
+      "Hypertensive nephrosclerosis",
+      "Minimal change disease",
+      "Membranous nephropathy",
+      "Acute interstitial nephritis"
+    ],
+    "answer": 0,
+    "explanation": "Chronic hypertension causes vascular and glomerular injury, producing small contracted kidneys and gradual CKD."
+  },
+  {
+    "id": 117,
+    "question": "A patient presents with severe hypertension, headache, visual disturbance and acute kidney injury. Blood pressure is 230/140 mmHg with retinal changes. Which condition is most likely?",
+    "options": [
+      "Hypertensive emergency",
+      "Uncomplicated hypertension",
+      "Nephrotic syndrome",
+      "Renal colic"
+    ],
+    "answer": 0,
+    "explanation": "Severe hypertension accompanied by acute target-organ damage, such as AKI or retinopathy, represents a hypertensive emergency."
+  },
+  {
+    "id": 118,
+    "question": "A young woman develops hypertension that remains difficult to control despite three medications. Imaging demonstrates narrowing of a renal artery. Which mechanism most directly explains her hypertension?",
+    "options": [
+      "Increased renin secretion causing activation of RAAS",
+      "Reduced aldosterone secretion",
+      "Increased natriuresis",
+      "Reduced sympathetic activity"
+    ],
+    "answer": 0,
+    "explanation": "Renal artery stenosis reduces renal perfusion, stimulating renin → angiotensin II → aldosterone, resulting in hypertension."
+  },
+  {
+    "id": 119,
+    "question": "A patient with severe diarrhea develops weakness and muscle cramps. Laboratory testing shows potassium of 2.5 mEq/L and metabolic alkalosis. Which ECG finding is most likely?",
+    "options": [
+      "U waves",
+      "Peaked T waves",
+      "Widened QRS due to hyperkalemia",
+      "Shortened QT from hypercalcemia"
+    ],
+    "answer": 0,
+    "explanation": "Hypokalemia classically produces flattened T waves, ST depression and prominent U waves."
+  },
+  {
+    "id": 120,
+    "question": "A 67-year-old man with advanced CKD presents with progressive fatigue, anorexia, nausea, pruritus and worsening edema. His eGFR has fallen to 8 mL/min/1.73 m² despite optimal medical therapy. Which finding would most strongly support initiation of renal replacement therapy?",
+    "options": [
+      "Refractory uremic symptoms and complications",
+      "Mild microscopic hematuria",
+      "Stable creatinine for several months",
+      "Mild isolated proteinuria"
+    ],
+    "answer": 0,
+    "explanation": "Dialysis is indicated by refractory uremic symptoms, severe electrolyte abnormalities, refractory acidosis, volume overload or other major complications, rather than eGFR alone."
+  }
+];
