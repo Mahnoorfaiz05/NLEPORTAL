@@ -35,7 +35,7 @@ function cookie(request:Request,name:string){
 }
 async function studentFrom(request:Request){
   const token=cookie(request,SESSION_COOKIE); if(!token)return null;
-  const row=await (await rawDb()).prepare("SELECT s.student_id studentId,s.name FROM sessions x JOIN students s ON s.student_id=x.student_id WHERE x.token=? AND x.expires_at>? AND s.active=1").bind(token,new Date().toISOString()).first<{studentId:string;name:string}>();
+  const row=await (await rawDb()).prepare('SELECT s.student_id AS "studentId",s.name FROM sessions x JOIN students s ON s.student_id=x.student_id WHERE x.token=? AND x.expires_at>? AND s.active=1').bind(token,new Date().toISOString()).first<{studentId:string;name:string}>();
   return row||null;
 }
 function json(data:unknown,status=200,headers:HeadersInit={}){return Response.json(data,{status,headers});}
@@ -48,7 +48,7 @@ export async function GET(request:Request){
   if(action==="session"){
     const student=await studentFrom(request);
     if(!student)return json({authenticated:false,tests});
-    const rows=await (await rawDb()).prepare("SELECT test_slug testSlug,status,score,total,started_at startedAt,submitted_at submittedAt FROM attempts WHERE student_id=?").bind(student.studentId).all();
+    const rows=await (await rawDb()).prepare('SELECT test_slug AS "testSlug",status,score,total,started_at AS "startedAt",submitted_at AS "submittedAt" FROM attempts WHERE student_id=?').bind(student.studentId).all();
     return json({authenticated:true,student,tests,attempts:rows.results});
   }
   if(action==="test"){
@@ -58,23 +58,23 @@ export async function GET(request:Request){
     const existing=await (await rawDb()).prepare("SELECT status,score,total FROM attempts WHERE student_id=? AND test_slug=?").bind(student.studentId,slug).first<{status:string;score:number;total:number}>();
     if(existing?.status==="completed")return json({error:"This test has already been completed.",completed:true},409);
     if(!existing)await (await rawDb()).prepare("INSERT INTO attempts(student_id,test_slug,status,started_at,total) VALUES(?,?,?,?,?)").bind(student.studentId,slug,"in_progress",new Date().toISOString(),bank.length).run();
-    const saved=await (await rawDb()).prepare("SELECT question_id questionId,selected,correct FROM answers WHERE student_id=? AND test_slug=? ORDER BY question_id").bind(student.studentId,slug).all();
+    const saved=await (await rawDb()).prepare('SELECT question_id AS "questionId",selected,correct FROM answers WHERE student_id=? AND test_slug=? ORDER BY question_id').bind(student.studentId,slug).all();
     const map=new Map((saved.results as Array<{questionId:number;selected:number;correct:number}>).map(x=>[x.questionId,x]));
     return json({test:meta,questions:bank.map(q=>({id:q.id,question:q.question,options:q.options})),saved:[...map.values()]});
   }
   if(action==="result"){
     const student=await studentFrom(request); if(!student)return json({error:"Please sign in."},401);
     const slug=url.searchParams.get("slug")||"", bank=questionBanks[slug],meta=safeTest(slug);
-    const attempt=await (await rawDb()).prepare("SELECT status,score,total,submitted_at submittedAt FROM attempts WHERE student_id=? AND test_slug=?").bind(student.studentId,slug).first<{status:string;score:number;total:number;submittedAt:string}>();
+    const attempt=await (await rawDb()).prepare('SELECT status,score,total,submitted_at AS "submittedAt" FROM attempts WHERE student_id=? AND test_slug=?').bind(student.studentId,slug).first<{status:string;score:number;total:number;submittedAt:string}>();
     if(!bank||!meta||attempt?.status!=="completed")return json({error:"Completed result not found."},404);
-    const rows=await (await rawDb()).prepare("SELECT question_id questionId,selected,correct FROM answers WHERE student_id=? AND test_slug=? ORDER BY question_id").bind(student.studentId,slug).all();
+    const rows=await (await rawDb()).prepare('SELECT question_id AS "questionId",selected,correct FROM answers WHERE student_id=? AND test_slug=? ORDER BY question_id').bind(student.studentId,slug).all();
     const selected=new Map((rows.results as Array<{questionId:number;selected:number;correct:number}>).map(x=>[x.questionId,x]));
     return json({test:meta,attempt,questions:bank.map(q=>({...q,selected:selected.get(q.id)?.selected??null,isCorrect:Boolean(selected.get(q.id)?.correct)}))});
   }
   if(action==="admin"){
     if(!ADMIN_KEY||request.headers.get("x-admin-key")!==ADMIN_KEY)return json({error:"Invalid admin access code."},403);
-    const students=await (await rawDb()).prepare("SELECT s.student_id studentId,s.name,s.active,s.created_at createdAt,EXISTS(SELECT 1 FROM sessions x WHERE x.student_id=s.student_id AND x.expires_at>?) loggedIn FROM students s ORDER BY s.created_at DESC").bind(new Date().toISOString()).all();
-    const results=await (await rawDb()).prepare("SELECT a.student_id studentId,s.name,a.test_slug testSlug,a.status,a.score,a.total,a.started_at startedAt,a.submitted_at submittedAt FROM attempts a JOIN students s ON s.student_id=a.student_id ORDER BY a.started_at DESC").all();
+    const students=await (await rawDb()).prepare('SELECT s.student_id AS "studentId",s.name,s.active,s.created_at AS "createdAt",EXISTS(SELECT 1 FROM sessions x WHERE x.student_id=s.student_id AND x.expires_at>?) AS "loggedIn" FROM students s ORDER BY s.created_at DESC').bind(new Date().toISOString()).all();
+    const results=await (await rawDb()).prepare('SELECT a.student_id AS "studentId",s.name,a.test_slug AS "testSlug",a.status,a.score,a.total,a.started_at AS "startedAt",a.submitted_at AS "submittedAt" FROM attempts a JOIN students s ON s.student_id=a.student_id ORDER BY a.started_at DESC').all();
     return json({students:students.results,results:results.results,tests});
   }
   return json({error:"Unknown action."},400);
@@ -86,7 +86,7 @@ export async function POST(request:Request){
   if(action==="login"){
     const studentId=String(data.studentId||"").trim().toUpperCase(),accessCode=String(data.accessCode||"").trim();
     if(!studentId||!accessCode)return json({error:"Student ID and access code are required."},400);
-    const row=await (await rawDb()).prepare("SELECT student_id studentId,name,access_hash accessHash,active FROM students WHERE student_id=?").bind(studentId).first<{studentId:string;name:string;accessHash:string;active:number}>();
+    const row=await (await rawDb()).prepare('SELECT student_id AS "studentId",name,access_hash AS "accessHash",active FROM students WHERE student_id=?').bind(studentId).first<{studentId:string;name:string;accessHash:string;active:number}>();
     if(!row||!row.active||row.accessHash!==await hash(accessCode))return json({error:"Invalid Student ID or access code."},401);
     const token=crypto.randomUUID()+crypto.randomUUID(),expires=new Date(Date.now()+30*86400000).toISOString();
     await (await rawDb()).prepare("INSERT INTO sessions(token,student_id,expires_at) VALUES(?,?,?)").bind(token,studentId,expires).run();
