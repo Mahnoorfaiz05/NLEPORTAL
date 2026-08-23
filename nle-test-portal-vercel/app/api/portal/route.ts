@@ -59,7 +59,7 @@ export async function GET(request:Request){
   await initDb();
   const url=new URL(request.url), action=url.searchParams.get("action")||"session";
   if(action==="publicTest"){
-    const bank=questionBanks["grand-mock-exam-8"];
+    const bank=questionBanks["public-grand-mock"];
     return json({test:{slug:"public-grand-mock",name:"Free NLE Grand Mock Test",short:"FREE MOCK",icon:"★",color:"#e09b24",questionCount:bank.length,duration:180,category:"grand"},questions:bank.map(q=>({id:q.id,question:q.question,options:q.options}))});
   }
   if(action==="session"){
@@ -103,7 +103,7 @@ export async function POST(request:Request){
   await initDb();
   const data=await body(request),action=String(data.action||"");
   if(action==="publicAnswer"){
-    const bank=questionBanks["grand-mock-exam-8"],id=Number(data.questionId),selected=Number(data.selected),q=bank.find(x=>x.id===id);
+    const bank=questionBanks["public-grand-mock"],id=Number(data.questionId),selected=Number(data.selected),q=bank.find(x=>x.id===id);
     if(!q||!Number.isInteger(selected)||selected<0||selected>=q.options.length)return json({error:"Invalid answer."},400);
     return json({correct:selected===q.answer,correctIndex:q.answer,explanation:q.explanation});
   }
