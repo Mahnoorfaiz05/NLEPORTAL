@@ -91,5 +91,13 @@ export const tests:TestInfo[]=[
   {"slug":"community-family-medicine","name":"Community & Family Medicine","short":"CFM","icon":"◇","color":"#16839a","questionCount":130,"duration":150,"category":"basic"},
   {"slug":"pharmacology","name":"Pharmacology","short":"PHARMA","icon":"⚕","color":"#8a5a35","questionCount":100,"duration":120,"category":"basic"},
   {"slug":"grand-mock-tough","name":"NLE Grand Mock Test - Tough","short":"GRAND TOUGH","icon":"★","color":"#b7791f","questionCount":200,"duration":180,"category":"grand"},
-  {"slug":"grand-mock-moderate","name":"NLE Grand Mock Test - Moderate Conceptual","short":"GRAND MODERATE","icon":"✦","color":"#6b46c1","questionCount":200,"duration":180,"category":"grand"}
+  {"slug":"grand-mock-moderate","name":"NLE Grand Mock Test - Moderate Conceptual","short":"GRAND MODERATE","icon":"✦","color":"#6b46c1","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-1","name":"NLE Grand Mock Exam 1","short":"MOCK 01","icon":"01","color":"#b45309","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-2","name":"NLE Grand Mock Exam 2","short":"MOCK 02","icon":"02","color":"#9f1239","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-3","name":"NLE Grand Mock Exam 3","short":"MOCK 03","icon":"03","color":"#6d28d9","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-4","name":"NLE Grand Mock Exam 4","short":"MOCK 04","icon":"04","color":"#1d4ed8","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-5","name":"NLE Grand Mock Exam 5","short":"MOCK 05","icon":"05","color":"#0f766e","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-6","name":"NLE Grand Mock Exam 6","short":"MOCK 06","icon":"06","color":"#15803d","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-7","name":"NLE Grand Mock Exam 7","short":"MOCK 07","icon":"07","color":"#a16207","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-exam-8","name":"NLE Grand Mock Exam 8","short":"MOCK 08","icon":"08","color":"#be123c","questionCount":200,"duration":180,"category":"grand"}
 ];
