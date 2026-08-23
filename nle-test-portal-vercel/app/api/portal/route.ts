@@ -4,6 +4,8 @@ import { questionBanks, tests } from "../../data";
 export const runtime = "nodejs";
 const ADMIN_KEY = process.env.ADMIN_KEY || "";
 const SESSION_COOKIE = "nle_session";
+type Category="systems"|"basic"|"grand";
+const CATEGORY_CODES:Record<Category,string>={systems:process.env.CATEGORY_SYSTEMS_CODE||"",basic:process.env.CATEGORY_BASIC_CODE||"",grand:process.env.CATEGORY_GRAND_CODE||""};
 type RawStatement={
   bind:(...values:unknown[])=>RawStatement;
   first:<T>()=>Promise<T|null>;
@@ -18,6 +20,7 @@ async function initDb() {
   await db.batch([
     db.prepare("CREATE TABLE IF NOT EXISTS students (student_id TEXT PRIMARY KEY, name TEXT NOT NULL, access_hash TEXT NOT NULL, active INTEGER NOT NULL DEFAULT 1, created_at TEXT NOT NULL)"),
     db.prepare("CREATE TABLE IF NOT EXISTS sessions (token TEXT PRIMARY KEY, student_id TEXT NOT NULL, expires_at TEXT NOT NULL)"),
+    db.prepare("CREATE TABLE IF NOT EXISTS category_unlocks (session_token TEXT NOT NULL, category TEXT NOT NULL, unlocked_at TEXT NOT NULL, PRIMARY KEY(session_token,category))"),
     db.prepare("CREATE TABLE IF NOT EXISTS attempts (student_id TEXT NOT NULL, test_slug TEXT NOT NULL, status TEXT NOT NULL, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL DEFAULT 100, PRIMARY KEY(student_id,test_slug))"),
     db.prepare("CREATE TABLE IF NOT EXISTS answers (student_id TEXT NOT NULL, test_slug TEXT NOT NULL, question_id INTEGER NOT NULL, selected INTEGER NOT NULL, correct INTEGER NOT NULL, answered_at TEXT NOT NULL, PRIMARY KEY(student_id,test_slug,question_id))"),
     db.prepare("CREATE INDEX IF NOT EXISTS answers_attempt_idx ON answers(student_id,test_slug)"),
@@ -38,6 +41,16 @@ async function studentFrom(request:Request){
   const row=await (await rawDb()).prepare('SELECT s.student_id AS "studentId",s.name FROM sessions x JOIN students s ON s.student_id=x.student_id WHERE x.token=? AND x.expires_at>? AND s.active=1').bind(token,new Date().toISOString()).first<{studentId:string;name:string}>();
   return row||null;
 }
+async function sessionFrom(request:Request){
+  const token=cookie(request,SESSION_COOKIE);if(!token)return null;
+  const student=await studentFrom(request);return student?{token,student}:null;
+}
+async function unlockedCategories(request:Request){
+  const token=cookie(request,SESSION_COOKIE);if(!token)return [] as Category[];
+  const rows=await (await rawDb()).prepare("SELECT category FROM category_unlocks WHERE session_token=?").bind(token).all();
+  return (rows.results as Array<{category:Category}>).map(x=>x.category);
+}
+async function categoryAllowed(request:Request,category:Category){return (await unlockedCategories(request)).includes(category);}
 function json(data:unknown,status=200,headers:HeadersInit={}){return Response.json(data,{status,headers});}
 function safeTest(slug:string){return tests.find(t=>t.slug===slug);}
 async function body(request:Request){try{return await request.json() as Record<string,unknown>;}catch{return {};}}
@@ -49,12 +62,13 @@ export async function GET(request:Request){
     const student=await studentFrom(request);
     if(!student)return json({authenticated:false,tests});
     const rows=await (await rawDb()).prepare('SELECT test_slug AS "testSlug",status,score,total,started_at AS "startedAt",submitted_at AS "submittedAt" FROM attempts WHERE student_id=?').bind(student.studentId).all();
-    return json({authenticated:true,student,tests,attempts:rows.results});
+    return json({authenticated:true,student,tests,attempts:rows.results,unlockedCategories:await unlockedCategories(request)});
   }
   if(action==="test"){
     const student=await studentFrom(request); if(!student)return json({error:"Please sign in."},401);
     const slug=url.searchParams.get("slug")||"", meta=safeTest(slug), bank=questionBanks[slug];
     if(!meta||!bank)return json({error:"Test not found."},404);
+    if(!await categoryAllowed(request,meta.category))return json({error:"Unlock this category before opening the test.",categoryLocked:true},403);
     const existing=await (await rawDb()).prepare("SELECT status,score,total FROM attempts WHERE student_id=? AND test_slug=?").bind(student.studentId,slug).first<{status:string;score:number;total:number}>();
     if(existing?.status==="completed")return json({error:"This test has already been completed.",completed:true},409);
     if(!existing)await (await rawDb()).prepare("INSERT INTO attempts(student_id,test_slug,status,started_at,total) VALUES(?,?,?,?,?)").bind(student.studentId,slug,"in_progress",new Date().toISOString(),bank.length).run();
@@ -65,6 +79,7 @@ export async function GET(request:Request){
   if(action==="result"){
     const student=await studentFrom(request); if(!student)return json({error:"Please sign in."},401);
     const slug=url.searchParams.get("slug")||"", bank=questionBanks[slug],meta=safeTest(slug);
+    if(meta&&!await categoryAllowed(request,meta.category))return json({error:"Unlock this category before viewing the result.",categoryLocked:true},403);
     const attempt=await (await rawDb()).prepare('SELECT status,score,total,submitted_at AS "submittedAt" FROM attempts WHERE student_id=? AND test_slug=?').bind(student.studentId,slug).first<{status:string;score:number;total:number;submittedAt:string}>();
     if(!bank||!meta||attempt?.status!=="completed")return json({error:"Completed result not found."},404);
     const rows=await (await rawDb()).prepare('SELECT question_id AS "questionId",selected,correct FROM answers WHERE student_id=? AND test_slug=? ORDER BY question_id').bind(student.studentId,slug).all();
@@ -93,12 +108,23 @@ export async function POST(request:Request){
     return json({ok:true,student:{studentId,name:row.name}},200,{"Set-Cookie":`${SESSION_COOKIE}=${encodeURIComponent(token)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=2592000`});
   }
   if(action==="logout"){
-    const token=cookie(request,SESSION_COOKIE); if(token)await (await rawDb()).prepare("DELETE FROM sessions WHERE token=?").bind(token).run();
+    const token=cookie(request,SESSION_COOKIE); if(token){const db=await rawDb();await db.batch([db.prepare("DELETE FROM category_unlocks WHERE session_token=?").bind(token),db.prepare("DELETE FROM sessions WHERE token=?").bind(token)]);}
     return json({ok:true},200,{"Set-Cookie":`${SESSION_COOKIE}=; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=0`});
+  }
+  if(action==="unlockCategory"){
+    const session=await sessionFrom(request);if(!session)return json({error:"Session expired."},401);
+    const category=String(data.category||"") as Category,accessCode=String(data.accessCode||"").trim();
+    if(!(["systems","basic","grand"] as string[]).includes(category))return json({error:"Invalid category."},400);
+    const expected=CATEGORY_CODES[category];
+    if(!expected)return json({error:"This category password has not been configured by the administrator."},503);
+    if(accessCode!==expected)return json({error:"Incorrect category password."},403);
+    await (await rawDb()).prepare("INSERT INTO category_unlocks(session_token,category,unlocked_at) VALUES(?,?,?) ON CONFLICT(session_token,category) DO NOTHING").bind(session.token,category,new Date().toISOString()).run();
+    return json({ok:true,category});
   }
   if(action==="answer"){
     const student=await studentFrom(request);if(!student)return json({error:"Session expired."},401);
-    const slug=String(data.slug||""),id=Number(data.questionId),selected=Number(data.selected),bank=questionBanks[slug],q=bank?.find(x=>x.id===id);
+    const slug=String(data.slug||""),id=Number(data.questionId),selected=Number(data.selected),bank=questionBanks[slug],meta=safeTest(slug),q=bank?.find(x=>x.id===id);
+    if(meta&&!await categoryAllowed(request,meta.category))return json({error:"Category access is locked."},403);
     if(!q||!Number.isInteger(selected)||selected<0||selected>=q.options.length)return json({error:"Invalid answer."},400);
     const attempt=await (await rawDb()).prepare("SELECT status FROM attempts WHERE student_id=? AND test_slug=?").bind(student.studentId,slug).first<{status:string}>();
     if(attempt?.status!=="in_progress")return json({error:"This attempt is not active."},409);
@@ -111,7 +137,8 @@ export async function POST(request:Request){
   }
   if(action==="submit"){
     const student=await studentFrom(request);if(!student)return json({error:"Session expired."},401);
-    const slug=String(data.slug||""),bank=questionBanks[slug];if(!bank)return json({error:"Test not found."},404);
+    const slug=String(data.slug||""),bank=questionBanks[slug],meta=safeTest(slug);if(!bank||!meta)return json({error:"Test not found."},404);
+    if(!await categoryAllowed(request,meta.category))return json({error:"Category access is locked."},403);
     const score=await (await rawDb()).prepare("SELECT COUNT(*) count,SUM(correct) score FROM answers WHERE student_id=? AND test_slug=?").bind(student.studentId,slug).first<{count:number;score:number}>();
     if((score?.count||0)<bank.length)return json({error:`Please answer all ${bank.length} questions before submitting.`,answered:score?.count||0},400);
     await (await rawDb()).prepare("UPDATE attempts SET status='completed',score=?,submitted_at=? WHERE student_id=? AND test_slug=? AND status='in_progress'").bind(score?.score||0,new Date().toISOString(),student.studentId,slug).run();
