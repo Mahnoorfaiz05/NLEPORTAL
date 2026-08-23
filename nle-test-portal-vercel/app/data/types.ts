@@ -1,5 +1,5 @@
 export type Question={id:number;question:string;options:string[];answer:number;explanation:string};
-export type TestInfo={slug:string;name:string;short:string;icon:string;color:string;questionCount:number;duration:number;category:"systems"|"basic"};
+export type TestInfo={slug:string;name:string;short:string;icon:string;color:string;questionCount:number;duration:number;category:"systems"|"basic"|"grand"};
 export const tests:TestInfo[]=[
   {
     "slug": "cvs",
@@ -89,5 +89,7 @@ export const tests:TestInfo[]=[
   {"slug":"physiology","name":"Physiology","short":"PHYSIO","icon":"⌁","color":"#3d78bd","questionCount":100,"duration":120,"category":"basic"},
   {"slug":"general-pathology","name":"General Pathology","short":"PATH","icon":"◉","color":"#be4f68","questionCount":100,"duration":120,"category":"basic"},
   {"slug":"community-family-medicine","name":"Community & Family Medicine","short":"CFM","icon":"◇","color":"#16839a","questionCount":130,"duration":150,"category":"basic"},
-  {"slug":"pharmacology","name":"Pharmacology","short":"PHARMA","icon":"⚕","color":"#8a5a35","questionCount":100,"duration":120,"category":"basic"}
+  {"slug":"pharmacology","name":"Pharmacology","short":"PHARMA","icon":"⚕","color":"#8a5a35","questionCount":100,"duration":120,"category":"basic"},
+  {"slug":"grand-mock-tough","name":"NLE Grand Mock Test - Tough","short":"GRAND TOUGH","icon":"★","color":"#b7791f","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"grand-mock-moderate","name":"NLE Grand Mock Test - Moderate Conceptual","short":"GRAND MODERATE","icon":"✦","color":"#6b46c1","questionCount":200,"duration":180,"category":"grand"}
 ];
