@@ -4,6 +4,7 @@ import { questionBanks, tests } from "../../data";
 export const runtime = "nodejs";
 const ADMIN_KEY = process.env.ADMIN_KEY || "";
 const SESSION_COOKIE = "nle_session";
+const PUBLIC_COOKIE = "nle_public_visitor";
 type Category="systems"|"basic"|"grand";
 const CATEGORY_CODES:Record<Category,string>={systems:process.env.CATEGORY_SYSTEMS_CODE||"",basic:process.env.CATEGORY_BASIC_CODE||"",grand:process.env.CATEGORY_GRAND_CODE||""};
 type RawStatement={
@@ -21,6 +22,7 @@ async function initDb() {
     db.prepare("CREATE TABLE IF NOT EXISTS students (student_id TEXT PRIMARY KEY, name TEXT NOT NULL, access_hash TEXT NOT NULL, active INTEGER NOT NULL DEFAULT 1, created_at TEXT NOT NULL)"),
     db.prepare("CREATE TABLE IF NOT EXISTS sessions (token TEXT PRIMARY KEY, student_id TEXT NOT NULL, expires_at TEXT NOT NULL)"),
     db.prepare("CREATE TABLE IF NOT EXISTS category_unlocks (session_token TEXT NOT NULL, category TEXT NOT NULL, unlocked_at TEXT NOT NULL, PRIMARY KEY(session_token,category))"),
+    db.prepare("CREATE TABLE IF NOT EXISTS public_attempts (visitor_token TEXT PRIMARY KEY, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL)"),
     db.prepare("CREATE TABLE IF NOT EXISTS attempts (student_id TEXT NOT NULL, test_slug TEXT NOT NULL, status TEXT NOT NULL, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL DEFAULT 100, PRIMARY KEY(student_id,test_slug))"),
     db.prepare("CREATE TABLE IF NOT EXISTS answers (student_id TEXT NOT NULL, test_slug TEXT NOT NULL, question_id INTEGER NOT NULL, selected INTEGER NOT NULL, correct INTEGER NOT NULL, answered_at TEXT NOT NULL, PRIMARY KEY(student_id,test_slug,question_id))"),
     db.prepare("CREATE INDEX IF NOT EXISTS answers_attempt_idx ON answers(student_id,test_slug)"),
@@ -60,7 +62,10 @@ export async function GET(request:Request){
   const url=new URL(request.url), action=url.searchParams.get("action")||"session";
   if(action==="publicTest"){
     const bank=questionBanks["public-grand-mock"];
-    return json({test:{slug:"public-grand-mock",name:"Free NLE Grand Mock Test",short:"FREE MOCK",icon:"★",color:"#e09b24",questionCount:bank.length,duration:180,category:"grand"},questions:bank.map(q=>({id:q.id,question:q.question,options:q.options}))});
+    const existingToken=cookie(request,PUBLIC_COOKIE),visitorToken=existingToken||crypto.randomUUID()+crypto.randomUUID();
+    await (await rawDb()).prepare("INSERT INTO public_attempts(visitor_token,started_at,total) VALUES(?,?,?) ON CONFLICT(visitor_token) DO NOTHING").bind(visitorToken,new Date().toISOString(),bank.length).run();
+    const headers:HeadersInit=existingToken?{}:{"Set-Cookie":`${PUBLIC_COOKIE}=${encodeURIComponent(visitorToken)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=31536000`};
+    return json({test:{slug:"public-grand-mock",name:"Free NLE Grand Mock Test",short:"FREE MOCK",icon:"★",color:"#e09b24",questionCount:bank.length,duration:180,category:"grand"},questions:bank.map(q=>({id:q.id,question:q.question,options:q.options}))},200,headers);
   }
   if(action==="session"){
     const student=await studentFrom(request);
@@ -94,7 +99,9 @@ export async function GET(request:Request){
     if(!ADMIN_KEY||request.headers.get("x-admin-key")!==ADMIN_KEY)return json({error:"Invalid admin access code."},403);
     const students=await (await rawDb()).prepare('SELECT s.student_id AS "studentId",s.name,s.active,s.created_at AS "createdAt",EXISTS(SELECT 1 FROM sessions x WHERE x.student_id=s.student_id AND x.expires_at>?) AS "loggedIn" FROM students s ORDER BY s.created_at DESC').bind(new Date().toISOString()).all();
     const results=await (await rawDb()).prepare('SELECT a.student_id AS "studentId",s.name,a.test_slug AS "testSlug",a.status,a.score,a.total,a.started_at AS "startedAt",a.submitted_at AS "submittedAt" FROM attempts a JOIN students s ON s.student_id=a.student_id ORDER BY a.started_at DESC').all();
-    return json({students:students.results,results:results.results,tests});
+    const publicStats=await (await rawDb()).prepare('SELECT COUNT(*) AS started,COUNT(submitted_at) AS completed FROM public_attempts').first<{started:number;completed:number}>();
+    const publicAttempts=await (await rawDb()).prepare('SELECT started_at AS "startedAt",submitted_at AS "submittedAt",score,total FROM public_attempts ORDER BY started_at DESC LIMIT 50').all();
+    return json({students:students.results,results:results.results,tests,publicStats:{started:Number(publicStats?.started||0),completed:Number(publicStats?.completed||0)},publicAttempts:publicAttempts.results});
   }
   return json({error:"Unknown action."},400);
 }
@@ -106,6 +113,13 @@ export async function POST(request:Request){
     const bank=questionBanks["public-grand-mock"],id=Number(data.questionId),selected=Number(data.selected),q=bank.find(x=>x.id===id);
     if(!q||!Number.isInteger(selected)||selected<0||selected>=q.options.length)return json({error:"Invalid answer."},400);
     return json({correct:selected===q.answer,correctIndex:q.answer,explanation:q.explanation});
+  }
+  if(action==="publicSubmit"){
+    const visitorToken=cookie(request,PUBLIC_COOKIE),bank=questionBanks["public-grand-mock"],score=Number(data.score);
+    if(!visitorToken)return json({error:"Public attempt was not found. Please reopen the test."},400);
+    if(!Number.isInteger(score)||score<0||score>bank.length)return json({error:"Invalid public score."},400);
+    await (await rawDb()).prepare("UPDATE public_attempts SET submitted_at=?,score=?,total=? WHERE visitor_token=?").bind(new Date().toISOString(),score,bank.length,visitorToken).run();
+    return json({ok:true});
   }
   if(action==="login"){
     const studentId=String(data.studentId||"").trim().toUpperCase(),accessCode=String(data.accessCode||"").trim();
