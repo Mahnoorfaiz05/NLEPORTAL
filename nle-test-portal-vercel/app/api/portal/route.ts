@@ -9,10 +9,12 @@ const ADMIN_KEY = process.env.ADMIN_KEY || "";
 const SESSION_COOKIE = "nle_session";
 const PUBLIC_COOKIE = "nle_public_visitor";
 const PUBLIC_COOKIE_2 = "nle_public_visitor_2";
+const PUBLIC_COOKIE_3 = "nle_public_visitor_3";
 const PUBLIC_CUSTOM_COOKIE = "nle_public_custom";
 const PUBLIC_MOCK_2={slug:"public-grand-mock-2",name:"Free Mock Test 2",short:"FREE MOCK 2",icon:"★",color:"#e09b24",questionCount:100,duration:120,category:"grand" as const};
-type Category="systems"|"basic"|"grand";
-const CATEGORY_CODES:Record<Category,string>={systems:process.env.CATEGORY_SYSTEMS_CODE||"",basic:process.env.CATEGORY_BASIC_CODE||"",grand:process.env.CATEGORY_GRAND_CODE||""};
+const PUBLIC_MOCK_3={slug:"public-grand-mock-3",name:"Free Mock Test 3",short:"FREE MOCK 3",icon:"★",color:"#b45309",questionCount:100,duration:120,category:"grand" as const};
+type Category="systems"|"basic"|"grand"|"major";
+const CATEGORY_CODES:Record<Category,string>={systems:process.env.CATEGORY_SYSTEMS_CODE||"",basic:process.env.CATEGORY_BASIC_CODE||"",grand:process.env.CATEGORY_GRAND_CODE||"",major:process.env.CATEGORY_MAJOR_CODE||process.env.CATEGORY_SYSTEMS_CODE||""};
 type RawStatement={
   bind:(...values:unknown[])=>RawStatement;
   first:<T>()=>Promise<T|null>;
@@ -30,6 +32,7 @@ async function initDb() {
     db.prepare("CREATE TABLE IF NOT EXISTS category_unlocks (session_token TEXT NOT NULL, category TEXT NOT NULL, unlocked_at TEXT NOT NULL, PRIMARY KEY(session_token,category))"),
     db.prepare("CREATE TABLE IF NOT EXISTS public_attempts (visitor_token TEXT PRIMARY KEY, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL)"),
     db.prepare("CREATE TABLE IF NOT EXISTS public_attempts_2 (visitor_token TEXT PRIMARY KEY, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL)"),
+    db.prepare("CREATE TABLE IF NOT EXISTS public_attempts_3 (visitor_token TEXT PRIMARY KEY, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL)"),
     db.prepare("CREATE TABLE IF NOT EXISTS attempts (student_id TEXT NOT NULL, test_slug TEXT NOT NULL, status TEXT NOT NULL, started_at TEXT NOT NULL, submitted_at TEXT, score INTEGER, total INTEGER NOT NULL DEFAULT 100, PRIMARY KEY(student_id,test_slug))"),
     db.prepare("CREATE TABLE IF NOT EXISTS answers (student_id TEXT NOT NULL, test_slug TEXT NOT NULL, question_id INTEGER NOT NULL, selected INTEGER NOT NULL, correct INTEGER NOT NULL, answered_at TEXT NOT NULL, PRIMARY KEY(student_id,test_slug,question_id))"),
     db.prepare("CREATE INDEX IF NOT EXISTS answers_attempt_idx ON answers(student_id,test_slug)"),
@@ -93,6 +96,14 @@ export async function GET(request:Request){
     const headers:HeadersInit=existingToken?{}:{"Set-Cookie":`${PUBLIC_COOKIE_2}=${encodeURIComponent(visitorToken)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=31536000`};
     return json({test:{...PUBLIC_MOCK_2,questionCount:bank.length},questions:bank.map(q=>({id:q.id,question:q.question,options:q.options}))},200,headers);
   }
+  if(action==="publicTest3"){
+    const bank=questionBanks["public-grand-mock-3"];
+    if(!bank)return json({error:"Test not found."},404);
+    const existingToken=cookie(request,PUBLIC_COOKIE_3),visitorToken=existingToken||crypto.randomUUID()+crypto.randomUUID();
+    await (await rawDb()).prepare("INSERT INTO public_attempts_3(visitor_token,started_at,total) VALUES(?,?,?) ON CONFLICT(visitor_token) DO NOTHING").bind(visitorToken,new Date().toISOString(),bank.length).run();
+    const headers:HeadersInit=existingToken?{}:{"Set-Cookie":`${PUBLIC_COOKIE_3}=${encodeURIComponent(visitorToken)}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=31536000`};
+    return json({test:{...PUBLIC_MOCK_3,questionCount:bank.length},questions:bank.map(q=>({id:q.id,question:q.question,options:q.options}))},200,headers);
+  }
   if(action==="session"){
     const student=await studentFrom(request);
     const extra=await visibleStudentTests(await rawDb());
@@ -141,7 +152,9 @@ export async function GET(request:Request){
     const publicAttempts=await (await rawDb()).prepare('SELECT started_at AS "startedAt",submitted_at AS "submittedAt",score,total FROM public_attempts ORDER BY started_at DESC LIMIT 50').all();
     const publicStats2=await (await rawDb()).prepare('SELECT COUNT(*) AS started,COUNT(submitted_at) AS completed FROM public_attempts_2').first<{started:number;completed:number}>();
     const publicAttempts2=await (await rawDb()).prepare('SELECT started_at AS "startedAt",submitted_at AS "submittedAt",score,total FROM public_attempts_2 ORDER BY started_at DESC LIMIT 50').all();
-    return json({students:students.results,results:results.results,tests,publicStats:{started:Number(publicStats?.started||0),completed:Number(publicStats?.completed||0)},publicAttempts:publicAttempts.results,publicStats2:{started:Number(publicStats2?.started||0),completed:Number(publicStats2?.completed||0)},publicAttempts2:publicAttempts2.results});
+    const publicStats3=await (await rawDb()).prepare('SELECT COUNT(*) AS started,COUNT(submitted_at) AS completed FROM public_attempts_3').first<{started:number;completed:number}>();
+    const publicAttempts3=await (await rawDb()).prepare('SELECT started_at AS "startedAt",submitted_at AS "submittedAt",score,total FROM public_attempts_3 ORDER BY started_at DESC LIMIT 50').all();
+    return json({students:students.results,results:results.results,tests,publicStats:{started:Number(publicStats?.started||0),completed:Number(publicStats?.completed||0)},publicAttempts:publicAttempts.results,publicStats2:{started:Number(publicStats2?.started||0),completed:Number(publicStats2?.completed||0)},publicAttempts2:publicAttempts2.results,publicStats3:{started:Number(publicStats3?.started||0),completed:Number(publicStats3?.completed||0)},publicAttempts3:publicAttempts3.results});
   }
   if(action==="adminCustomTests"){
     if(!isAdmin(request))return json({error:"Invalid admin access code."},403);
@@ -204,6 +217,18 @@ export async function POST(request:Request){
     await (await rawDb()).prepare("UPDATE public_attempts_2 SET submitted_at=?,score=?,total=? WHERE visitor_token=?").bind(new Date().toISOString(),score,bank.length,visitorToken).run();
     return json({ok:true});
   }
+  if(action==="publicAnswer3"){
+    const bank=questionBanks["public-grand-mock-3"],id=Number(data.questionId),selected=Number(data.selected),q=bank.find(x=>x.id===id);
+    if(!q||!Number.isInteger(selected)||selected<0||selected>=q.options.length)return json({error:"Invalid answer."},400);
+    return json({correct:selected===q.answer,correctIndex:q.answer,explanation:q.explanation});
+  }
+  if(action==="publicSubmit3"){
+    const visitorToken=cookie(request,PUBLIC_COOKIE_3),bank=questionBanks["public-grand-mock-3"],score=Number(data.score);
+    if(!visitorToken)return json({error:"Public attempt was not found. Please reopen the test."},400);
+    if(!Number.isInteger(score)||score<0||score>bank.length)return json({error:"Invalid public score."},400);
+    await (await rawDb()).prepare("UPDATE public_attempts_3 SET submitted_at=?,score=?,total=? WHERE visitor_token=?").bind(new Date().toISOString(),score,bank.length,visitorToken).run();
+    return json({ok:true});
+  }
   if(action==="publicAnswerCustom"){
     const custom=await resolveCustom(await rawDb(),String(data.slug||""));
     if(!custom||!studentVisible(custom.row)||custom.row.appearIn!=="free")return json({error:"Test not found."},404);
@@ -238,7 +263,7 @@ export async function POST(request:Request){
   if(action==="unlockCategory"){
     const session=await sessionFrom(request);if(!session)return json({error:"Session expired."},401);
     const category=String(data.category||"") as Category,accessCode=String(data.accessCode||"").trim();
-    if(!(["systems","basic","grand"] as string[]).includes(category))return json({error:"Invalid category."},400);
+    if(!(["systems","basic","grand","major"] as string[]).includes(category))return json({error:"Invalid category."},400);
     const expected=CATEGORY_CODES[category];
     if(!expected)return json({error:"This category password has not been configured by the administrator."},503);
     if(accessCode!==expected)return json({error:"Incorrect category password."},403);

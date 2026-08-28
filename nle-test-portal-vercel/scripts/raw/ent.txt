@@ -1,0 +1,450 @@
+Q1. A 35-year-old man presents with recurrent episodes of unilateral nasal obstruction, purulent nasal discharge, facial pressure, and reduction in smell for more than 12 weeks. CT demonstrates mucosal thickening involving the maxillary and anterior ethmoid sinuses with narrowing of the osteomeatal complex. Despite appropriate medical therapy, symptoms persist. Which anatomical pathway is most important for drainage of the maxillary sinus?
+A. Sphenoethmoidal recess
+B. Middle meatus through the hiatus semilunaris
+C. Superior meatus through the sphenoethmoidal recess
+D. Inferior meatus through the nasolacrimal duct
+E. Choana directly into the nasopharynx
+Answer: B.
+Explanation: The maxillary sinus drains into the middle meatus through the ostium and infundibulum/hiatus semilunaris as part of the osteomeatal complex. Obstruction here predisposes to recurrent maxillary and anterior ethmoid sinusitis.
+
+Q2. A 16-year-old boy presents with several months of progressive unilateral nasal obstruction and recurrent episodes of profuse epistaxis. Examination reveals a smooth reddish mass in the posterior nasal cavity. CT demonstrates a strongly enhancing mass extending toward the pterygopalatine fossa with anterior bowing of the posterior maxillary wall. Which diagnosis is most likely?
+A. Antrochoanal polyp
+B. Juvenile nasopharyngeal angiofibroma
+C. Nasal septal hematoma
+D. Squamous papilloma
+E. Foreign body granuloma
+Answer: B.
+Explanation: The combination of an adolescent male, recurrent severe epistaxis, nasal obstruction, and a hypervascular nasopharyngeal mass is classic for juvenile nasopharyngeal angiofibroma. The pterygopalatine fossa involvement and anterior bowing of the posterior maxillary wall are characteristic imaging clues. Biopsy is generally avoided because of severe bleeding risk.
+
+Q3. A 48-year-old woman presents with persistent unilateral nasal obstruction, intermittent epistaxis, facial pain, and decreased smell. Nasal endoscopy demonstrates an irregular friable mass arising from the lateral nasal wall. CT shows destruction of adjacent bone. Which investigation is most important for establishing the definitive diagnosis?
+A. Nasal peak inspiratory flow
+B. Pure-tone audiometry
+C. Histopathological examination of a biopsy specimen
+D. Dix-Hallpike maneuver
+E. Tympanometry
+Answer: C.
+Explanation: A destructive persistent nasal mass raises concern for malignancy, and definitive diagnosis requires histopathology. CT or MRI assesses local extension and staging, but imaging alone cannot establish the exact histologic diagnosis.
+
+Q4. A 7-year-old child has chronic mouth breathing, snoring, hyponasal speech, recurrent otitis media with effusion, and difficulty sleeping. Examination reveals enlarged lymphoid tissue obstructing the posterior nasal airway. Which additional finding is most likely?
+A. Improved Eustachian tube ventilation
+B. Conductive hearing loss due to Eustachian tube dysfunction
+C. Sensorineural hearing loss due to cochlear destruction
+D. Isolated anosmia from optic nerve compression
+E. Facial nerve paralysis as the usual presentation
+Answer: B.
+Explanation: Enlarged adenoids/pharyngeal tonsils can obstruct the Eustachian tube opening, causing poor middle-ear ventilation and otitis media with effusion, producing conductive hearing loss. Chronic obstruction also causes mouth breathing and sleep-disordered breathing.
+
+Q5. A 6-year-old boy presents with high fever, severe sore throat, muffled voice, drooling, and inspiratory stridor. He is sitting upright and refuses to lie down. His parents report that symptoms progressed rapidly over several hours. Which is the most appropriate initial approach?
+A. Forceful oropharyngeal examination with a tongue depressor
+B. Keep the child calm and secure the airway in a controlled setting
+C. Send the child immediately for an outpatient CT scan
+D. Ask the child to lie supine for detailed examination
+E. Treat only with oral antihistamines
+Answer: B.
+Explanation: The presentation strongly suggests acute epiglottitis, an airway emergency. Agitation and forceful examination can precipitate complete airway obstruction. The child should remain calm while an experienced team prepares for controlled airway management and appropriate antibiotics.
+
+Q6. A 4-year-old child presents with barking cough, hoarseness, inspiratory stridor, and low-grade fever that became worse at night. He has no drooling and is able to swallow normally. Which anatomical region is primarily involved in the common childhood condition responsible for these symptoms?
+A. Supraglottic epiglottis
+B. Subglottic larynx
+C. External auditory canal
+D. Nasopharynx
+E. Esophageal hiatus
+Answer: B.
+Explanation: Croup (laryngotracheobronchitis) typically causes barking cough, hoarseness, and inspiratory stridor due to viral inflammation and edema around the subglottic region. The classic radiologic finding is the “steeple sign.”
+
+Q7. A 2-year-old child develops sudden coughing, choking, unilateral wheezing, and respiratory distress while eating peanuts. Breath sounds are reduced on one side. A chest radiograph is initially inconclusive. What is the most appropriate next step when clinical suspicion remains high?
+A. Reassurance and discharge
+B. Diagnostic bronchoscopy
+C. Oral antibiotics for seven days
+D. Tonsillectomy
+E. Spirometry after six months
+Answer: B.
+Explanation: Foreign-body aspiration should be strongly suspected with sudden choking followed by unilateral wheezing or decreased breath sounds. A normal or inconclusive radiograph does not exclude aspiration because many objects are radiolucent. Bronchoscopy is diagnostic and therapeutic.
+
+Q8. A 42-year-old man presents with severe unilateral sore throat, fever, muffled “hot-potato” voice, drooling, and difficulty opening his mouth. Examination shows marked swelling of one tonsillar region with displacement of the uvula toward the opposite side. Which diagnosis is most likely?
+A. Peritonsillar abscess
+B. Viral pharyngitis
+C. Acute epiglottitis
+D. Retropharyngeal abscess
+E. Laryngitis
+Answer: A.
+Explanation: Peritonsillar abscess causes severe unilateral throat pain, trismus, muffled voice, drooling, and uvular deviation away from the affected side. Treatment generally involves drainage plus appropriate antimicrobial therapy and airway assessment when indicated.
+
+Q9. A 5-year-old child develops fever, dysphagia, neck stiffness, drooling, and respiratory distress. Examination reveals posterior pharyngeal wall bulging. Which anatomical space is most likely involved?
+A. Retropharyngeal space
+B. Peritonsillar space
+C. Parotid space
+D. Submandibular space only
+E. Middle ear cavity
+Answer: A.
+Explanation: Retropharyngeal abscess is particularly important in young children because of lymphatic drainage from the nasopharynx and upper respiratory tract. Fever, dysphagia, drooling, neck stiffness, and posterior pharyngeal swelling are characteristic. Airway compromise is a major concern.
+
+Q10. A 61-year-old chronic smoker develops persistent hoarseness for eight weeks. He has no fever or recent upper respiratory infection. Flexible laryngoscopy demonstrates an irregular lesion involving the true vocal cord. Which symptom may represent an early presentation because of the anatomy of the lesion?
+A. Hoarseness
+B. Severe epistaxis
+C. Conductive deafness
+D. Vertigo
+E. Dysuria
+Answer: A.
+Explanation: Glottic laryngeal carcinoma often presents relatively early with persistent hoarseness because the true vocal cords are directly involved in phonation. Persistent unexplained hoarseness, particularly in a smoker, requires laryngoscopic assessment.
+
+Q11. A 58-year-old man with a long smoking history develops progressive dysphagia, odynophagia, weight loss, and a palpable cervical lymph node. Endoscopy demonstrates a mass in the hypopharynx. Which histological type is most likely?
+A. Squamous cell carcinoma
+B. Hepatocellular carcinoma
+C. Renal cell carcinoma
+D. Glioblastoma
+E. Papillary thyroid carcinoma
+Answer: A.
+Explanation: Most cancers of the larynx, pharynx, and hypopharynx are squamous cell carcinomas. Tobacco and alcohol are major risk factors, and hypopharyngeal cancers may present late with cervical nodal metastasis.
+
+Q12. A 40-year-old woman develops progressive dysphagia that initially occurs with solid foods and later with liquids. She has lost 8 kg over six months. Which underlying mechanism is most likely?
+A. Mechanical narrowing of the esophageal lumen
+B. Primary vestibular dysfunction
+C. Isolated pharyngeal muscle weakness
+D. Excessive endolymphatic pressure
+E. External auditory canal obstruction
+Answer: A.
+Explanation: Dysphagia that starts with solids and progresses to liquids suggests a mechanical obstruction, such as malignancy or stricture. Motility disorders typically cause difficulty with both solids and liquids from the beginning.
+
+Q13. A 29-year-old woman develops recurrent attacks of vertigo lasting several hours, associated with unilateral tinnitus, fluctuating hearing loss, and aural fullness. Between attacks, examination is relatively normal. Which diagnosis best explains the combination?
+A. Benign paroxysmal positional vertigo
+B. Ménière disease
+C. Vestibular schwannoma
+D. Otosclerosis
+E. Acute otitis externa
+Answer: B.
+Explanation: Ménière disease classically produces recurrent spontaneous vertigo, fluctuating sensorineural hearing loss, tinnitus, and aural fullness. The underlying mechanism is associated with endolymphatic hydrops.
+
+Q14. A 23-year-old man experiences brief episodes of intense spinning lasting approximately 20–30 seconds whenever he rolls over in bed. There is no hearing loss or tinnitus. Dix-Hallpike testing produces transient torsional nystagmus. Which treatment is most appropriate?
+A. Epley canalith-repositioning maneuver
+B. Immediate cochlear implantation
+C. Long-term systemic antibiotics
+D. Mastoidectomy
+E. Tympanoplasty
+Answer: A.
+Explanation: This is classic posterior-canal BPPV due to displaced otoconia. The Epley maneuver repositions the particles toward the utricle and is highly effective. Persistent symptoms may require additional vestibular assessment.
+
+Q15. A 51-year-old woman develops acute continuous vertigo and vomiting after a viral upper respiratory infection. Symptoms persist for several days. She has horizontal nystagmus but no hearing loss, tinnitus, weakness, diplopia, or sensory deficits. Which diagnosis is most likely?
+A. Vestibular neuritis
+B. Ménière disease
+C. BPPV
+D. Otosclerosis
+E. Cholesteatoma
+Answer: A.
+Explanation: Vestibular neuritis produces acute prolonged vertigo without hearing loss, often following a viral illness. Labyrinthitis involves the cochlear component and therefore produces associated hearing loss.
+
+Q16. A 64-year-old man develops progressive unilateral sensorineural hearing loss and persistent unilateral tinnitus. Otoscopy is normal. MRI demonstrates a mass extending from the internal auditory canal into the cerebellopontine angle. Which additional cranial nerve may become affected as the tumor enlarges?
+A. CN V or CN VII
+B. CN I only
+C. CN II only
+D. CN XII only
+E. CN III only
+Answer: A.
+Explanation: A vestibular schwannoma arises from CN VIII and commonly grows in the internal auditory canal and cerebellopontine angle. Larger lesions may compress adjacent CN VII, causing facial weakness, or CN V, causing facial sensory changes and reduced corneal reflex.
+
+Q17. A 31-year-old woman has gradually progressive conductive hearing loss. Otoscopy is normal. She reports that her hearing became worse during pregnancy. Audiometry demonstrates an air-bone gap, and the Rinne test is negative on the affected side. Which structure is primarily affected?
+A. Stapes footplate
+B. Cochlear nerve
+C. Tympanic membrane only
+D. Semicircular canals
+E. External auditory canal
+Answer: A.
+Explanation: Otosclerosis causes abnormal bone remodeling around the stapes footplate, producing progressive conductive hearing loss with a normal-appearing tympanic membrane. Symptoms may worsen during pregnancy.
+
+Q18. A 10-year-old boy has chronic foul-smelling unilateral ear discharge and progressive conductive hearing loss. Otoscopy shows a retraction pocket containing keratin debris in the attic region. Which complication is particularly characteristic of the untreated condition?
+A. Ossicular erosion
+B. Hyperopia
+C. Acute angle-closure glaucoma
+D. Vocal-cord paralysis as the first complication
+E. Nasolacrimal duct obstruction
+Answer: A.
+Explanation: Cholesteatoma contains keratinizing squamous epithelium and can progressively erode surrounding bone. Ossicular destruction produces conductive hearing loss; other complications include facial nerve palsy, labyrinthine fistula, and intracranial infection.
+
+Q19. A 19-year-old student develops severe ear pain after frequent swimming. Manipulation of the tragus causes marked pain. The external auditory canal is swollen and filled with purulent material. Which pathogen is most strongly associated?
+A. Pseudomonas aeruginosa
+B. Streptococcus pneumoniae
+C. Mycoplasma pneumoniae
+D. Epstein-Barr virus
+E. Helicobacter pylori
+Answer: A.
+Explanation: Acute otitis externa is strongly associated with Pseudomonas, particularly after swimming. Pain with tragal or pinna manipulation is an important clinical clue. Topical antimicrobial treatment and keeping the ear dry are key management principles.
+
+Q20. A 69-year-old man with poorly controlled diabetes has severe persistent nocturnal otalgia and purulent otorrhea despite treatment for otitis externa. Granulation tissue is present in the external auditory canal. Which complication is most concerning?
+A. Skull-base osteomyelitis
+B. Cataract
+C. Retinal detachment
+D. Otosclerosis
+E. Benign positional vertigo
+Answer: A.
+Explanation: Malignant otitis externa occurs predominantly in older diabetic or immunocompromised patients and can extend from the external canal to the skull base. Pseudomonas is the classic pathogen, and cranial nerve involvement may occur.
+
+Q21. A 6-year-old child develops fever and severe ear pain several days after acute otitis media. Examination reveals postauricular erythema, swelling, tenderness, and displacement of the auricle. CT demonstrates opacification and destruction of mastoid air cells. Which diagnosis is most likely?
+A. Acute mastoiditis
+B. Ménière disease
+C. Otosclerosis
+D. Vestibular neuritis
+E. Cerumen impaction
+Answer: A.
+Explanation: Acute mastoiditis is a complication of otitis media involving infection of mastoid air cells. Postauricular swelling and auricular displacement are classic findings. Serious complications include abscess formation, facial palsy, meningitis, and intracranial spread.
+
+Q22. A 43-year-old man develops sudden unilateral sensorineural hearing loss over 12 hours. There is no ear discharge, trauma, or obvious middle-ear abnormality. Audiometry confirms a significant sensorineural deficit. Which treatment is most appropriate to consider urgently?
+A. Corticosteroids
+B. Ear syringing only
+C. Oral antihistamine alone
+D. Immediate tympanoplasty
+E. Observation for several months
+Answer: A.
+Explanation: Sudden sensorineural hearing loss requires urgent evaluation and treatment. Corticosteroids are commonly used, with intratympanic steroid therapy considered in selected patients. Retrocochlear pathology such as vestibular schwannoma should also be considered during evaluation.
+
+Q23. A 32-year-old woman develops a painless swelling in the neck that moves upward with swallowing. Thyroid examination suggests a solitary nodule. Which nerve is particularly at risk during thyroid surgery because of its close relationship to the inferior thyroid artery?
+A. Recurrent laryngeal nerve
+B. Optic nerve
+C. Vestibular nerve
+D. Facial nerve
+E. Olfactory nerve
+Answer: A.
+Explanation: The recurrent laryngeal nerve has a close relationship with the inferior thyroid artery and is vulnerable during thyroid surgery. Injury can cause ipsilateral vocal-cord paralysis and hoarseness; bilateral injury can produce serious airway compromise.
+
+Q24. A patient undergoes thyroid surgery and develops hoarseness immediately afterward. Laryngoscopy demonstrates unilateral vocal-cord paralysis. Which nerve injury most directly explains this finding?
+A. Recurrent laryngeal nerve
+B. Hypoglossal nerve
+C. Glossopharyngeal nerve
+D. Trigeminal nerve
+E. Phrenic nerve
+Answer: A.
+Explanation: The recurrent laryngeal nerve supplies almost all intrinsic muscles of the larynx. Unilateral injury commonly produces hoarseness due to vocal-cord paralysis. Bilateral injury can cause stridor and potentially life-threatening airway obstruction.
+
+Q25. A 46-year-old woman has difficulty producing a high-pitched voice following neck surgery. Her vocal cords move but she cannot adequately increase vocal-cord tension. Which nerve is most likely injured?
+A. External branch of superior laryngeal nerve
+B. Recurrent laryngeal nerve
+C. Hypoglossal nerve
+D. Glossopharyngeal nerve
+E. Greater auricular nerve
+Answer: A.
+Explanation: The external branch of the superior laryngeal nerve supplies the cricothyroid muscle, which tenses and elongates the vocal cords. Injury produces difficulty generating high-pitched sounds and vocal fatigue.
+
+Q26. A 36-year-old man presents with severe nasal obstruction following trauma to the nose two days earlier. Examination reveals bilateral boggy swelling of the nasal septum. Which complication is most concerning if this condition is not promptly drained?
+A. Septal cartilage necrosis leading to saddle-nose deformity
+B. Conductive deafness from stapes fixation
+C. Retinal detachment
+D. Ménière disease
+E. Vocal-cord paralysis
+Answer: A.
+Explanation: A septal hematoma can compromise blood supply to the avascular cartilage of the nasal septum. Untreated hematoma can lead to cartilage necrosis, infection, and saddle-nose deformity. It requires urgent drainage.
+
+Q27. A 25-year-old man sustains nasal trauma and develops persistent nasal obstruction. Examination reveals deviation of the nasal septum but no hematoma. Which symptom is most directly caused by significant septal deviation?
+A. Impaired nasal airflow
+B. Sensorineural hearing loss
+C. Retinal hemorrhage
+D. Vertigo due to vestibular nerve compression
+E. Vocal-cord paralysis
+Answer: A.
+Explanation: Significant deviation of the nasal septum can obstruct nasal airflow, often causing unilateral or alternating nasal obstruction. It may contribute to recurrent sinus symptoms, epistaxis, and sleep-disordered breathing.
+
+Q28. A 72-year-old hypertensive man presents with spontaneous recurrent epistaxis. Bleeding is brisk and appears to originate from deep within the nasal cavity. Anterior nasal packing fails to control the bleeding. Which source is most likely?
+A. Posterior nasal arterial circulation
+B. Anterior septal capillaries only
+C. External auditory canal
+D. Lacrimal gland
+E. Nasopharyngeal tonsil
+Answer: A.
+Explanation: Posterior epistaxis occurs more commonly in older hypertensive patients and may produce significant bleeding into the pharynx. It is more difficult to visualize and control than anterior epistaxis and may require posterior packing or endoscopic arterial control.
+
+Q29. A 17-year-old adolescent presents with recurrent epistaxis. Examination identifies the bleeding point on the anterior nasal septum. Which vascular region is most commonly responsible for anterior epistaxis?
+A. Kiesselbach plexus
+B. Circle of Willis
+C. Pterygoid venous plexus only
+D. Cavernous sinus
+E. Retinal arterial arcade
+Answer: A.
+Explanation: Kiesselbach plexus (Little area) is located on the anterior nasal septum and is the most common site of anterior epistaxis, especially in children and young adults. It contains anastomoses from several arterial branches.
+
+Q30. A 45-year-old man presents with progressive nasal obstruction, epistaxis, facial numbness, and a cervical lymph node. Imaging reveals a mass arising in the nasopharynx. Which lymph-node pattern is particularly concerning for nasopharyngeal carcinoma?
+A. Cervical lymphadenopathy
+B. Inguinal lymphadenopathy only
+C. Axillary lymphadenopathy only
+D. Popliteal lymphadenopathy
+E. No possibility of lymphatic spread
+Answer: A.
+Explanation: Nasopharyngeal carcinoma commonly presents with cervical lymphadenopathy because of rich lymphatic drainage. Other presentations include unilateral hearing loss from Eustachian tube obstruction, nasal obstruction, epistaxis, and cranial nerve deficits.
+
+Q31. A 28-year-old woman develops sudden unilateral facial weakness involving the forehead, eye closure, and lower face. There are no limb deficits or other neurologic findings. Which diagnosis is most likely?
+A. Lower motor neuron facial nerve palsy
+B. Upper motor neuron stroke
+C. Trigeminal neuralgia
+D. Vestibular schwannoma in every case
+E. Hypoglossal palsy
+Answer: A.
+Explanation: A lower motor neuron CN VII lesion causes weakness of the entire ipsilateral face, including the forehead. In an upper motor neuron lesion, the forehead is relatively spared because of bilateral cortical innervation of the upper facial muscles.
+
+Q32. A 39-year-old man develops facial paralysis, painful vesicles around the external auditory canal, and altered taste sensation. He also complains of hyperacusis. Which diagnosis best explains the combination?
+A. Ramsay Hunt syndrome
+B. Ménière disease
+C. Otosclerosis
+D. Acute mastoiditis only
+E. Trigeminal neuralgia
+Answer: A.
+Explanation: Ramsay Hunt syndrome results from reactivation of varicella-zoster virus involving the geniculate ganglion. The classic combination is ipsilateral facial paralysis, severe otalgia, and vesicular rash around the ear, often with altered taste and hyperacusis.
+
+Q33. A patient with facial nerve paralysis develops inability to close the eye completely. Which complication is most important to prevent?
+A. Exposure keratopathy and corneal ulceration
+B. Retinal artery occlusion
+C. Cataract formation within hours
+D. Optic neuritis
+E. Retinal detachment
+Answer: A.
+Explanation: Facial nerve palsy can impair orbicularis oculi function, causing incomplete eye closure. Corneal exposure can produce dryness, epithelial injury, ulceration, and permanent visual impairment. Eye lubrication and protection are therefore essential.
+
+Q34. A 33-year-old woman has recurrent episodes of vertigo lasting seconds when changing head position. Examination reveals no hearing loss. Which receptor system is most directly involved in detecting the linear acceleration responsible for the underlying disorder?
+A. Otolith organs
+B. Cochlear organ of Corti
+C. Tympanic membrane
+D. Eustachian tube
+E. Stapedius muscle
+Answer: A.
+Explanation: Utricle and saccule are the otolith organs that detect linear acceleration and head position relative to gravity. In BPPV, displaced otoconia from the utricle enter a semicircular canal and abnormally stimulate its receptors.
+
+Q35. A 55-year-old patient has a conductive hearing loss. Rinne testing is negative on one side and Weber testing lateralizes to that same ear. Which interpretation is most appropriate?
+A. Conductive hearing loss in the ear to which Weber lateralizes
+B. Sensorineural hearing loss in the ear to which Weber lateralizes
+C. Bilateral normal hearing
+D. Central auditory pathway lesion
+E. Isolated vestibular dysfunction
+Answer: A.
+Explanation: In conductive hearing loss, Weber lateralizes toward the affected ear because ambient sound is perceived more strongly through bone conduction when external/middle-ear conduction is impaired. Rinne becomes negative because bone conduction exceeds air conduction.
+
+Q36. A 60-year-old man has bilateral gradual high-frequency hearing loss and difficulty understanding speech in noisy environments. He has worked around industrial machinery for 30 years. Otoscopy is normal. Which type of hearing loss is most likely?
+A. Sensorineural hearing loss
+B. Conductive hearing loss
+C. Functional hearing loss
+D. Pure vestibular loss
+E. Ossicular dislocation
+Answer: A.
+Explanation: Presbycusis and chronic noise exposure produce sensorineural hearing loss, often beginning at high frequencies. Patients may report that they can hear speech but cannot understand it clearly, particularly in noisy environments.
+
+Q37. A 4-year-old child has recurrent episodes of sore throat, fever, and enlarged tonsils. He also has loud snoring and witnessed pauses in breathing during sleep. Which indication provides an important reason for considering adenotonsillectomy?
+A. Obstructive sleep-disordered breathing
+B. One episode of viral pharyngitis
+C. Mild seasonal rhinitis
+D. Isolated earwax accumulation
+E. Occasional sneezing
+Answer: A.
+Explanation: Significant adenotonsillar hypertrophy causing obstructive sleep apnea/sleep-disordered breathing is a major indication for adenotonsillectomy in children. Chronic obstruction can affect sleep quality, behavior, growth, and cardiopulmonary function.
+
+Q38. A patient develops severe sore throat, fever, neck swelling, dysphagia, and trismus. CT demonstrates infection extending from the tonsillar region into the deep neck spaces. Which complication is particularly dangerous?
+A. Airway obstruction and mediastinal spread
+B. Cataract
+C. Otosclerosis
+D. Retinal detachment
+E. Simple cerumen impaction
+Answer: A.
+Explanation: Deep neck space infections can rapidly compromise the airway and spread inferiorly into the mediastinum. Prompt recognition, imaging when appropriate, antibiotics, drainage, and airway management are essential.
+
+Q39. A 58-year-old man with a history of heavy smoking develops progressive hoarseness and difficulty swallowing. Laryngoscopy demonstrates a lesion involving the supraglottic region. Which symptom is more likely to occur with supraglottic rather than early glottic disease?
+A. Dysphagia and aspiration
+B. Hoarseness as the only early symptom
+C. Conductive hearing loss
+D. Vertigo
+E. Recurrent epistaxis
+Answer: A.
+Explanation: Supraglottic tumors can interfere with swallowing and airway protection, producing dysphagia and aspiration. Glottic tumors often present earlier with hoarseness because the true vocal cords are directly involved.
+
+Q40. A 45-year-old woman has persistent unilateral ear effusion without a recent upper respiratory infection. She has unilateral conductive hearing loss. In an adult, which underlying condition must particularly be excluded?
+A. Nasopharyngeal mass obstructing the Eustachian tube
+B. BPPV
+C. Optic neuritis
+D. Cataract
+E. Otitis externa alone
+Answer: A.
+Explanation: Persistent unilateral otitis media with effusion in an adult warrants evaluation of the nasopharynx for a mass, including nasopharyngeal carcinoma, because obstruction of the Eustachian tube can produce middle-ear effusion.
+
+Q41. A 34-year-old man has recurrent episodes of severe vertigo with tinnitus and fluctuating unilateral hearing loss. Audiometry demonstrates low-frequency sensorineural hearing loss early in the disease. Which finding would most strongly favor Ménière disease over BPPV?
+A. Associated fluctuating sensorineural hearing loss
+B. Vertigo triggered exclusively by rolling over
+C. Positive Dix-Hallpike test
+D. Episodes lasting only a few seconds
+E. Absence of auditory symptoms
+Answer: A.
+Explanation: Ménière disease characteristically includes auditory symptoms, especially fluctuating sensorineural hearing loss and tinnitus. BPPV typically produces brief positional vertigo without hearing loss or tinnitus.
+
+Q42. A 50-year-old patient develops chronic hoarseness after prolonged voice abuse. Laryngoscopy demonstrates bilateral symmetric lesions at the junction of the anterior and middle thirds of the true vocal cords. Which diagnosis is most likely?
+A. Vocal nodules
+B. Laryngeal carcinoma
+C. Epiglottitis
+D. Vocal-cord paralysis
+E. Peritonsillar abscess
+Answer: A.
+Explanation: Vocal nodules commonly occur in people who chronically abuse their voice and typically appear bilaterally at the junction of the anterior and middle thirds of the vocal cords. Voice therapy and avoidance of vocal abuse are central to management.
+
+Q43. A 41-year-old singer has intermittent hoarseness that worsens after prolonged singing. Laryngoscopy demonstrates a small unilateral lesion on the vocal cord without invasion of surrounding tissue. Which benign lesion is most likely?
+A. Vocal polyp
+B. Nasopharyngeal carcinoma
+C. Epiglottitis
+D. Retropharyngeal abscess
+E. Cholesteatoma
+Answer: A.
+Explanation: Vocal polyps are benign lesions associated with voice abuse, trauma, or smoking. Unlike classic bilateral vocal nodules, polyps are often unilateral. Persistent lesions may require microlaryngeal surgery after appropriate evaluation.
+
+Q44. A patient develops hoarseness following prolonged endotracheal intubation. Laryngoscopy demonstrates impaired vocal-cord movement without an obvious mucosal mass. Which complication should be considered?
+A. Recurrent laryngeal nerve injury
+B. Otosclerosis
+C. BPPV
+D. Nasolacrimal obstruction
+E. Retinal vein occlusion
+Answer: A.
+Explanation: Prolonged or traumatic intubation can contribute to laryngeal injury or recurrent laryngeal nerve dysfunction, producing hoarseness and vocal-cord immobility. Persistent symptoms require laryngoscopic assessment.
+
+Q45. A 38-year-old woman complains of a sensation of fullness in both ears and difficulty hearing. Otoscopy reveals retracted tympanic membranes. She recently developed severe nasal congestion during an upper respiratory infection. Which mechanism best explains her ear findings?
+A. Eustachian tube dysfunction causing negative middle-ear pressure
+B. Cochlear hair-cell destruction
+C. Stapes fixation
+D. Vestibular nerve inflammation
+E. Facial nerve compression
+Answer: A.
+Explanation: Upper respiratory infection can cause Eustachian tube dysfunction, impairing middle-ear ventilation. Negative pressure develops, causing tympanic membrane retraction and aural fullness. Persistent dysfunction may lead to middle-ear effusion.
+
+Q46. A 27-year-old man develops severe vertigo, hearing loss, and tinnitus after a blast injury. Examination suggests a perilymphatic leak from the inner ear. Which symptom combination is most consistent with this injury?
+A. Vertigo with sensorineural hearing loss after pressure/barotrauma
+B. Isolated conductive hearing loss without vestibular symptoms
+C. Painless progressive peripheral vision loss
+D. Chronic hoarseness only
+E. Recurrent epistaxis only
+Answer: A.
+Explanation: Perilymphatic fistula can occur after trauma, barotrauma, or surgery and may produce vertigo and sensorineural hearing loss. Symptoms may be triggered by changes in pressure or exertion.
+
+Q47. A 33-year-old man presents with unilateral facial weakness and inability to close his eye. He also has decreased tearing and loss of taste from the anterior two-thirds of the tongue. The lesion is most likely located proximal to which structure?
+A. Geniculate ganglion and greater petrosal/chorda tympani branches
+B. Mental nerve
+C. Hypoglossal canal
+D. Optic chiasm
+E. Cochlear duct only
+Answer: A.
+Explanation: Facial nerve lesions proximal to the branches carrying parasympathetic fibers and taste fibers can cause decreased lacrimation and loss of taste in addition to facial weakness. Localization depends on which branches are affected.
+
+Q48. A patient presents with unilateral facial paralysis, ear pain, and vesicles in the external auditory canal. Which treatment approach is most appropriate when the condition is recognized early?
+A. Antiviral therapy with corticosteroids when appropriate
+B. Ear syringing alone
+C. Tonsillectomy
+D. Epley maneuver
+E. Immediate cochlear implantation
+Answer: A.
+Explanation: Ramsay Hunt syndrome is treated with antiviral therapy, commonly combined with corticosteroids when appropriate, particularly when initiated early. Eye protection is essential if facial weakness prevents complete eyelid closure.
+
+Q49. A 60-year-old patient presents with severe unilateral sore throat, referred otalgia, dysphagia, weight loss, and a persistent cervical lymph node. Otoscopic examination is normal. Which principle is most important when evaluating the ear pain?
+A. Consider referred otalgia from head-and-neck malignancy
+B. Assume primary otitis externa
+C. Diagnose BPPV
+D. Treat only with ear drops
+E. Perform tympanoplasty immediately
+Answer: A.
+Explanation: The ear receives sensory innervation from several cranial and cervical nerves, so pathology in the oropharynx, hypopharynx, larynx, or other head-and-neck structures can cause referred otalgia despite a normal ear examination. In an older smoker with weight loss and dysphagia, malignancy must be excluded.
+
+Q50. A 59-year-old man presents with progressive dysphagia, aspiration, hoarseness, and a palpable cervical mass. Endoscopy demonstrates an advanced laryngeal lesion. Which clinical feature most strongly indicates possible involvement of the recurrent laryngeal nerve?
+A. Vocal-cord paralysis with persistent hoarseness
+B. Isolated loss of smell
+C. Conductive hearing loss
+D. Photophobia
+E. Positive Dix-Hallpike test
+Answer: A.
+Explanation: The recurrent laryngeal nerve supplies almost all intrinsic laryngeal muscles except cricothyroid. Tumor involvement can produce unilateral vocal-cord paralysis and hoarseness; bilateral involvement can produce significant airway compromise.
+

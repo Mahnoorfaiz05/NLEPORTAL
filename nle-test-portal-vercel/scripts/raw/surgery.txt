@@ -1,0 +1,900 @@
+Q1. A 68-year-old man with atrial fibrillation develops sudden severe abdominal pain with minimal tenderness. Six hours later he develops guarding, metabolic acidosis and rising lactate. CT angiography shows an SMA embolus with bowel ischemia. What is the most appropriate management?
+A. Elective right hemicolectomy after 48 hours
+B. Emergency laparotomy with revascularization and assessment of bowel viability
+C. Hartmann procedure without restoring mesenteric flow
+D. Conservative treatment with IV fluids only
+E. Laparoscopic cholecystectomy
+Answer: B.
+Explanation: Peritonitis indicates possible bowel infarction. Surgical exploration allows revascularization and resection of nonviable bowel.
+
+Q2. A 59-year-old man has progressive dysphagia, initially to solids and later to liquids, with significant weight loss. Endoscopy demonstrates a resectable distal esophageal carcinoma without distant metastases. Which operation is most appropriate?
+A. Heller myotomy
+B. Ivor Lewis esophagectomy
+C. Whipple procedure
+D. Hartmann procedure
+E. Total gastrectomy
+Answer: B.
+Explanation: Resectable distal esophageal carcinoma can be treated with Ivor Lewis esophagectomy, involving abdominal and right thoracic approaches with gastric pull-up.
+
+Q3. A 55-year-old woman develops painless jaundice, pruritus and weight loss. CT shows a 3-cm mass in the pancreatic head without distant metastases or major vascular invasion. Which operation offers potentially curative treatment?
+A. Distal pancreatectomy
+B. Whipple pancreaticoduodenectomy
+C. Total gastrectomy
+D. Right hemicolectomy
+E. Splenectomy
+Answer: B.
+Explanation: A resectable carcinoma in the head of pancreas is treated with pancreaticoduodenectomy.
+
+Q4. A 63-year-old man presents with fever, jaundice, RUQ pain and hypotension. Ultrasound shows a dilated CBD containing a stone. After IV fluids and antibiotics, he remains septic. What is the most appropriate next step?
+A. Elective laparoscopic cholecystectomy alone
+B. Urgent ERCP for biliary decompression
+C. Whipple procedure
+D. Right hemicolectomy
+E. Percutaneous nephrostomy
+Answer: B.
+Explanation: Severe obstructive cholangitis requires urgent biliary drainage, usually by ERCP, in addition to antibiotics and resuscitation.
+
+Q5. A 71-year-old man presents with abdominal distension, vomiting and constipation. X-ray shows a coffee-bean sign. He has no peritonitis or evidence of perforation. What is the best initial treatment?
+A. Immediate laparotomy and colectomy
+B. Endoscopic decompression
+C. Hartmann procedure immediately
+D. Right hemicolectomy
+E. Total colectomy
+Answer: B.
+Explanation: Uncomplicated sigmoid volvulus is initially treated with endoscopic decompression. Definitive sigmoid colectomy is generally performed later because recurrence is common.
+
+Q6. A 46-year-old woman develops persistent RUQ pain, fever and leukocytosis. Ultrasound shows gallstones, gallbladder wall thickening and pericholecystic fluid. She is medically fit for surgery. What is the preferred definitive treatment?
+A. Delayed cholecystectomy after several months
+B. Early laparoscopic cholecystectomy
+C. Whipple procedure
+D. ERCP alone
+E. Total gastrectomy
+Answer: B.
+Explanation: Early laparoscopic cholecystectomy is preferred for suitable patients with acute calculous cholecystitis.
+
+Q7. A 62-year-old man develops generalized peritonitis after perforation of a sigmoid diverticulum. CT shows fecal contamination throughout the peritoneal cavity, and he is hypotensive despite resuscitation. Which operation is traditionally appropriate for this unstable patient?
+A. Heller myotomy
+B. Hartmann procedure
+C. Nissen fundoplication
+D. Right hemicolectomy
+E. Total gastrectomy
+Answer: B.
+Explanation: In a severely unstable patient with perforated sigmoid disease and generalized peritonitis, Hartmann procedure provides rapid source control while avoiding an unsafe primary anastomosis.
+
+Q8. A 55-year-old man has progressive dysphagia to both solids and liquids from the beginning. Endoscopy excludes malignancy, and manometry demonstrates absent peristalsis with impaired LES relaxation. Which procedure is most appropriate?
+A. Heller myotomy with partial fundoplication
+B. Ivor Lewis esophagectomy
+C. Whipple procedure
+D. Total gastrectomy
+E. Nissen fundoplication alone
+Answer: A.
+Explanation: Achalasia is caused by failure of LES relaxation. Heller myotomy relieves the obstruction; partial fundoplication reduces postoperative reflux.
+
+Q9. A 64-year-old man presents with a painful irreducible groin swelling, vomiting and abdominal distension. At laparotomy, a segment of small bowel within the hernia is black and nonviable. Which management is appropriate?
+A. Simple reduction without inspection
+B. Resection of nonviable bowel with appropriate hernia repair
+C. Elective repair after symptoms resolve
+D. Truss application
+E. Antibiotics without surgery
+Answer: B.
+Explanation: Strangulation with gangrenous bowel requires resection of nonviable intestine and repair of the hernia defect.
+
+Q10. A 38-year-old woman has a thyroid nodule with irregular margins, microcalcifications and marked hypoechogenicity. FNA confirms papillary thyroid carcinoma. Imaging shows a high-risk tumor with regional nodal disease. Which operation is most appropriate?
+A. Hemi-thyroidectomy only
+B. Total thyroidectomy with indicated central/lateral neck dissection
+C. Parathyroidectomy
+D. Total laryngectomy in every case
+E. Radioiodine alone
+Answer: B.
+Explanation: High-risk papillary thyroid carcinoma with clinically significant nodal disease requires thyroidectomy with appropriate therapeutic lymph-node dissection.
+
+Q11. A 49-year-old man with severe epigastric pain has free air under the diaphragm. At laparotomy, a 1-cm perforated anterior duodenal ulcer is found with limited contamination. Which operative technique is commonly used?
+A. Graham omental patch repair
+B. Whipple procedure
+C. Total gastrectomy
+D. Hartmann procedure
+E. Right hemicolectomy
+Answer: A.
+Explanation: A small perforated duodenal ulcer is commonly repaired using a Graham omental patch, combined with lavage and appropriate medical therapy.
+
+Q12. A 43-year-old woman has recurrent reflux despite optimized medical therapy. Endoscopy shows severe erosive esophagitis and a large hiatal hernia. Manometry demonstrates adequate esophageal motility. Which procedure is most appropriate?
+A. Nissen fundoplication with hiatal hernia repair
+B. Heller myotomy
+C. Ivor Lewis esophagectomy
+D. Whipple procedure
+E. Total colectomy
+Answer: A.
+Explanation: In selected patients with medically refractory GERD and good motility, fundoplication with repair of the hiatal defect provides effective reflux control.
+
+Q13. A 66-year-old man presents with painless hematuria. CT shows a renal mass confined to one kidney with preserved contralateral renal function. The lesion is small and anatomically suitable for nephron preservation. Which operation is preferred?
+A. Radical nephrectomy in every case
+B. Partial nephrectomy
+C. Total cystectomy
+D. TURP
+E. Ureteric reimplantation
+Answer: B.
+Explanation: For a suitable localized small renal tumor, partial nephrectomy preserves functioning renal tissue while providing oncologic control.
+
+Q14. A 70-year-old man presents with urinary retention and severe LUTS. DRE reveals a smooth enlarged prostate. Symptoms persist despite alpha-blocker therapy, and he develops recurrent retention. Which procedure is commonly used for surgical treatment of significant BPH?
+A. TURP
+B. Radical prostatectomy
+C. Radical cystectomy
+D. Nephrectomy
+E. Ureteroscopy
+Answer: A.
+Explanation: Transurethral resection of prostate (TURP) is a standard surgical treatment for symptomatic BPH refractory to medical therapy or complicated by recurrent retention.
+
+Q15. A 61-year-old man has a rectal carcinoma located 5 cm from the anal verge. MRI shows a locally advanced tumor but no distant metastases. After neoadjuvant therapy, the tumor remains resectable with adequate margins. Which operation may be required when sphincter preservation is not feasible?
+A. Abdominoperineal resection
+B. Whipple procedure
+C. Right hemicolectomy
+D. Hartmann procedure only
+E. Total gastrectomy
+Answer: A.
+Explanation: Very low rectal tumors that cannot be safely treated with sphincter-preserving surgery may require abdominoperineal resection (APR) with permanent colostomy.
+
+Q16. A 58-year-old man has a left-sided colon cancer causing progressive constipation and abdominal distension. CT shows a circumferential descending-colon lesion without distant metastases. Which operation is most appropriate for a resectable left-sided tumor?
+A. Left hemicolectomy
+B. Whipple procedure
+C. Total gastrectomy
+D. Heller myotomy
+E. Splenectomy alone
+Answer: A.
+Explanation: A localized left-sided colon carcinoma is treated with oncologic left hemicolectomy, including adequate lymphovascular pedicle and margins.
+
+Q17. A 57-year-old woman with breast cancer has a 2.5-cm invasive tumor and clinically negative axillary nodes. She wants breast-conserving treatment and imaging shows no multifocal disease. Which approach is most appropriate?
+A. Lumpectomy with sentinel lymph-node biopsy followed by radiotherapy
+B. Modified radical mastectomy in every patient
+C. Total thyroidectomy
+D. Axillary dissection without breast surgery
+E. Observation only
+Answer: A.
+Explanation: Suitable early breast cancer can be treated with breast-conserving surgery plus radiotherapy, with sentinel node evaluation when appropriate.
+
+Q18. A 52-year-old woman has locally advanced breast carcinoma involving the skin and multiple axillary nodes. She receives neoadjuvant systemic therapy with partial response. Breast-conserving surgery is not feasible because of extensive disease. Which operation is most appropriate?
+A. Modified radical mastectomy
+B. Heller myotomy
+C. Simple appendectomy
+D. Partial nephrectomy
+E. Nissen fundoplication
+Answer: A.
+Explanation: Extensive breast cancer not suitable for conservation may require mastectomy with appropriate axillary management.
+
+Q19. A 74-year-old man has an abdominal aortic aneurysm measuring 7.2 cm and is otherwise fit. He has no rupture symptoms. Which management is most appropriate?
+A. Annual observation only
+B. Elective AAA repair
+C. Immediate thrombolysis
+D. Aspirin alone
+E. Compression therapy
+Answer: B.
+Explanation: A large AAA carries substantial rupture risk. In an appropriate surgical candidate, elective repair is indicated; EVAR or open repair depends on anatomy and patient factors.
+
+Q20. A 68-year-old man has severe symptomatic carotid stenosis after a recent TIA. Duplex and angiography demonstrate 80% ipsilateral internal carotid artery stenosis. He is otherwise a suitable operative candidate. Which procedure reduces future stroke risk?
+A. Carotid endarterectomy
+B. Femoral-popliteal bypass
+C. EVAR
+D. Thrombectomy of the radial artery
+E. Fasciotomy
+Answer: A.
+Explanation: Symptomatic high-grade carotid stenosis benefits from carotid endarterectomy, ideally performed promptly after the neurological event when appropriate.
+
+Q21. A 42-year-old man develops severe pain and swelling of the leg after a tibial fracture. Pain is disproportionate, passive stretching causes severe pain and compartments feel tense. Distal pulses are still palpable. What is the definitive treatment?
+A. Elevation and observation only
+B. Emergency four-compartment fasciotomy
+C. Below-knee amputation immediately
+D. Compression bandaging
+E. Aspirin therapy
+Answer: B.
+Explanation: Acute compartment syndrome is a clinical surgical emergency. Palpable pulses do not exclude it. Fasciotomy prevents irreversible muscle and nerve injury.
+
+Q22. A 35-year-old man sustains a high-speed motor-vehicle collision. He is hypotensive despite fluids, has a rigid abdomen and FAST shows free intraperitoneal fluid. What is the next step?
+A. CT abdomen before intervention
+B. Emergency exploratory laparotomy
+C. Colonoscopy
+D. MRI abdomen
+E. Diagnostic barium study
+Answer: B.
+Explanation: Hemodynamic instability plus positive FAST after blunt trauma strongly indicates intra-abdominal hemorrhage requiring immediate operative control.
+
+Q23. A 27-year-old man has a penetrating abdominal injury. He is hemodynamically unstable with evisceration and generalized peritonitis. Which management is most appropriate?
+A. CT angiography before surgery
+B. Emergency laparotomy
+C. Observation with serial examination
+D. Colonoscopy
+E. Elective laparoscopy next day
+Answer: B.
+Explanation: Instability, evisceration and peritonitis are indications for immediate operative exploration after penetrating abdominal trauma.
+
+Q24. A 30-year-old trauma patient has pelvic fracture, hypotension and ongoing hemorrhage despite transfusion. CT suggests arterial pelvic bleeding. Which intervention may provide rapid hemorrhage control in an appropriate stable-enough patient?
+A. Angioembolization
+B. Appendectomy
+C. Heller myotomy
+D. TURP
+E. Cholecystectomy
+Answer: A.
+Explanation: Pelvic arterial bleeding can be controlled with angiographic embolization, often as part of multidisciplinary damage-control management.
+
+Q25. A 65-year-old man develops bowel obstruction several days after laparotomy. CT shows dilated small bowel loops with a transition point and no evidence of strangulation. He is stable without peritonitis. What is the initial management?
+A. Immediate colectomy
+B. Nasogastric decompression, IV fluids and close observation
+C. Whipple procedure
+D. Immediate total gastrectomy
+E. ERCP
+Answer: B.
+Explanation: Stable adhesive small-bowel obstruction without ischemia/peritonitis can initially receive nonoperative management. Failure or signs of strangulation require surgery.
+
+Q26. A 51-year-old woman develops fever, tachycardia and abdominal pain on postoperative day 6 after colorectal surgery. CT shows a localized pelvic collection containing gas. She is hemodynamically stable. Which management is most appropriate?
+A. Percutaneous drainage plus antibiotics when feasible
+B. Immediate total gastrectomy
+C. Observation without antibiotics
+D. Heller myotomy
+E. TURP
+Answer: A.
+Explanation: A localized postoperative abscess in a stable patient is commonly managed with image-guided drainage and antibiotics. Persistent anastomotic leak may require further intervention.
+
+Q27. A 48-year-old man develops tachycardia, fever and increasing abdominal pain on postoperative day 4 after colorectal anastomosis. CT demonstrates extraluminal contrast and free fluid. What is the most concerning diagnosis?
+A. Anastomotic leak
+B. Simple postoperative ileus
+C. Uncomplicated constipation
+D. Biliary colic
+E. Acute urinary retention
+Answer: A.
+Explanation: Extraluminal contrast and systemic deterioration strongly indicate anastomotic leakage, which may require drainage, diversion or reoperation depending on severity.
+
+Q28. A 64-year-old man develops fever, jaundice and RUQ pain after recent biliary surgery. Imaging shows an injured common bile duct with bile leakage into the abdomen. Which complication has occurred?
+A. Bile duct injury with biloma/bile leak
+B. Pancreatic pseudocyst
+C. Splenic rupture
+D. Gastric volvulus
+E. Mesenteric ischemia
+Answer: A.
+Explanation: Iatrogenic bile duct injury can cause bile leakage, biloma, jaundice and peritonitis and requires early specialist hepatobiliary management.
+
+Q29. A 57-year-old man with obstructive jaundice has a distal CBD stricture caused by pancreatic malignancy. Surgery is not immediately possible because of metastatic disease. Which procedure can provide durable biliary drainage?
+A. Endoscopic biliary stenting by ERCP
+B. Hartmann procedure
+C. Heller myotomy
+D. Right hemicolectomy
+E. TURP
+Answer: A.
+Explanation: In unresectable malignant biliary obstruction, endoscopic stent placement can relieve jaundice and cholangitis.
+
+Q30. A 44-year-old woman has symptomatic primary hyperparathyroidism with calcium 12.1 mg/dL and recurrent renal stones. Imaging localizes a single parathyroid adenoma. Which definitive treatment is appropriate?
+A. Parathyroidectomy
+B. Total thyroidectomy only
+C. Whipple procedure
+D. Adrenalectomy
+E. Splenectomy
+Answer: A.
+Explanation: Symptomatic primary hyperparathyroidism, particularly with renal stones, is an indication for parathyroidectomy after appropriate localization and surgical planning.Bilkul bai 🔥 Q31–100 ko aur zyada surgical + tricky rakhta hoon—especially GIT, renal/urology, bones/orthopedic trauma, aur operation/procedure names heavily included. Har question ki length Q1–30 ke barabar rahegi, koi chhota/direct MCQ nahi.
+
+Q31. A 62-year-old man presents with progressive dysphagia and weight loss. Endoscopy shows a carcinoma in the distal third of the esophagus, with no distant metastases and no major vascular invasion. After appropriate neoadjuvant therapy, the tumor remains resectable. Which operation is most appropriate?
+A. Heller myotomy
+B. Ivor Lewis esophagectomy
+C. Whipple procedure
+D. Hartmann procedure
+E. Nissen fundoplication
+Answer: B.
+Explanation: Distal esophageal cancer can be treated with Ivor Lewis esophagectomy, using abdominal and right thoracic approaches with gastric conduit reconstruction.
+
+Q32. A 54-year-old man has progressive dysphagia and regurgitation. Barium swallow shows a markedly dilated esophagus with a bird-beak appearance, and manometry confirms achalasia. He has failed medical therapy and pneumatic dilation. Which operation directly addresses the underlying functional obstruction?
+A. Nissen fundoplication
+B. Heller cardiomyotomy with partial fundoplication
+C. Ivor Lewis esophagectomy
+D. Total gastrectomy
+E. Whipple procedure
+Answer: B.
+Explanation: Heller myotomy divides the LES muscle. Partial fundoplication is usually added to reduce postoperative reflux.
+
+Q33. A 59-year-old man presents with painless progressive jaundice and weight loss. CT shows a resectable mass in the head of the pancreas without liver or peritoneal metastases. The portal vein can be safely reconstructed if necessary. Which operation is the standard potentially curative procedure?
+A. Distal pancreatectomy with splenectomy
+B. Whipple pancreaticoduodenectomy
+C. Total gastrectomy
+D. Left hemicolectomy
+E. Frey procedure
+Answer: B.
+Explanation: Pancreatic head carcinoma is treated with pancreaticoduodenectomy when resectable. Distal pancreatectomy is used for tumors of the body/tail.
+
+Q34. A 48-year-old woman has recurrent attacks of pancreatitis associated with alcohol use. Imaging demonstrates a markedly dilated main pancreatic duct with multiple intraductal stones but no pancreatic head mass. Pain persists despite conservative treatment. Which drainage operation may be appropriate?
+A. Puestow longitudinal pancreaticojejunostomy
+B. Whipple procedure
+C. Hartmann procedure
+D. Nissen fundoplication
+E. Right hemicolectomy
+Answer: A.
+Explanation: Puestow procedure decompresses a dilated pancreatic duct in selected patients with painful chronic pancreatitis without a dominant inflammatory head mass.
+
+Q35. A 57-year-old man with chronic pancreatitis has severe persistent pain and an enlarged inflammatory mass predominantly involving the pancreatic head. The main pancreatic duct is dilated. Which operation is particularly suited to this anatomy?
+A. Frey procedure
+B. Total gastrectomy
+C. Hartmann procedure
+D. Heller myotomy
+E. Abdominoperineal resection
+Answer: A.
+Explanation: The Frey procedure combines local resection/coring of the pancreatic head with longitudinal pancreaticojejunostomy and is useful for chronic pancreatitis with an enlarged inflammatory head.
+
+Q36. A 68-year-old man presents with severe epigastric pain, vomiting and abdominal distension. CT demonstrates gastric outlet obstruction caused by a malignant pancreatic-head mass that is unresectable because of extensive vascular involvement. Which procedure can provide enteric bypass for persistent obstruction?
+A. Gastrojejunostomy
+B. Hartmann procedure
+C. Heller myotomy
+D. Sigmoid colectomy
+E. TURP
+Answer: A.
+Explanation: Gastrojejunostomy bypasses an obstructed pylorus/duodenum and may palliate gastric outlet obstruction from unresectable malignancy.
+
+Q37. A 66-year-old man has painless jaundice caused by a carcinoma of the pancreatic head. During attempted Whipple surgery, the tumor is found to encase the superior mesenteric artery and is therefore unresectable. Which operation is more appropriate if biliary and gastric outlet obstruction require palliation?
+A. Double bypass with hepaticojejunostomy and gastrojejunostomy
+B. Total pancreatectomy in every unresectable case
+C. Right hemicolectomy
+D. Heller myotomy
+E. Splenectomy alone
+Answer: A.
+Explanation: In selected unresectable pancreatic-head cancers, biliary-enteric and gastric bypass can provide durable palliation of obstruction.
+
+Q38. A 63-year-old woman has recurrent biliary colic and ultrasound demonstrates multiple gallstones. She now develops fever, RUQ tenderness and a positive Murphy sign. There is no CBD stone and she is medically fit. Which procedure should be performed during the same admission?
+A. Early laparoscopic cholecystectomy
+B. Whipple procedure
+C. ERCP alone as definitive therapy
+D. Total gastrectomy
+E. Splenectomy
+Answer: A.
+Explanation: Acute calculous cholecystitis in an appropriate operative candidate is treated with early laparoscopic cholecystectomy.
+
+Q39. During laparoscopic cholecystectomy, the surgeon identifies a major bile duct injury with complete transection of the common hepatic duct. The patient is stable and there is no major vascular injury. Which reconstructive procedure is generally preferred by a hepatobiliary surgeon?
+A. Roux-en-Y hepaticojejunostomy
+B. Heller myotomy
+C. Gastrojejunostomy
+D. Hartmann procedure
+E. Ileoanal pouch
+Answer: A.
+Explanation: Major extrahepatic bile duct injuries are commonly reconstructed using Roux-en-Y hepaticojejunostomy, ideally by an experienced hepatobiliary team.
+
+Q40. A 45-year-old woman develops fever, RUQ pain and jaundice. Imaging shows a CBD stone causing obstruction. After antibiotics and resuscitation, urgent biliary drainage is required. Which procedure both visualizes and can remove the obstructing stone?
+A. ERCP with sphincterotomy and stone extraction
+B. Heller myotomy
+C. Colonoscopy
+D. TURP
+E. Nissen fundoplication
+Answer: A.
+Explanation: ERCP provides therapeutic biliary decompression and allows sphincterotomy and extraction of CBD stones.
+
+Q41. A 72-year-old man presents with progressive abdominal distension and constipation. CT shows a circumferential sigmoid carcinoma producing large-bowel obstruction. There is no perforation but the proximal colon is markedly dilated. Which emergency operation may be required when primary anastomosis is unsafe?
+A. Hartmann procedure
+B. Whipple procedure
+C. Heller myotomy
+D. Ivor Lewis esophagectomy
+E. Frey procedure
+Answer: A.
+Explanation: Hartmann procedure may be used for obstructing/perforated left-sided colorectal disease when the patient or bowel condition makes primary anastomosis unsafe.
+
+Q42. A 61-year-old woman has a carcinoma of the ascending colon without distant metastases. Colonoscopy confirms the lesion, and CT shows no unresectable vascular involvement. Which operation provides appropriate oncologic resection?
+A. Right hemicolectomy
+B. Left hemicolectomy
+C. Abdominoperineal resection
+D. Hartmann procedure
+E. Total gastrectomy
+Answer: A.
+Explanation: Right-sided colon cancer is treated with right hemicolectomy, including appropriate lymphovascular pedicle and margins.
+
+Q43. A 59-year-old man has a carcinoma of the upper rectum. MRI shows a resectable lesion with adequate distal margin and no sphincter involvement. Which operation can preserve the anal sphincter?
+A. Low anterior resection
+B. Abdominoperineal resection
+C. Total proctocolectomy in every case
+D. Hartmann procedure in every case
+E. Whipple procedure
+Answer: A.
+Explanation: Low anterior resection (LAR) allows removal of rectal cancer while preserving the sphincter when adequate margins and anatomy permit.
+
+Q44. A 58-year-old man has a very low rectal carcinoma involving the anal sphincter complex. MRI shows that a clear circumferential margin cannot be obtained while preserving sphincter function. Which operation is most appropriate?
+A. Abdominoperineal resection
+B. Right hemicolectomy
+C. Low anterior resection with no margin
+D. Whipple procedure
+E. Sigmoid colectomy only
+Answer: A.
+Explanation: When the sphincter is involved and preservation would compromise oncologic margins, APR removes the rectum and anus and results in a permanent colostomy.
+
+Q45. A 37-year-old woman has a symptomatic incisional hernia after previous abdominal surgery. There is no obstruction or strangulation. The fascial defect is large and requires mesh reinforcement. Which approach is generally preferred for elective repair when feasible?
+A. Mesh-based hernia repair
+B. Simple skin closure only
+C. Bowel resection
+D. Hartmann procedure
+E. Heller myotomy
+Answer: A.
+Explanation: Large incisional hernias have a high recurrence rate with primary suture repair alone; mesh reinforcement substantially improves durability.
+
+Q46. A 29-year-old man has an indirect inguinal hernia extending into the scrotum. During elective open repair, the surgeon identifies the hernia sac lateral to the inferior epigastric vessels. Which anatomical structure is involved?
+A. Deep inguinal ring
+B. Femoral canal
+C. Superficial femoral ring
+D. Obturator canal
+E. Lesser sciatic foramen
+Answer: A.
+Explanation: Indirect inguinal hernias pass through the deep inguinal ring and lie lateral to the inferior epigastric vessels.
+
+Q47. A 64-year-old man has a reducible direct inguinal hernia and undergoes open anterior mesh repair. Which operation is classically associated with placement of mesh over the posterior wall of the inguinal canal?
+A. Lichtenstein repair
+B. Heller myotomy
+C. Whipple procedure
+D. Puestow procedure
+E. Bassini bowel resection
+Answer: A.
+Explanation: Lichtenstein repair is an open tension-free mesh repair of inguinal hernia.
+
+Q48. A 32-year-old man with an inguinal hernia chooses laparoscopic repair. The surgeon places mesh in the preperitoneal space through the abdomen and approaches the defect from posteriorly. Which technique is being described?
+A. TAPP repair
+B. Lichtenstein repair
+C. Shouldice repair
+D. Bassini repair
+E. McVay repair
+Answer: A.
+Explanation: TAPP (transabdominal preperitoneal) repair enters the peritoneal cavity before placing mesh in the preperitoneal space. TEP avoids entering the peritoneal cavity.
+
+Q49. A 19-year-old man develops severe right lower-quadrant pain, anorexia, fever and localized guarding. Ultrasound is equivocal, but CT demonstrates an inflamed appendix without abscess or perforation. Which treatment is definitive in a fit patient?
+A. Laparoscopic appendectomy
+B. Hartmann procedure
+C. Right hemicolectomy routinely
+D. Whipple procedure
+E. Total colectomy
+Answer: A.
+Explanation: Uncomplicated acute appendicitis in an appropriate patient is commonly treated with laparoscopic appendectomy.
+
+Q50. A 48-year-old woman presents with appendicitis complicated by a localized periappendiceal abscess. CT shows a well-contained collection without generalized peritonitis. She is hemodynamically stable. Which initial strategy is most appropriate?
+A. Immediate Whipple procedure
+B. Antibiotics with image-guided drainage when appropriate
+C. Total colectomy
+D. Heller myotomy
+E. Nissen fundoplication
+Answer: B.
+Explanation: A well-contained appendiceal abscess may initially be managed with antibiotics ± percutaneous drainage, with interval surgery considered selectively.
+
+Q51. A 70-year-old man with severe diverticulitis develops generalized peritonitis. At laparotomy, fecal contamination is present and the patient is hemodynamically unstable. Which operative strategy best balances rapid source control with avoidance of a high-risk colorectal anastomosis?
+A. Hartmann procedure
+B. Elective low anterior resection months later without initial surgery
+C. Nissen fundoplication
+D. Right hemicolectomy regardless of disease location
+E. Heller myotomy
+Answer: A.
+Explanation: In unstable patients with perforated sigmoid disease, Hartmann procedure provides rapid source control without requiring an immediate colorectal anastomosis.
+
+Q52. A 63-year-old man develops severe abdominal pain after a meal. He has atrial fibrillation and elevated lactate. CT angiography shows SMA embolism, but there is no peritonitis and bowel viability is uncertain. Which treatment may restore perfusion without immediate bowel resection in a suitable patient?
+A. Surgical embolectomy or catheter-directed revascularization
+B. Immediate total colectomy
+C. Hartmann procedure in every case
+D. Whipple procedure
+E. Appendectomy
+Answer: A.
+Explanation: Before irreversible bowel infarction, revascularization is critical. If necrosis/peritonitis is present, laparotomy with bowel assessment and resection becomes necessary.
+
+Q53. A 73-year-old man develops acute limb ischemia with pain, pallor, pulselessness and paresthesia. Doppler confirms arterial occlusion. He has no previous claudication and atrial fibrillation is present. Which operation is particularly appropriate for an embolus lodged at the femoral bifurcation?
+A. Fogarty catheter embolectomy
+B. Femoral-popliteal bypass in every case
+C. Carotid endarterectomy
+D. Fasciotomy alone
+E. EVAR
+Answer: A.
+Explanation: A peripheral arterial embolus, especially at the femoral bifurcation, can often be treated with Fogarty balloon embolectomy after systemic anticoagulation.
+
+Q54. A 67-year-old man has a 7.5-cm infrarenal abdominal aortic aneurysm. CT angiography shows suitable proximal and distal landing zones for an endovascular graft. He is high risk for open surgery because of severe cardiopulmonary disease. Which procedure is most appropriate?
+A. Endovascular aneurysm repair
+B. Carotid endarterectomy
+C. Femoral embolectomy
+D. Thrombolysis
+E. Axillofemoral amputation
+Answer: A.
+Explanation: EVAR is appropriate for anatomically suitable AAA patients, particularly when open surgery carries substantial risk.
+
+Q55. A 61-year-old man has symptomatic 85% internal carotid artery stenosis following a recent TIA. He has no major disability and is a good surgical candidate. Which procedure provides stroke-risk reduction?
+A. Carotid endarterectomy
+B. EVAR
+C. Femoral embolectomy
+D. Fasciotomy
+E. Thrombectomy of the popliteal artery
+Answer: A.
+Explanation: Symptomatic high-grade carotid stenosis is an important indication for carotid endarterectomy, performed promptly when clinically appropriate.
+
+Q56. A 34-year-old man sustains a tibial fracture and develops severe pain despite opioids. Passive toe extension produces extreme pain, the compartments are tense and neurological symptoms are appearing. Pulses remain palpable. What is the definitive treatment?
+A. Four-compartment fasciotomy
+B. Closed reduction only
+C. Compression dressing
+D. Anticoagulation alone
+E. Immediate below-knee amputation in every case
+Answer: A.
+Explanation: Acute compartment syndrome requires urgent fasciotomy. Palpable pulses do not exclude the diagnosis.
+
+Q57. A 28-year-old man sustains a high-energy femoral shaft fracture. Several hours later he develops hypoxemia, confusion and a petechial rash over the upper chest. Which complication is most likely?
+A. Fat embolism syndrome
+B. Septic shock
+C. Pulmonary tuberculosis
+D. Tension pneumothorax
+E. DKA
+Answer: A.
+Explanation: The classic triad is respiratory distress, neurological dysfunction and petechiae, usually 24–72 hours after long-bone fracture.
+
+Q58. A 71-year-old woman sustains a displaced intracapsular fracture of the femoral neck. She was independently mobile before injury and has good life expectancy. Which treatment is generally preferred?
+A. Hemiarthroplasty in every patient
+B. Total hip arthroplasty in an appropriate fit patient
+C. Long-term traction only
+D. Above-knee amputation
+E. Intramedullary nail fixation
+Answer: B.
+Explanation: In selected active, independent patients with displaced intracapsular femoral-neck fracture, total hip arthroplasty may provide better functional outcomes than hemiarthroplasty.
+
+Q59. A 76-year-old frail patient with a displaced intracapsular femoral-neck fracture was previously a low-demand walker. Which procedure is commonly preferred because it provides rapid mobilization with less operative complexity than total hip replacement?
+A. Cemented hemiarthroplasty
+B. Total knee replacement
+C. Intramedullary tibial nailing
+D. ORIF with a plate in every elderly patient
+E. Spinal fusion
+Answer: A.
+Explanation: For frail low-demand elderly patients, hemiarthroplasty is commonly used for displaced intracapsular fractures.
+
+Q60. A 23-year-old man sustains a closed tibial fracture treated with casting. Several weeks later he develops persistent pain, swelling and fever. Imaging shows bone destruction and a sequestrum. Which condition is most likely?
+A. Chronic osteomyelitis
+B. Osteosarcoma
+C. Gout
+D. Simple muscle strain
+E. Osteoarthritis
+Answer: A.
+Explanation: Chronic osteomyelitis can produce sequestrum (dead bone) and involucrum (reactive new bone). Surgical debridement may be required along with culture-directed antibiotics.
+
+Q61. A 17-year-old boy develops progressive pain and swelling around the distal femur. X-ray shows a destructive metaphyseal lesion with a sunburst pattern and Codman triangle. Biopsy confirms osteosarcoma. Which treatment strategy is most appropriate?
+A. Chemotherapy followed by limb-sparing wide resection when feasible
+B. Simple curettage alone
+C. Radiotherapy alone as definitive treatment
+D. Immediate amputation in every patient
+E. Observation until skeletal maturity
+Answer: A.
+Explanation: Osteosarcoma is treated with systemic chemotherapy and wide surgical excision, with limb-sparing surgery preferred when adequate oncologic margins and function can be achieved.
+
+Q62. A 14-year-old boy presents with severe nocturnal bone pain in the femur that is dramatically relieved by NSAIDs. X-ray shows a small radiolucent nidus surrounded by reactive sclerosis. Which treatment is most appropriate?
+A. CT-guided radiofrequency ablation
+B. Whipple procedure
+C. Total knee replacement
+D. Hartmann procedure
+E. Wide hemicolectomy
+Answer: A.
+Explanation: Osteoid osteoma is usually treated effectively with image-guided radiofrequency ablation when symptomatic.
+
+Q63. A 35-year-old man sustains a posterior shoulder dislocation after a seizure. X-ray shows an internally rotated arm that cannot be externally rotated. Which procedure may be required if closed reduction fails or an associated fracture prevents reduction?
+A. Open reduction and internal fixation
+B. Heller myotomy
+C. Whipple procedure
+D. Hartmann procedure
+E. TURP
+Answer: A.
+Explanation: Posterior shoulder dislocation is classically associated with seizures/electric shock. Closed reduction is attempted first; surgery is required for irreducible or fracture-associated injuries.
+
+Q64. A 31-year-old man sustains a displaced midshaft humeral fracture and subsequently develops wrist drop. Examination shows loss of wrist and finger extension with preserved elbow flexion. Which nerve is most likely injured?
+A. Radial nerve
+B. Median nerve
+C. Ulnar nerve
+D. Axillary nerve
+E. Musculocutaneous nerve
+Answer: A.
+Explanation: The radial nerve travels in the spiral groove and is vulnerable in midshaft humeral fractures, producing wrist drop.
+
+Q65. A 27-year-old man has an open tibial fracture with extensive soft-tissue contamination. He is hemodynamically stable after resuscitation. Which principle is most important in the initial operative management?
+A. Thorough irrigation and surgical debridement with appropriate antibiotics
+B. Immediate definitive internal fixation regardless of contamination
+C. Delaying antibiotics until cultures return
+D. Applying a cast without wound assessment
+E. Elective surgery after six months
+Answer: A.
+Explanation: Open fractures require early antibiotics, urgent assessment and adequate surgical debridement, with stabilization and soft-tissue management planned according to injury severity.
+
+Q66. A 42-year-old man develops severe back pain, saddle anesthesia and urinary retention. MRI demonstrates a large lumbar disc prolapse compressing the cauda equina. What is the appropriate management?
+A. Urgent surgical decompression
+B. Physiotherapy alone
+C. Oral NSAIDs with follow-up after one month
+D. Epidural steroid injection as definitive treatment
+E. Bed rest only
+Answer: A.
+Explanation: Cauda equina syndrome with bladder dysfunction is a surgical emergency requiring urgent decompression to minimize permanent neurological deficit.
+
+Q67. A 69-year-old man with BPH presents with acute urinary retention. A urethral catheter cannot be passed and there is significant suprapubic discomfort. What is the appropriate immediate alternative for bladder drainage?
+A. Suprapubic catheterization
+B. TURP before bladder decompression
+C. Radical prostatectomy immediately
+D. Nephrectomy
+E. Ureteric stenting
+Answer: A.
+Explanation: If urethral catheterization fails or is contraindicated, suprapubic catheterization provides immediate bladder drainage.
+
+Q68. A 66-year-old man has severe LUTS and recurrent urinary retention due to BPH despite medical therapy. Prostate size is moderately enlarged. Which endoscopic procedure removes obstructing prostatic tissue?
+A. TURP
+B. TURBT
+C. Radical cystectomy
+D. PCNL
+E. Ureteroscopy
+Answer: A.
+Explanation: TURP removes obstructing prostatic tissue through the urethra and remains a standard surgical treatment for symptomatic BPH.
+
+Q69. A 55-year-old man has painless gross hematuria. Cystoscopy reveals a papillary bladder tumor without muscle invasion. Which procedure is generally used for initial diagnosis and local treatment?
+A. TURBT
+B. TURP
+C. Radical prostatectomy
+D. Nephrectomy
+E. Pyeloplasty
+Answer: A.
+Explanation: Transurethral resection of bladder tumor (TURBT) provides histology and initial treatment for non-muscle-invasive bladder tumors.
+
+Q70. A 64-year-old man has muscle-invasive bladder carcinoma without distant metastases and is fit for major surgery. Which definitive operation is commonly performed?
+A. Radical cystectomy with urinary diversion
+B. TURBT alone
+C. TURP
+D. Partial nephrectomy
+E. Ureteroscopy alone
+Answer: A.
+Explanation: Muscle-invasive bladder cancer commonly requires radical cystectomy, usually with pelvic lymph-node dissection and creation of a urinary diversion.
+
+Q71. A 58-year-old man has a 3-cm renal tumor confined to the kidney. The tumor is peripheral and technically suitable for nephron-sparing surgery. Which operation is preferred when oncologically appropriate?
+A. Partial nephrectomy
+B. Radical cystectomy
+C. TURP
+D. Total ureterectomy
+E. Nephrostomy alone
+Answer: A.
+Explanation: Partial nephrectomy preserves renal function while providing effective treatment for appropriately selected localized renal tumors.
+
+Q72. A 70-year-old man has a large centrally located renal cell carcinoma involving the renal sinus and multiple hilar structures. Nephron-sparing surgery is not feasible. Which operation is appropriate?
+A. Radical nephrectomy
+B. TURBT
+C. TURP
+D. Pyeloplasty
+E. Partial cystectomy
+Answer: A.
+Explanation: A large or centrally located renal tumor not amenable to partial nephrectomy may require radical nephrectomy.
+
+Q73. A 36-year-old man has recurrent renal stones. CT shows a 2.2-cm renal pelvic calculus that is unlikely to pass spontaneously. Which endourological procedure directly fragments and removes a large renal stone?
+A. Percutaneous nephrolithotomy
+B. TURP
+C. TURBT
+D. Radical nephrectomy
+E. Heller myotomy
+Answer: A.
+Explanation: PCNL is commonly used for large renal stones, particularly stones >2 cm or complex stone burdens.
+
+Q74. A 45-year-old woman has recurrent flank pain and hydronephrosis due to pelvi-ureteric junction obstruction. There is reduced drainage but adequate renal function. Which operation reconstructs the obstructed UPJ?
+A. Anderson-Hynes dismembered pyeloplasty
+B. TURP
+C. Radical cystectomy
+D. Whipple procedure
+E. Hartmann procedure
+Answer: A.
+Explanation: Anderson-Hynes pyeloplasty is the standard reconstructive procedure for many cases of UPJ obstruction.
+
+Q75. A 28-year-old man presents with a ureteric stone causing persistent obstruction and infection. He develops fever and hypotension. Imaging shows hydronephrosis. What is the immediate surgical principle?
+A. Urgent urinary decompression with ureteric stent or nephrostomy
+B. Immediate ESWL without drainage
+C. Elective nephrectomy
+D. TURP
+E. Radical cystectomy
+Answer: A.
+Explanation: An infected obstructed urinary system is a urological emergency. Drain first; definitive stone treatment follows after sepsis is controlled.
+
+Q76. A 30-year-old man presents with severe testicular pain of sudden onset, nausea and a high-riding testis. Doppler ultrasound shows absent blood flow, but clinical suspicion is high. What is the most appropriate management?
+A. Immediate scrotal exploration and detorsion with bilateral orchidopexy
+B. Antibiotics and outpatient follow-up
+C. Elective hydrocele repair
+D. TURP
+E. Needle aspiration
+Answer: A.
+Explanation: Testicular torsion is a time-critical surgical emergency. The contralateral testis is fixed because the predisposing anatomy is often bilateral.
+
+Q77. A 41-year-old man has a reducible incisional hernia after previous midline laparotomy. He has no obstruction or strangulation. The fascial defect is 8 cm and recurrence risk is significant. Which repair provides the most durable reinforcement?
+A. Mesh repair
+B. Skin closure alone
+C. Bowel resection
+D. Heller myotomy
+E. Endoscopic decompression
+Answer: A.
+Explanation: Large incisional hernias are generally repaired with mesh reinforcement, using an appropriate anatomical plane.
+
+Q78. A 70-year-old man develops sudden severe abdominal pain, hypotension and generalized peritonitis. CT demonstrates free intraperitoneal air from a perforated gastric ulcer. Which operative approach is most appropriate?
+A. Emergency laparotomy with ulcer closure, commonly using an omental patch
+B. Elective gastrectomy after six weeks
+C. Colonoscopy
+D. Heller myotomy
+E. ERCP
+Answer: A.
+Explanation: Perforated peptic ulcer with peritonitis requires urgent source control, usually closure with an omental patch for a small perforation.
+
+Q79. A 58-year-old woman presents with persistent vomiting due to gastric outlet obstruction from peptic ulcer-related scarring. Endoscopic balloon dilation has failed repeatedly. Which operation can bypass the obstruction?
+A. Gastrojejunostomy
+B. Whipple procedure
+C. Hartmann procedure
+D. Heller myotomy
+E. Right hemicolectomy
+Answer: A.
+Explanation: Gastrojejunostomy bypasses an obstructed pylorus/duodenum and can be used when endoscopic therapy fails.
+
+Q80. A 65-year-old man with gastric carcinoma has a distal tumor without invasion of the proximal stomach and no distant metastases. Which operation may be appropriate for a resectable distal gastric cancer?
+A. Distal subtotal gastrectomy with lymphadenectomy
+B. Heller myotomy
+C. Whipple procedure in every distal gastric tumor
+D. Hartmann procedure
+E. TURP
+Answer: A.
+Explanation: Resectable distal gastric cancers can be treated with distal subtotal gastrectomy and appropriate lymph-node dissection.
+
+Q81. A 60-year-old man has a proximal gastric carcinoma involving the gastroesophageal junction. Staging shows a resectable lesion without distant metastases. Which operation may be required depending on tumor extent?
+A. Total gastrectomy
+B. Right hemicolectomy
+C. Hartmann procedure
+D. Puestow procedure
+E. TURBT
+Answer: A.
+Explanation: More extensive proximal gastric cancers may require total gastrectomy with appropriate lymphadenectomy and reconstruction.
+
+Q82. A 45-year-old woman has severe obesity and poorly controlled type 2 diabetes despite lifestyle and medical therapy. She meets criteria for metabolic surgery and has no contraindication. Which operation produces restriction and significant metabolic effects through gastric bypass?
+A. Roux-en-Y gastric bypass
+B. Hartmann procedure
+C. Heller myotomy
+D. Whipple procedure
+E. Nissen fundoplication
+Answer: A.
+Explanation: Roux-en-Y gastric bypass combines restriction and intestinal bypass and produces substantial metabolic effects.
+
+Q83. A 59-year-old woman has severe GERD and a large hiatal hernia. Manometry confirms normal esophageal peristalsis. Symptoms persist despite optimized PPI therapy. Which procedure is most appropriate?
+A. Laparoscopic hiatal hernia repair with Nissen fundoplication
+B. Heller myotomy
+C. Ivor Lewis esophagectomy
+D. Hartmann procedure
+E. Whipple procedure
+Answer: A.
+Explanation: In appropriately selected patients with refractory GERD and adequate motility, hiatal repair plus fundoplication is an effective surgical option.
+
+Q84. A 52-year-old man develops acute severe pain and swelling of the scrotum after trauma. Ultrasound demonstrates disruption of the tunica albuginea with extrusion of testicular contents. What is the appropriate treatment?
+A. Urgent scrotal exploration and repair of the ruptured testis
+B. Observation for one week
+C. TURP
+D. Antibiotics alone
+E. Needle aspiration
+Answer: A.
+Explanation: Testicular rupture is an indication for urgent exploration and repair to preserve viable testicular tissue.
+
+Q85. A 58-year-old man has a painful groin swelling that cannot be reduced. He develops vomiting and abdominal distension, and CT shows a closed-loop obstruction within the hernia. What is the key concern?
+A. Strangulated hernia requiring urgent surgery
+B. Simple reducible hernia
+C. Hydrocele
+D. Varicocele
+E. Chronic constipation
+Answer: A.
+Explanation: Obstruction plus compromised blood supply indicates strangulation, requiring urgent exploration and assessment of bowel viability.
+
+Q86. A 74-year-old woman has a painful lump below and lateral to the pubic tubercle. It is irreducible and she develops small-bowel obstruction. Which type of hernia is most likely?
+A. Femoral hernia
+B. Direct inguinal hernia
+C. Indirect inguinal hernia
+D. Incisional hernia
+E. Epigastric hernia
+Answer: A.
+Explanation: Femoral hernias occur below and lateral to the pubic tubercle, have a narrow neck and carry a high risk of strangulation.
+
+Q87. A 60-year-old woman has a femoral hernia containing ischemic small bowel. After reduction and bowel resection, the surgeon needs to repair the femoral defect. Which operation is classically associated with tissue repair of the femoral canal using Cooper's ligament?
+A. McVay repair
+B. Lichtenstein repair
+C. Heller myotomy
+D. Puestow procedure
+E. Nissen fundoplication
+Answer: A.
+Explanation: McVay (Cooper ligament) repair uses Cooper's ligament for reinforcement and can address femoral hernia defects.
+
+Q88. A 56-year-old man develops severe abdominal pain after a previous abdominal operation. CT shows an incarcerated incisional hernia with a transition point and reduced bowel-wall enhancement. What should the surgeon suspect?
+A. Strangulated incisional hernia with bowel ischemia
+B. Simple reducible hernia
+C. GERD
+D. Achalasia
+E. Biliary colic
+Answer: A.
+Explanation: Reduced enhancement suggests compromised bowel perfusion, making urgent surgical exploration necessary.
+
+Q89. A 63-year-old man undergoes anterior resection for rectal carcinoma. On postoperative day 5 he develops tachycardia, fever and increasing abdominal pain. CT shows extraluminal contrast and pelvic fluid. What is the diagnosis?
+A. Anastomotic leak
+B. Simple postoperative ileus
+C. Biliary colic
+D. Acute appendicitis
+E. Renal colic
+Answer: A.
+Explanation: Extraluminal contrast with sepsis after colorectal anastomosis is highly suggestive of an anastomotic leak and requires urgent source-control assessment.
+
+Q90. A 61-year-old patient develops abdominal distension and absent bowel movements on postoperative day 2 after major abdominal surgery. CT shows diffuse bowel dilation without a transition point or mechanical obstruction. Which condition is most likely?
+A. Postoperative ileus
+B. Anastomotic leak
+C. Volvulus
+D. Strangulated hernia
+E. Intussusception
+Answer: A.
+Explanation: Diffuse bowel dilation without a transition point shortly after surgery favors postoperative ileus rather than mechanical obstruction.
+
+Q91. A 55-year-old man develops fever, tachycardia and localized abdominal pain one week after colorectal surgery. CT shows a 7-cm pelvic abscess that is accessible percutaneously. He is hemodynamically stable. Which treatment is most appropriate?
+A. Image-guided percutaneous drainage with antibiotics
+B. Immediate total gastrectomy
+C. Heller myotomy
+D. Observation without antibiotics
+E. TURP
+Answer: A.
+Explanation: A sizable accessible postoperative abscess is appropriately treated with percutaneous drainage and antibiotics, while the underlying source is assessed.
+
+Q92. A 39-year-old man sustains a deep abdominal stab wound. He is hypotensive, has eviscerated bowel and develops generalized peritonitis. Which management is indicated?
+A. Emergency exploratory laparotomy
+B. CT scan before any intervention
+C. Observation with serial examinations
+D. Colonoscopy
+E. Elective laparoscopy next week
+Answer: A.
+Explanation: Hemodynamic instability, evisceration and peritonitis are clear indications for emergency laparotomy following penetrating abdominal trauma.
+
+Q93. A 34-year-old man suffers blunt abdominal trauma. He is hypotensive despite resuscitation, and FAST demonstrates free intraperitoneal fluid. Which is the most appropriate next step?
+A. Emergency laparotomy
+B. CT abdomen with contrast before surgery
+C. Colonoscopy
+D. MRI abdomen
+E. Diagnostic barium study
+Answer: A.
+Explanation: In an unstable trauma patient, a positive FAST indicates likely intra-abdominal hemorrhage requiring immediate operative control.
+
+Q94. A 29-year-old woman sustains a deep partial-thickness burn involving the entire circumference of the chest. She develops increasing respiratory difficulty because the rigid burned skin restricts chest expansion. Which procedure may be lifesaving?
+A. Escharotomy
+B. Fasciotomy of the leg
+C. Thoracotomy
+D. Laparotomy
+E. Tracheostomy in every case
+Answer: A.
+Explanation: Circumferential full-thickness chest burns can restrict ventilation. Escharotomy releases the constricting eschar.
+
+Q95. A 42-year-old man sustains a circumferential full-thickness burn of the lower limb. The foot becomes increasingly painful, cool and poorly perfused because the eschar is restricting vascular flow. Which procedure is indicated?
+A. Escharotomy
+B. Whipple procedure
+C. Heller myotomy
+D. Hartmann procedure
+E. TURP
+Answer: A.
+Explanation: Circumferential eschar can impair distal circulation. Escharotomy relieves the constriction and restores perfusion.
+
+Q96. A 44-year-old man develops necrotizing fasciitis of the lower limb with rapidly progressive pain, bullae, systemic toxicity and crepitus. Which management should not be delayed while waiting for definitive culture results?
+A. Emergency wide surgical debridement with broad-spectrum IV antibiotics
+B. Oral antibiotics alone
+C. Steroid injection
+D. Elective debridement after one week
+E. Compression stockings
+Answer: A.
+Explanation: Necrotizing infection requires immediate surgical source control. Delay markedly increases mortality.
+
+Q97. A 58-year-old man develops severe postoperative wound pain, fever and purulent discharge. The wound edges separate and deep tissue is visible. Which complication is most concerning?
+A. Wound dehiscence
+B. Hypertrophic scar
+C. Seroma only
+D. Keloid
+E. Simple bruising
+Answer: A.
+Explanation: Separation of a surgical wound, especially with deep tissue exposure, represents wound dehiscence and requires urgent assessment for fascial disruption and infection.
+
+Q98. A 67-year-old obese man develops sudden postoperative wound separation on day 7 after laparotomy. Serosanguineous discharge was noted shortly before the wound opened. The fascia is disrupted but bowel is not yet eviscerated. What is the most appropriate management?
+A. Urgent operative fascial reclosure
+B. Oral antibiotics alone
+C. Delayed closure for several months without assessment
+D. Skin suturing only
+E. Observation until spontaneous healing
+Answer: A.
+Explanation: Fascial dehiscence is a major postoperative complication requiring urgent surgical repair to prevent evisceration and further complications.
+
+Q99. A 60-year-old man undergoes major abdominal surgery and develops sudden hypotension, tachycardia and oliguria. He has cool extremities and elevated lactate despite initial fluid administration. There is concern for ongoing intra-abdominal bleeding. Which principle is most important?
+A. Immediate identification and surgical control of hemorrhage
+B. Diuretics as first-line therapy
+C. Delayed imaging after several days
+D. Oral fluids only
+E. Elective surgery after stabilization without identifying the source
+Answer: A.
+Explanation: Suspected postoperative hemorrhagic shock requires rapid resuscitation and definitive hemorrhage control, including reoperation or interventional radiology when indicated.
+
+Q100. 🔥 FINAL BOSS A 64-year-old man presents with severe abdominal pain, vomiting and progressive distension. CT demonstrates an obstructing sigmoid carcinoma with proximal colonic dilation. During evaluation he becomes hypotensive, develops generalized peritonitis and has evidence of bowel ischemia. At laparotomy, the sigmoid tumor is perforated and the proximal colon is markedly compromised. Which operative strategy is most appropriate?
+A. Primary low anterior resection with immediate colorectal anastomosis in all circumstances
+B. Hartmann procedure with resection of the diseased/ischemic segment
+C. Heller myotomy followed by observation
+D. Nissen fundoplication with gastropexy
+E. Whipple pancreaticoduodenectomy
+Answer: B.
+Explanation: This patient has obstruction + perforation + peritonitis + systemic instability + compromised bowel. Hartmann procedure provides rapid source control while avoiding a high-risk colorectal anastomosis in an unstable, contaminated setting. NLE TRAP: Don't choose LAR simply because the tumor is in the sigmoid/rectosigmoid region. The patient's physiological condition and contamination determine the emergency operation. this is pediatric 👶 PEDIATRICS — TOUGH NLE MOCK
+

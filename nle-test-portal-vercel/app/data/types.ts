@@ -1,5 +1,5 @@
 export type Question={id:number;question:string;options:string[];answer:number;explanation:string};
-export type TestInfo={slug:string;name:string;short:string;icon:string;color:string;questionCount:number;duration:number;category:"systems"|"basic"|"grand"};
+export type TestInfo={slug:string;name:string;short:string;icon:string;color:string;questionCount:number;duration:number;category:"systems"|"basic"|"grand"|"major"};
 export const tests:TestInfo[]=[
   {
     "slug": "cvs",
@@ -99,5 +99,9 @@ export const tests:TestInfo[]=[
   {"slug":"grand-mock-exam-5","name":"NLE Grand Mock Test 7","short":"MOCK 07","icon":"07","color":"#0f766e","questionCount":200,"duration":180,"category":"grand"},
   {"slug":"grand-mock-exam-6","name":"NLE Grand Mock Test 8","short":"MOCK 08","icon":"08","color":"#15803d","questionCount":200,"duration":180,"category":"grand"},
   {"slug":"grand-mock-exam-7","name":"NLE Grand Mock Test 9","short":"MOCK 09","icon":"09","color":"#a16207","questionCount":200,"duration":180,"category":"grand"},
-  {"slug":"grand-mock-exam-8","name":"NLE Grand Mock Test 10","short":"MOCK 10","icon":"10","color":"#be123c","questionCount":200,"duration":180,"category":"grand"}
+  {"slug":"grand-mock-exam-8","name":"NLE Grand Mock Test 10","short":"MOCK 10","icon":"10","color":"#be123c","questionCount":200,"duration":180,"category":"grand"},
+  {"slug":"pediatrics","name":"Pediatrics","short":"PEDS","icon":"👶","color":"#1d7a6a","questionCount":100,"duration":120,"category":"major"},
+  {"slug":"ent","name":"ENT","short":"ENT","icon":"👂","color":"#3d6fa8","questionCount":50,"duration":60,"category":"major"},
+  {"slug":"surgery","name":"Surgery","short":"SURG","icon":"🔪","color":"#b45309","questionCount":100,"duration":120,"category":"major"},
+  {"slug":"medicine","name":"Medicine","short":"MED","icon":"🩺","color":"#9f1239","questionCount":100,"duration":120,"category":"major"}
 ];

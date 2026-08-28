@@ -1,0 +1,900 @@
+Q1. A 65-year-old man, 40 pack-year smoker, presents with 3 months progressive hemoptysis, weight loss 7kg, and hoarseness. CT chest shows central hilar mass 4.5cm with cavitation, encasing right main bronchus, with mediastinal lymphadenopathy. Labs: Ca 12.8 mg/dL, PTH suppressed, PTHrP elevated. Biopsy: sheets of polygonal cells with keratin pearls, intercellular bridges, p40 positive, TTF-1 negative. What is most likely diagnosis and paraneoplastic mechanism?
+A. Squamous cell carcinoma lung with PTHrP-mediated hypercalcemia
+B. Adenocarcinoma with SIADH
+C. Small cell carcinoma with ectopic ACTH
+D. Mesothelioma with hypoglycemia due to IGF-2
+E. Carcinoid with carcinoid syndrome
+Answer: A.
+Explanation: Central + cavitation + keratin pearls + p40+ = SCC. SCC produces PTHrP → hypercalcemia, not bone mets.
+
+Q2. A 24-year-old woman presents with recurrent UTIs, bilateral flank pain, microscopic hematuria, and BP 152/96. Family history father and paternal grandfather on dialysis at 50s. US: bilaterally enlarged kidneys 16cm each with multiple cysts of varying sizes, liver also has 3 cysts. Fundoscopy normal. What is inheritance and most feared extra-renal complication to counsel?
+A. ADPKD PKD1/PKD2 autosomal dominant; Berry aneurysm → SAH, MVP, colonic diverticula
+B. ARPKD autosomal recessive; only hepatic fibrosis
+C. Medullary sponge kidney; no extra-renal
+D. Simple cysts; benign
+E. Alport X-linked; deafness only
+Answer: A.
+Explanation: ADPKD adult onset, liver cysts, HTN, intracranial aneurysm screening if family h/o SAH.
+
+Q3. A 45-year-old man with chronic alcohol use presents with sudden severe epigastric pain radiating to back, vomiting, relieved leaning forward. Exam: epigastric tenderness, absent bowel sounds. Labs: Amylase 1300, lipase 2100, triglycerides 180, glucose 240 mg/dL, Ca 7.6 mg/dL, LDH 450, PaO2 68 mmHg. CT: peripancreatic stranding. Which scoring uses these as poor prognostic factors within 48h?
+A. Ranson criteria - Age>55, WBC>16k, Glucose>200, LDH>350, AST>250, Ca<8, PaO2<60, Base deficit>4, Fluid sequestration>6L
+B. Child-Pugh only bilirubin
+C. CURB-65 confusion
+D. APACHE only age
+E. MELD
+Answer: A.
+Explanation: Ranson predicts mortality in acute pancreatitis. Hypocalcemia due to saponification, hyperglycemia due to insulin deficiency.
+
+Q4. A 22-year-old vegetarian woman presents with 6 months fatigue, sore tongue, tingling in feet, unsteady gait. Exam: pallor, glossitis, loss of vibration and proprioception in legs, positive Romberg, hyperreflexia at knees. Labs: Hb 7.5 g/dL, MCV 114 fL, WBC 3.1k, platelet 105k, hypersegmented neutrophils, LDH high, indirect bilirubin mildly high, B12 85 pg/mL low. Which neurologic tracts involved and definitive treatment?
+A. Subacute combined degeneration - dorsal column + corticospinal; IM hydroxocobalamin lifelong if pernicious anemia with anti-intrinsic factor antibodies
+B. Microcytic anemia due to iron only
+C. Hemolytic anemia steroids only
+D. Aplastic anemia ATG only
+E. Normal neurology iron only
+Answer: A.
+Explanation: B12 needed for myelin, deficiency → demyelination. Pernicious anemia autoimmune.
+
+Q5. A 58-year-old chronic alcoholic, malnourished, brought with acute confusion, ataxic gait, horizontal nystagmus, bilateral lateral rectus palsy, confabulation. History of vomiting 4 days, no food intake. Wife says he drinks 12 units/day for 15 years. Resident plans D50 infusion before thiamine. What error and immediate correction to prevent irreversible damage?
+A. Giving glucose before thiamine precipitates Wernicke → Korsakoff; Give high-dose IV thiamine 500mg TDS for 3-5 days before/with glucose
+B. Giving thiamine before glucose is error
+C. Giving fluids is error
+D. Correcting Mg is error
+E. Nutritional support is error
+Answer: A.
+Explanation: Thiamine cofactor for pyruvate dehydrogenase, glucose increases demand.
+
+Q6. A 35-year-old woman presents with 6 months paroxysmal headaches, palpitations, sweating, anxiety. During attacks BP 220/130, HR 110, pallor. Between attacks BP normal. CT abdomen: 4.2cm right adrenal heterogeneous mass with necrosis. 24hr urinary metanephrines and VMA markedly elevated. She is scheduled for adrenalectomy. What is correct pre-op sequence?
+A. Alpha-blockade phenoxybenzamine 10-14 days with high salt diet and fluids, then add beta-blocker if tachycardia, monitor orthostatic hypotension
+B. Beta-blockade alone first → unopposed alpha crisis
+C. ACE-I alone
+D. Immediate surgery without prep → hypertensive crisis on induction
+E. No prep needed
+Answer: A.
+Explanation: Pheochromocytoma rule: alpha before beta.
+
+Q7. A 38-year-old man HIV positive, CD4 45 cells, not on ART, presents with 2 weeks progressive dyspnea, dry cough, fever, weight loss. Exam: tachypneic, SpO2 88% room air, bibasal creps. CXR: bilateral perihilar ground-glass opacities with sparing of periphery, no effusion. ABG: PaO2 62 mmHg, A-a gradient high. LDH 620. What is diagnosis and treatment with indication for steroids?
+A. Pneumocystis jirovecii pneumonia; High-dose TMP-SMX 15-20mg/kg + prednisone if PaO2<70 or A-a>35
+B. TB; ATT only
+C. Bacterial pneumonia; Amoxicillin
+D. Kaposi sarcoma; Chemo
+E. COVID; Remdesivir
+Answer: A.
+Explanation: PCP classic in CD4<200, ground glass, high LDH, hypoxia.
+
+Q8. A 28-year-old man presents with hemoptysis, dyspnea, oliguria, hematuria. Labs: Hb 8.5, creatinine 3.2 rising, urinalysis RBC casts, protein 2+. Anti-GBM antibodies positive linear IgG on immunofluorescence, p-ANCA positive 30%. Biopsy: crescentic GN with linear IgG along GBM. Diagnosis and emergency management?
+A. Goodpasture syndrome (anti-GBM disease); Plasma exchange + cyclophosphamide + steroids
+B. IgA nephropathy; Steroids alone
+C. Alport; No immunotherapy
+D. GPA alone; Only steroids
+E. Lupus nephritis; Only hydroxychloroquine
+Answer: A.
+Explanation: Pulmonary-renal syndrome, linear deposits, rapidly progressive GN.
+
+Q9. A 55-year-old man with dilated cardiomyopathy, prior MI, EF 25%, NYHA III, on furosemide. Exam: elevated JVP, bibasal creps, edema. Labs: BNP high, K 4.2. Which combination reduces mortality, not just symptoms?
+A. Sacubitril-valsartan or ACE-I + Evidence-based beta-blocker bisoprolol/carvedilol + MRA spironolactone + SGLT2 inhibitor dapagliflozin
+B. Digoxin alone reduces mortality - false, only reduces hospitalization
+C. Furosemide alone reduces mortality - false, symptom only
+D. Verapamil reduces mortality in HFrEF - harmful
+E. Aspirin alone
+Answer: A.
+Explanation: Four pillars of HFrEF guideline-directed therapy.
+
+Q10. A 60-year-old woman with 1 year weight gain 8kg, constipation, cold intolerance, fatigue, menorrhagia, hoarse voice, dry skin, non-pitting edema, bradycardia 52/min, delayed relaxation ankle reflex. Labs: TSH 48 mIU/L high, free T4 0.4 low, anti-TPO high. At risk of what if infection occurs?
+A. Myxedema coma - hypothermia, hypoventilation, hypotension, altered mentation; precipitated by infection, sedatives, cold
+B. Thyroid storm
+C. Adrenal crisis alone
+D. DKA
+E. Pheo crisis
+Answer: A.
+Explanation: Severe hypothyroidism decompensation.
+
+Q11. A 50-year-old man acute retrosternal chest pain radiating left arm, diaphoresis, nausea, onset 2hr ago. ECG: ST elevation V1-V4 with hyperacute T, Q waves developing. Troponin I high. Echo: anterior wall hypokinesia, EF 35%. Coronary likely?
+A. Proximal LAD occlusion - Widowmaker, worst prognosis, risk of cardiogenic shock and VSD
+B. RCA - inferior MI bradycardia
+C. LCx - lateral MI
+D. Pericarditis - diffuse ST
+E. Aortic dissection - tearing pain BP difference
+Answer: A.
+Explanation: Anterior STEMI.
+
+Q12. A 33-year-old woman with 2 years recurrent painful oral aphthae, genital ulcers, erythema nodosum, bilateral anterior uveitis, and pathergy test positive pustule after needle prick. HLA-B51 positive. Diagnosis and vessel type?
+A. Behcet disease - variable vessel vasculitis, Silk route, treatment colchicine + steroids + azathioprine
+B. SLE - ANA positive small vessel
+C. RA - small joints
+D. Reiter - HLA-B27
+E. Crohn - granulomatous
+Answer: A.
+Explanation: Behcet triad.
+
+Q13. A 70-year-old man AF not anticoagulated sudden aphasia, right hemiplegia, facial droop, NIHSS 16, last known well 2.5hr ago. CT head no bleed ASPECTS 9, CT angio left M1 occlusion. Eligible for thrombolysis. Additional therapy with extended window?
+A. Mechanical thrombectomy up to 24h with perfusion imaging DAWN/DEFUSE, best within 6h, plus IV tenecteplase
+B. Immediate warfarin
+C. Carotid endarterectomy emergent - not acute
+D. IV heparin bolus before lysis - increases bleed
+E. Lumbar puncture - not indicated
+Answer: A.
+Explanation: Large vessel occlusion.
+
+Q14. A 25-year-old woman fever, malar rash, photosensitivity, oral ulcers, arthralgia, proteinuria 3g, RBC casts, low C3/C4, anti-dsDNA high, ANA positive. Biopsy: diffuse endocapillary proliferation wire-loop subendothelial deposits, crescents. Class and induction?
+A. Class IV diffuse proliferative LN - high dose steroids + mycophenolate or IV cyclophosphamide
+B. Class I minimal mesangial
+C. Class II mesangial proliferative
+D. Class V membranous
+E. Class VI sclerosing
+Answer: A.
+Explanation: Most common severe LN.
+
+Q15. A 45-year-old man chronic HBV surface Ag+, presents with palpable purpura legs, arthralgia, peripheral neuropathy mononeuritis multiplex, low C4, cryoglobulins positive, RF positive. Skin biopsy leukocytoclastic vasculitis. Diagnosis?
+A. Mixed cryoglobulinemia vasculitis secondary to HBV - small vessel immune complex
+B. HSP - IgA
+C. GPA - c-ANCA
+D. PAN - HBV but medium vessel, no cryo
+E. SLE
+Answer: A.
+Explanation: HBV/HCV → cryoglobulins.
+
+Q16. A 30-year-old woman amenorrhea, galactorrhea, headaches, bitemporal hemianopia, cold intolerance, hypotension. Labs: low free T4 low TSH, low cortisol low ACTH, low LH/FSH, prolactin mildly high due to stalk effect. MRI: 2.5cm sellar mass compressing chiasm with hemorrhage. Diagnosis thyroid abnormality?
+A. Central hypothyroidism due to pituitary macroadenoma apoplexy with panhypopituitarism
+B. Primary hypothyroidism
+C. Addison primary
+D. Prolactinoma only
+E. Craniopharyngioma child only
+Answer: A.
+Explanation: Pituitary compression → central.
+
+Q17. A 48-year-old alcoholic man hematemesis 500mL, melena, hypotension 85/55, tachycardia 115, jaundice, ascites, splenomegaly, spider nevi. Hb 7.2, INR 1.8, platelets 65k. Endoscopy: large esophageal varices with active spurting. Management priority?
+A. Airway, breathing, circulation, octreotide infusion, band ligation, prophylactic ceftriaxone, non-selective BB carvedilol secondary prophylaxis, TIPS if refractory
+B. NSAIDs
+C. Warfarin
+D. No treatment
+E. Immediate surgical shunt
+Answer: A.
+Explanation: Variceal bleed portal HTN.
+
+Q18. A 55-year-old man chronic NSAID user epigastric pain worse at night relieved by food, melena 2 days, Hb 9.5. Endoscopy: duodenal ulcer anterior wall with visible vessel Forrest IIa. H. pylori urease positive. Management?
+A. High-dose IV PPI, endoscopic hemostasis, triple therapy PPI+clarithro+amox, stop NSAIDs, test eradication
+B. Surgery immediately
+C. Antacids alone
+D. No treatment
+E. Steroids
+Answer: A.
+Explanation: Duodenal ulcer bleed.
+
+Q19. A 50-year-old man progressive dysphagia to solids then liquids, regurgitation undigested food, weight loss 10kg, halitosis. Barium swallow: dilated esophagus with retained food, bird-beak at GE junction. Manometry: absent peristalsis, incomplete LES relaxation, high resting LES pressure. Risk and needed test?
+A. Achalasia - loss myenteric plexus; Do endoscopy to exclude pseudoachalasia malignancy; Risk SCC esophagus
+B. Barrett adenocarcinoma only
+C. No risk
+D. Gastric cancer only
+E. Colon cancer
+Answer: A.
+Explanation: Achalasia complication.
+
+Q20. A 33-year-old woman Graves disease stopped carbimazole 2 weeks ago presents with fever 39.5°C, HR 148 irregular AF, agitation, delirium, vomiting diarrhea, jaundice. Exam: goiter, exophthalmos, tremor. Labs: free T4 very high, TSH suppressed. Burch-Wartofsky 55. Treatment sequence?
+A. PTU/methimazole first, then 1hr later Lugol iodine, propranolol, hydrocortisone, cooling, treat precipitant
+B. No treatment
+C. Aspirin
+D. Heparin
+E. Antibiotics only
+Answer: A.
+Explanation: Thyroid storm.
+
+Q21. A 50-year-old woman resistant HTN 160/100 despite 3 drugs, hypokalemia 2.8, metabolic alkalosis, muscle weakness, polyuria. Labs: aldosterone high, renin low, Na high. CT: 1.8cm left adrenal adenoma. Confirmatory test and treatment?
+A. Primary hyperaldosteronism Conn - saline suppression test fails to suppress aldo; Spironolactone + laparoscopic adrenalectomy
+B. Cushing
+C. Pheo
+D. Addison
+E. RAS
+Answer: A.
+Explanation: HTN + hypoK + alkalosis.
+
+Q22. A 42-year-old woman weight loss, fatigue, nausea, dizziness on standing, hyperpigmented creases, gums, nipples, hypotension 90/60, hyponatremia 124, hyperkalemia 5.8, hypoglycemia. Cortisol 2 low, ACTH 980 high, anti-adrenal antibodies positive. Diagnosis emergency?
+A. Primary adrenal insufficiency Addison autoimmune; Risk adrenal crisis → stress dose hydrocortisone + fludrocortisone
+B. Cushing
+C. Secondary adrenal low ACTH no pigmentation
+D. Pheo
+E. Hyperthyroid
+Answer: A.
+Explanation: Primary low cortisol high ACTH pigmentation POMC.
+
+Q23. A 29-year-old woman 2 first-trimester abortions, DVT left leg at 26y, now 30w pregnant BP 158/104, proteinuria 2.5g, platelet 88k, aPTT 52 prolonged not correcting with mixing study, PT normal. Diagnosis underlying?
+A. Antiphospholipid syndrome with preeclampsia - lupus anticoagulant prolongs aPTT but paradoxically thrombotic
+B. ITP
+C. DIC
+D. HELLP alone
+E. Factor V Leiden - does not prolong aPTT
+Answer: A.
+Explanation: APS criteria.
+
+Q24. A 19-year-old college student fever, sore throat, fatigue 2 weeks, cervical posterior lymphadenopathy, splenomegaly, atypical lymphocytes Downey cells, heterophile antibody positive, LFT mildly elevated. Advice?
+A. EBV infectious mononucleosis - avoid contact sports 3-4 weeks due to splenic rupture risk
+B. CMV heterophile negative
+C. HIV
+D. Toxoplasma
+E. Strep - atypical lymphocytes not seen
+Answer: A.
+Explanation: Mononucleosis.
+
+Q25. A 60-year-old man gout tophi over elbows, serum uric acid 10.2 mg/dL, creatinine 1.4, renal stones. Presents acute podagra first MTP hot red swollen. Which drug acutely and which drug chronically not to start in acute?
+A. Acute: NSAID indomethacin/colchicine/low-dose steroids; Chronic: Allopurinol/febuxostat after acute settles 2 weeks, with colchicine prophylaxis
+B. Start allopurinol during acute - worsens
+C. No treatment
+D. Antibiotics
+E. Steroids only chronic
+Answer: A.
+Explanation: Urate lowering not acute.
+
+Q26. A 55-year-old woman never smoker progressive dyspnea 2y dry cough bibasal fine end-inspiratory crackles clubbing. PFT: FVC 55% predicted low, FEV1/FVC 88% high, DLCO 38% low, TLC low. HRCT: basal peripheral reticular opacities honeycombing traction bronchiectasis. Most likely and therapy?
+A. IPF UIP pattern - antifibrotics pirfenidone/nintedanib, O2, transplant referral, poor prognosis
+B. COPD - obstructive high TLC
+C. Asthma - reversible
+D. Bronchiectasis - productive cough
+E. TB - cavitation upper lobe
+Answer: A.
+Explanation: ILD.
+
+Q27. A 40-year-old woman asthma on budesonide 400mcg BD, still uses salbutamol 5-6 puffs daily, wakes 3 nights/week, FEV1 65% predicted, technique correct, adherence good. Next step per GINA and why not LABA alone?
+A. Add LABA formoterol in combination ICS/LABA inhaler; LABA monotherapy without ICS increases asthma death due to masking inflammation
+B. Oral salbutamol alone
+C. Long-term azithromycin - not first step
+D. Stop ICS
+E. Propranolol - bronchoconstriction
+Answer: A.
+Explanation: Step-up.
+
+Q28. A 60-year-old man fatigue 3 months early satiety weight loss 5kg massive splenomegaly 14cm, no lymphadenopathy. CBC: WBC 112k with myelocytes metamyelocytes promyelocytes basophilia 5% eosinophilia, platelets 480k. LAP score low. BCR-ABL p210 positive. Best targeted and what predicts progression?
+A. Imatinib BCR-ABL TKI; Additional chromosomal abnormalities, blasts >10% → accelerated/blast crisis
+B. Rituximab anti-CD20
+C. HCQ
+D. MTX
+E. Hydroxyurea curative - only cytoreduction
+Answer: A.
+Explanation: CML chronic phase.
+
+Q29. A 58-year-old man 6 months back pain worse night, fatigue, recurrent sinus infections, weight loss. Labs: Hb 8.8, Ca 11.9 high, creatinine 2.3, ESR 98, total protein 9.9 albumin 3.0 gap high. SPEP: M-spike IgG kappa 4.2g/dL. X-ray: punched-out lytic skull lesions, vertebral compression. What distinguishes from MGUS?
+A. CRAB features hyperCalcemia Renal Anemia Bone lesions + clonal plasma >10% or SLiM CRAB criteria → multiple myeloma
+B. M-protein alone = MGUS
+C. Age>50 alone
+D. Mild protein high alone
+E. Asymptomatic alone
+Answer: A.
+Explanation: Myeloma defining events.
+
+Q30. A 25-year-old woman fever confusion headache oliguria petechiae. Labs: Hb 7.6, platelet 16k, creatinine 2.0, LDH 1100, indirect bilirubin high, retics high, PT/APTT normal, haptoglobin low. Smear schistocytes. ADAMTS13 activity <10%. Management?
+A. TTP pentad - plasma exchange daily + high dose steroids + rituximab if refractory, avoid platelet transfusion unless life-threatening bleed
+B. DIC - FFP platelets
+C. ITP - IVIG
+D. HUS eculizumab - mainly complement mediated
+E. No treatment
+Answer: A.
+Explanation: vWF multimer.
+
+Q31. A 28-year-old woman 2 weeks petechiae legs gum bleeding heavy menses, no fever, no drugs, no recent infection. CBC: platelet 11k, Hb 13.5 normal, WBC 6.2 normal, PT/APTT normal, no schistocytes. No hepatosplenomegaly. Diagnosis pathophysiology?
+A. ITP - autoantibodies anti-GPIIb/IIIa → peripheral destruction + marrow megakaryocytes increased
+B. DIC - consumption coagulopathy low fibrinogen
+C. TTP - ADAMTS13 deficiency schistocytes
+D. Hemophilia - factor deficiency normal platelets
+E. Aplastic anemia - pancytopenia
+Answer: A.
+Explanation: Isolated thrombocytopenia.
+
+Q32. A 24-year-old woman started nitrofurantoin 10 days ago jaundiced fatigue dark urine. Labs: Hb 8.1, indirect bilirubin high, LDH 680, haptoglobin <10, retics 7.5%, spherocytes blood film. Direct Coombs IgG+C3d positive. Mechanism?
+A. Drug-induced AIHA warm antibodies - stop drug + steroids if severe
+B. Thalassemia microcytic
+C. Iron deficiency
+D. G6PD Heinz bodies
+E. Gilbert unconjugated normal LDH
+Answer: A.
+Explanation: DAT positive.
+
+Q33. A 39-year-old man with 10-year ulcerative colitis pancolitis presents with fatigue pruritus jaundice weight loss. Labs: ALP 520 4x ULN, bilirubin 3.8 direct, AST/ALT mild high. MRCP: multifocal short strictures and dilatations intra+extrahepatic beads on string. p-ANCA positive. Complication surveillance?
+A. Primary sclerosing cholangitis → cholangiocarcinoma 10-15% lifetime + high colorectal cancer risk → annual colonoscopy + CA19-9/MRCP + dominant stricture brush cytology
+B. RCC
+C. Pancreatic pseudocyst
+D. Hepatoblastoma
+E. Gastric outlet obstruction
+Answer: A.
+Explanation: PSC+UC association.
+
+Q34. A 63-year-old 40 pack-year smoker weight loss hemoptysis. CT: 3.8cm peripheral spiculated mass RUL pleural tag. Biopsy: gland forming, mucin+, TTF-1+, napsin A+, p40 negative. Molecular mandatory?
+A. Adenocarcinoma lung peripheral - test EGFR, ALK, ROS1, KRAS, BRAF, MET, PD-L1 for targeted/immunotherapy
+B. Squamous no molecular
+C. Small cell no molecular
+D. Mesothelioma BAP1
+E. Carcinoid Ki-67 only
+Answer: A.
+Explanation: Most common lung cancer.
+
+Q35. A 62-year-old COPD GOLD D FEV1 38% exacerbation fever purulent sputum RR 30 wheeze, ABG pH 7.32 PaCO2 62 PaO2 58 HCO3 30. On BiPAP. Management?
+A. Controlled O2 88-92%, nebulized SABA+SAMA, systemic steroids 40mg 5 days, antibiotics if purulent, NIV for hypercapnic acidosis, avoid high flow O2
+B. High flow O2 100% - worsens CO2
+C. No steroids
+D. Sedatives
+E. Morphine - respiratory depression
+Answer: A.
+Explanation: COPD exacerbation.
+
+Q36. A 45-year-old man sudden pleuritic chest pain dyspnea tachycardia syncope. History DVT leg swelling. Exam: tachycardic 112, tachypneic 28, BP 90/60, JVP raised, loud P2. ECG S1Q3T3, T inversion V1-V3. D-dimer positive, troponin mildly elevated, BNP high. Gold standard diagnosis and management if no contraindication?
+A. Pulmonary embolism - CT pulmonary angiography gold standard; Anticoagulate heparin/LMWH then DOAC, thrombolysis if massive hypotension
+B. MI - cath
+C. Pneumothorax - chest tube
+D. Pneumonia - antibiotics
+E. Dissection - surgery
+Answer: A.
+Explanation: PE Well's.
+
+Q37. A 55-year-old woman RA 12 years dry eyes dry mouth gritty sensation difficulty swallowing dry foods, parotid enlargement, dental caries. Schirmer test <5mm, anti-Ro/SSA La/SSB positive, RF positive, ANA positive. Diagnosis extra risk?
+A. Secondary Sjogren syndrome - lymphocytic infiltration exocrine glands, risk B-cell lymphoma, monitor parotid enlargement
+B. SLE alone
+C. Scleroderma
+D. Sarcoid
+E. No disease
+Answer: A.
+Explanation: Sjogren.
+
+Q38. A 35-year-old man inflammatory low back pain 2 years morning stiffness >1hr improves exercise worse rest, alternating buttock pain, chest expansion reduced, HLA-B27 positive. X-ray sacroiliitis bilateral grade 3, bamboo spine later. Diagnosis treatment?
+A. Ankylosing spondylitis - NSAIDs first line + physiotherapy + anti-TNF if refractory
+B. OA mechanical pain
+C. RA small joints
+D. Gout
+E. Septic arthritis
+Answer: A.
+Explanation: Seronegative SpA.
+
+Q39. A 50-year-old woman proximal weakness difficulty climbing stairs combing hair, heliotrope rash purple eyelids, Gottron papules knuckles, shawl sign, elevated CK 3400, EMG myopathic, anti-Mi2 positive. Increased risk?
+A. Dermatomyositis - high malignancy risk especially ovary, lung, GI; Screen age-appropriate + CT chest/abdomen/pelvis
+B. Polymyositis - no rash
+C. Inclusion body - distal weakness
+D. Myasthenia - fatigable
+E. SLE - not CK high
+Answer: A.
+Explanation: Inflammatory myopathy paraneoplastic.
+
+Q40. A 40-year-old man jaundice encephalopathy asterixis coagulopathy INR 3.2, no prior liver disease, took paracetamol 15g 2 days ago for fever, now oliguric, ABG pH 7.28 lactate high. ALT 5200, bilirubin 5.2. Diagnosis and antidote?
+A. Acute liver failure due to paracetamol - N-acetylcysteine infusion, transplant evaluation King’s College criteria pH<7.3 INR>6.5 creatinine>3.4 grade III/IV encephalopathy
+B. Chronic liver disease
+C. No treatment
+D. Steroids
+E. UDCA
+Answer: A.
+Explanation: ALF.
+
+Q41. A 68-year-old man dysphagia solids first then liquids weight loss 8kg smoking alcohol hot beverages. Endoscopy: ulcerated mass mid-esophagus 30cm, biopsy squamous cell carcinoma p63+. Lower third lesion usually what? Risk factor?
+A. Mid esophagus SCC due to smoking/alcohol/hot drinks/achalasia; Lower third adenocarcinoma due to Barrett/GORD/obesity
+B. Barrett mid
+C. H pylori mid
+D. No risk
+E. Cold drinks mid
+Answer: A.
+Explanation: Esophageal cancer epidemiology.
+
+Q42. A 30-year-old man painless cervical lymphadenopathy 3 months night sweats weight loss, mediastinal mass CXR, biopsy: Reed-Sternberg cells binucleated owl eye CD15+CD30+ CD20-, background eosinophils. Diagnosis stage workup?
+A. Classical Hodgkin lymphoma - Ann Arbor staging PET-CT + ABVD chemo
+B. NHL
+C. TB caseating granuloma
+D. Metastatic carcinoma
+E. Reactive hyperplasia
+Answer: A.
+Explanation: RS cells.
+
+Q43. A 65-year-old man fatigue recurrent infections, CBC WBC 78k lymphocytes 90% smudge cells on smear, CD5+CD23+ B cells CD20 dim, lymphadenopathy cervical. Diagnosis management early stage?
+A. CLL most common adult leukemia - watch and wait if early stage Rai 0/Binet A, treatment if B symptoms, bulky disease, marrow failure
+B. ALL blasts
+C. AML Auer rods
+D. CML BCR-ABL
+E. Hairy cell TRAP+
+Answer: A.
+Explanation: Smudge cells fragile.
+
+Q44. A 70-year-old woman new severe temporal headache, jaw claudication chewing, scalp tenderness combing hair, transient vision loss amaurosis fugax, fever malaise, temporal artery tender beaded pulseless, ESR 105 CRP 120. Urgent to prevent?
+A. Giant cell arteritis - large vessel vasculitis; Immediate high-dose steroids 60mg prednisolone to prevent blindness, temporal artery biopsy within 2 weeks, association PMR
+B. Migraine - triptan
+C. Cluster - O2
+D. Tension - paracetamol
+E. Meningitis - antibiotics
+Answer: A.
+Explanation: GCA emergency.
+
+Q45. A 40-year-old asthmatic woman allergic rhinitis sinusitis 10 years now mononeuritis multiplex foot drop, palpable purpura, eosinophilia 18%, asthma, pulmonary infiltrates fleeting, p-ANCA MPO positive, biopsy eosinophilic vasculitis. Diagnosis?
+A. EGPA Churg-Strauss - asthma + eosinophilia + systemic vasculitis small-medium vessel
+B. GPA c-ANCA PR3 upper airway/lung/kidney
+C. Goodpasture
+D. TB
+E. Pneumonia
+Answer: A.
+Explanation: EGPA triad.
+
+Q46. A 50-year-old chronic alcoholic smoker steatorrhea bulky foul oily stools weight loss 8kg diabetes polyuria polydipsia, epigastric pain. CT: calcified pancreas atrophic with dilated duct chain of lakes, fecal elastase <100 low. Diagnosis complications?
+A. Chronic pancreatitis - exocrine insufficiency + DM type 3c + pseudocyst + biliary obstruction + pancreatic cancer risk; PERT + insulin
+B. Celiac - tTG+
+C. Crohn - granuloma
+D. UC - bloody diarrhea
+E. IBS - normal tests
+Answer: A.
+Explanation: Chronic pancreatitis.
+
+Q47. A 25-year-old man chronic bloody diarrhea with mucus but also perianal fistula, RLQ pain, weight loss, fever. Colonoscopy: skip lesions, deep linear ulcers, cobblestoning, ileum affected, rectum spared, transmural granulomas non-caseating, creeping fat on CT. Diagnosis extraintestinal?
+A. Crohn disease - transmural, fistula, skip, granuloma, ankylosing, erythema nodosum, uveitis, gallstones kidney stones; Treatment anti-TNF
+B. UC continuous rectum always involved
+C. TB caseating
+D. IBS no inflammation
+E. Colon cancer mass
+Answer: A.
+Explanation: Crohn vs UC.
+
+Q48. A 60-year-old man melena 2 days NSAID diclofenac use, epigastric pain, syncope, Hb 8.2, BUN/creatinine ratio high. Endoscopy: duodenal ulcer anterior wall with visible vessel Forrest IIa. H pylori urease+. Management?
+A. Resuscitate, high-dose IV PPI, endoscopic hemostasis clip/cautery, triple therapy for H pylori, stop NSAIDs, re-test eradication, avoid rebleed
+B. Surgery immediately
+C. No treatment
+D. Variceal banding - not varices
+E. Octreotide - varices
+Answer: A.
+Explanation: Ulcer bleed.
+
+Q49. A 35-year-old woman weight loss despite good appetite heat intolerance palpitations tremor anxiety sweating diarrhea, diffuse goiter with bruit, exophthalmos, lid lag, pretibial myxedema, TRAb positive high. Diagnosis complications?
+A. Graves disease autoimmune hyperthyroidism - anti-TSH receptor stimulating; Treatment antithyroid carbimazole + propranolol + radioiodine + ophthalmopathy steroids
+B. Hashimoto hypothyroid
+C. Toxic nodule single
+D. Thyroiditis painful
+E. No disease
+Answer: A.
+Explanation: Graves.
+
+Q50. A 45-year-old man polyuria 5L/day polydipsia nocturia, history head trauma 2 months ago. Water deprivation test: urine osmolality 160 mOsm low, after desmopressin rises to 520 >50% increase. Serum Na 148 high. Diagnosis?
+A. Central diabetes insipidus due to pituitary stalk damage lack ADH - desmopressin responsive
+B. Nephrogenic DI - no response desmopressin due to kidney resistance lithium/hypercalcemia
+C. Primary polydipsia - urine osm high after deprivation >600
+D. SIADH - low urine output high urine osm
+E. No DI
+Answer: A.
+Explanation: Central vs nephrogenic.
+
+Q51. A 58-year-old hypertensive smoker abrupt tearing chest pain interscapular radiation, BP right arm 175/105 left 145/85, HR 112, diaphoretic, X-ray widened mediastinum. CT angio intimal flap ascending aorta to arch Stanford A. Stable but at risk rupture. While arranging cardiothoracic surgery immediate medical to reduce propagation?
+A. IV esmolol HR<60 then sodium nitroprusside if SBP>120, avoid vasodilator alone due to reflex tachycardia
+B. IV nitrates alone rapid BP<90 - reduces coronary perfusion
+C. Heparin + alteplase - contraindicated dissection
+D. Aspirin + coronary angio - wrong
+E. Hydralazine alone - increases shear
+Answer: A.
+Explanation: Shear stress.
+
+Q52. A 63-year-old woman HFrEF EF30% furosemide 40 BD digoxin 0.25 OD nausea yellow-green halos palpitations. ECG frequent PVCs scooped ST PR prolonged. K 2.7 Mg 1.4 Ca 10.8 digoxin 2.8 high, started verapamil 1 week ago. Factor MOST increased susceptibility?
+A. Hypokalemia + hypomagnesemia + verapamil P-gp inhibition increasing digoxin level + hypercalcemia
+B. Hypernatremia alone
+C. Respiratory alkalosis alone
+D. Hypermagnesemia alone
+E. None
+Answer: A.
+Explanation: Digoxin toxicity precipitants.
+
+Q53. A 54-year-old smoker fatigue 8kg weight loss painless progressive jaundice pruritus clay stools palpable non-tender gallbladder Courvoisier. Labs direct bilirubin 8.2 ALP 620 CA19-9 850. CT 3.2cm pancreatic head double duct sign loss fat plane SMA >180° encasement SMV involvement. Which makes unresectable?
+A. SMA encasement >180° and celiac trunk involvement = unresectable, needs neoadjuvant/palliative
+B. Painless jaundice alone not unresectable
+C. Double duct sign not unresectable
+D. High ALP not
+E. CA19-9 alone not
+Answer: A.
+Explanation: Vascular.
+
+Q54. A 47-year-old woman 3 episodes 6 months severe diffuse abdominal pain no peritonism confusion hallucinations proximal weakness. Urine dark reddish-brown standing. Started carbamazepine 2 weeks ago seizures, sister similar episodes, hyponatremia 122 SIADH. Confirm during attack?
+A. Markedly elevated urinary porphobilinogen and ALA during attack - AIP autosomal dominant PBG deaminase deficiency, enzyme-inducing drugs precipitate
+B. Blistering photosensitive rash - porphyria cutanea tarda
+C. Conjugated bilirubin AMA
+D. Low ceruloplasmin
+E. tTG
+Answer: A.
+Explanation: Acute intermittent porphyria.
+
+Q55. A 61-year-old chronic alcoholic vomiting not eaten 5 days confusion ataxic nystagmus lateral rectus palsy confabulation. Resident gives 500mL D50+NS before labs, worsens confusion. Error and next step?
+A. Glucose before thiamine increases thiamine demand Krebs cycle; Give high-dose IV thiamine 500mg TDS 3-5 days stop glucose until thiamine
+B. Thiamine before glucose wrong
+C. Fluids wrong
+D. Mg correction wrong
+E. Nutrition wrong
+Answer: A.
+Explanation: Wernicke.
+
+Q56. A 49-year-old alcoholic cirrhosis Child C spironolactone 100 furosemide 40 tense ascites oliguria mild confusion 4 days watery diarrhea poor intake. Exam BP 88/60 HR108 dry tongue turgor poor tense ascites no edema. Creatinine 0.9→2.4 Na128 K4.9 no infection bleed nephrotoxic. Most likely AKI?
+A. Prerenal AKI volume depletion diarrhea+diuretics+poor intake - correct volume stop diuretics before labeling HRS
+B. HRS type1 diagnosis exclusion
+C. GN
+D. Renal artery thrombosis bilateral rare
+E. ATN due cirrhosis per se
+Answer: A.
+Explanation: Prerenal reversible.
+
+Q57. A 66-year-old diabetic fever greenish productive cough dyspnea confusion RR34 BP82/50 T39 SpO2 86% room air lactate5.2 creat1.9 WBC18k CXR RLL consolidation 30mL/kg crystalloids MAP58 urine15mL/hr persists. Septic shock definition?
+A. Persistent hypotension requiring vasopressors MAP≥65 + lactate>2 despite adequate fluids - Sepsis-3
+B. Fever leukocytosis alone
+C. Cough consolidation alone
+D. CRP>100 alone
+E. Tachycardia>90 alone
+Answer: A.
+Explanation: Circulatory+metabolic.
+
+Q58. A 42-year-old woman weight gain moon face buffalo hump severe proximal myopathy HTN DM hypoK2.9 cortisol high ACTH 98 high urinary cortisol high no suppression low-dose dexa MRI 6mm microadenoma high-dose dexa 70% suppression. Pituitary source support?
+A. >50% suppression high-dose dexamethasone pituitary adenoma high ACTH = Cushing disease pituitary ACTH-dependent partially suppressible vs ectopic not suppressible
+B. Suppressed ACTH<5
+C. Bilateral adrenal hyperplasia low ACTH
+D. Undetectable cortisol
+E. Adrenal mass low ACTH
+Answer: A.
+Explanation: Cushing disease.
+
+Q59. A 34-year-old woman 3 months headache vomiting visual blurring amenorrhea cold intolerance bitemporal hemianopia BMI24 MRI 2.8cm sellar suprasellar compressing chiasm hemorrhage free T4 low 0.5 TSH 1.2 low-normal LH/FSH low cortisol 3 low. Thyroid abnormality?
+A. Central hypothyroidism pituitary apoplexy compression panhypopituitarism
+B. Primary Hashimoto TSH high
+C. Graves low TSH high T4
+D. Factitious
+E. Resistance high T4 high TSH
+Answer: A.
+Explanation: Hypopit.
+
+Q60. A 70-year-old AF not anticoag sudden aphasia right hemiplegia NIHSS16 last known well 2.5hr CT no hemorrhage ASPECTS9 CTA left M1 occlusion eligible tenecteplase additional major benefit time?
+A. Mechanical thrombectomy up to 24h selected penumbra best within 6h improves functional outcome
+B. Warfarin loading immediate no
+C. CEA emergent acute no
+D. Heparin bolus before lysis increases bleed
+E. LP exclude SAH no
+Answer: A.
+Explanation: LVO.
+
+Q61. A 56-year-old rheumatic MS MVA1.0 LA55mm sudden palpitations worsening dyspnea orthopnea ECG AF fast 135 CXR edema. Why AF poorly tolerated severe MS?
+A. Loss atrial kick reduces LV filling across stenotic valve + fast rate reduces diastolic time → drop CO + pulmonary congestion
+B. AF increases valve area false
+C. AF decreases LA pressure false
+D. AF cures congestion false
+E. AF increases compliance false
+Answer: A.
+Explanation: Atrial contribution critical.
+
+Q62. A 52-year-old never smoker progressive dyspnea 2y dry cough clubbing bibasal fine crackles CT peripheral basal reticular honeycombing traction bronchiectasis PFT FVC58% FEV1/FVC88% DLCO42% ABG rest hypoxia exertion worse. Pathophysiology?
+A. Restrictive defect reduced DLCO alveolar-capillary membrane thickening fibrosis IPF/UIP
+B. Increased TLC obstructive
+C. Reduced FEV1/FVC obstruction
+D. Increased compliance
+E. Increased RV air trapping
+Answer: A.
+Explanation: ILD.
+
+Q63. A 45-year-old asthma budesonide 400 BD still SABA 5-6 daily nocturnal 3/week FEV1 65% technique good adherence. Step-up guideline LABA danger?
+A. Add LABA formoterol/salmeterol in ICS/LABA; LABA monotherapy increases asthma death masks inflammation tolerance
+B. Oral salbutamol alone
+C. Azithromycin long-term not first
+D. Stop ICS
+E. Propranolol bronchoconstriction
+Answer: A.
+Explanation: GINA.
+
+Q64. A 63-year-old smoker 40 pack-year weight loss cough hemoptysis CT 4cm peripheral spiculated mass RUL pleural tag no cavitation biopsy glandular mucin TTF1+ napsin+ p40-. Dx molecular mandatory?
+A. Adenocarcinoma lung peripheral most common - test EGFR ALK ROS1 PD-L1
+B. Squamous central cavitation
+C. Small cell central neuroendocrine
+D. Mesothelioma pleural
+E. Carcinoid Ki67
+Answer: A.
+Explanation: Adeno.
+
+Q65. A 39-year-old 8y UC pancolitis fatigue pruritus jaundice weight loss ALP480 4x ULN bilirubin3.5 AST/ALT mild MRCP multifocal strictures dilatations intra+extra beads on string p-ANCA+. Complication surveillance?
+A. PSC → cholangiocarcinoma 10-15% + CRC high → annual colonoscopy CA19-9 MRCP dominant stricture cytology
+B. RCC
+C. Pseudocyst
+D. Hepatoblastoma
+E. Gastric outlet obstruction
+Answer: A.
+Explanation: PSC.
+
+Q66. A 24-year-old nitrofurantoin 10 days jaundice fatigue Hb8.2 indirect high LDH650 hapto<10 retics8% spherocytes. Test confirm immune?
+A. Direct Coombs IgG+C3d positive - drug-induced AIHA stop drug steroids if needed
+B. Low ferritin
+C. High TIBC
+D. Low retic
+E. Low indirect
+Answer: A.
+Explanation: DAT.
+
+Q67. A 28-year-old 2w petechiae legs gum bleeding heavy menses platelet12k Hb13.2 WBC normal PT/APTT normal no schistocytes no splenomegaly. Dx pathophysiology?
+A. ITP anti-GPIIb/IIIa peripheral destruction marrow megakaryocytes increased
+B. DIC consumption low fibrinogen
+C. TTP ADAMTS13 schistocytes
+D. Hemophilia factor def normal platelets
+E. Aplastic pancytopenia
+Answer: A.
+Explanation: Isolated thrombocytopenia.
+
+Q68. A 25-year-old fever confusion headache oliguria pallor icterus petechiae Hb7.5 platelet18k creat2.1 LDH1200 indirect high retics high schistocytes polychromasia PT/APTT normal. Lab defines emergency PLEX?
+A. Severely reduced ADAMTS13 <10% → TTP urgent plasma exchange + steroids
+B. PT prolonged factor VII
+C. Neutropenia
+D. Increased haptoglobin
+E. Reduced LDH
+Answer: A.
+Explanation: TTP.
+
+Q69. A 58-year-old back pain night fatigue infections Hb8.9 Ca11.8 creat2.2 ESR95 total protein9.8 albumin low SPEP M-spike IgG kappa skull punched-out lytic. Distinguish MGUS vs myeloma?
+A. End-organ CRAB hyperCa Renal Anemia Bone + >10% clonal plasma or SLiM criteria = myeloma
+B. M-protein alone MGUS
+C. Age>50 alone
+D. Mild protein high alone
+E. Asymptomatic alone
+Answer: A.
+Explanation: Myeloma defining.
+
+Q70. A 61-year-old fatigue early satiety 5kg weight loss massive splenomegaly 12cm WBC98k myelocytes metamyelocytes basophilia eosinophilia platelets450k Hb11.5 LAP low BCR-ABL p210+. Targeted drug inhibits?
+A. Imatinib BCR-ABL TKI first line - hydroxyurea only cytoreduction
+B. Rituximab anti-CD20
+C. HCQ
+D. MTX
+E. Cyclophosphamide alone
+Answer: A.
+Explanation: CML.
+
+Q71. A 72-year-old exertional dyspnea angina syncope 2 episodes slow-rising low-volume carotid harsh ejection systolic murmur R2nd ICS radiating carotids S4 LV heave ECG LVH strain Echo AVA0.7cm2 mean gradient48mmHg LVH. Sign severity and next?
+A. Pulsus parvus et tardus narrow PP soft S2 symptomatic severe AS → urgent AVR/TAVI evaluation mortality high if not replaced
+B. Bounding wide PP AR
+C. Loud P2 fixed split ASD
+D. Machinery murmur PDA
+E. Hyperdynamic apex
+Answer: A.
+Explanation: Severe AS.
+
+Q72. A 48-year-old exertional dyspnea 1 syncope exercise palpitations family sudden death brother 30y harsh systolic murmur left sternal edge ↑ Valsalva standing ↓ squatting handgrip S4 jerky bisferiens Echo asymmetrical septal hypertrophy 22mm SAM LVOT gradient70mmHg. Mechanism avoid?
+A. Dynamic LVOT obstruction HOCM AD sarcomere mutation - avoid nitrates ACE-I diuretics digoxin dehydration they worsen obstruction - treat BB disopyramide ICD
+B. Fixed aortic avoid BB
+C. Mitral stenosis avoid diuretics
+D. Pulmonary stenosis avoid fluids
+E. VSD avoid surgery
+Answer: A.
+Explanation: HOCM murmur dynamics.
+
+Q73. A 59-year-old alcoholic sudden severe epigastric pain back vomiting hypotension 85/50 lipase2100 after 12hr Hb14→9.2 bluish flanks and periumbilical oliguria. Signs severity?
+A. Grey-Turner flank + Cullen periumbilical = hemorrhagic pancreatitis retroperitoneal bleed poor prognosis BISAP high
+B. Murphy cholecystitis
+C. Rovsing appendicitis
+D. Courvoisier pancreatic cancer
+E. McBurney appendicitis
+Answer: A.
+Explanation: Necrotizing pancreatitis.
+
+Q74. A 44-year-old UC pancolitis 6y mesalamine 6 bloody stools/day fever38.8 HR118 abdominal distension tenderness Hb9.2 WBC16k CRP110 albumin2.8 K3.0 AXR transverse colon7.2cm thumbprinting loperamide 3 days ago. Diagnosis drug avoid?
+A. Toxic megacolon >6cm + systemic toxicity Truelove-Witts severe - avoid anti-motility loperamide opioids anticholinergics NSAIDs precipitate perforation - need IV steroids Abx surgical consult
+B. IBS loperamide more
+C. Simple UC continue loperamide
+D. C diff only loperamide more
+E. Constipation laxatives
+Answer: A.
+Explanation: Toxic megacolon.
+
+Q75. A 52-year-old diabetic fever chills RUQ pain jaundice T39.2 BP88/55 HR115 RUQ tenderness confused WBC19k bilirubin5.2 direct ALP380 ALT90 US CBD11mm 9mm stone distal gallbladder thickening despite 2L crystalloids ceftriaxone+metronidazole hypotension persists. Reynolds pentad definitive?
+A. Charcot triad fever+RUQ+jaundice + hypo + confusion = Reynolds ascending cholangitis - urgent ERCP biliary decompression within24h + broad-spectrum
+B. Elective chole after3months
+C. Colonoscopy
+D. Steroids high
+E. Lactulose
+Answer: A.
+Explanation: Cholangitis septic.
+
+Q76. A 32-year-old within20min peanuts wheezing tongue swelling flushing urticaria hypo80/45 HR125 tryptase high atopic asthma. Mediator first-line dose?
+A. Histamine+PAF mast cells; IM adrenaline0.5mg 0.5mL 1:1000 anterolateral thigh high-flow O2 fluids salbutamol neb antihistamine+steroid second line
+B. Dopamine antagonist
+C. Ach atropine
+D. T4 carbimazole
+E. Aldo spironolactone
+Answer: A.
+Explanation: Anaphylaxis.
+
+Q77. A 35-year-old profuse watery diarrhea cramps fever38.5 10 days after IV ceftriaxone pneumonia leukocytes stool positive C diff toxin A/B PCR colonoscopy yellow pseudomembranes. Mechanism appropriate first severe?
+A. Toxins A&B Rho glucosylation cytoskeletal disruption pseudomembranous colitis; Oral vancomycin125mg QID or fidaxomicin 200mg BD stop precipitant antibiotic isolate
+B. Liver invasion
+C. Pancreatic acinar
+D. Autoimmune neuronal
+E. Acid hypersecretion
+Answer: A.
+Explanation: C diff.
+
+Q78. A 41-year-old HIV CD4 45 no ART 3w headache fever vomiting altered behavior neck stiffness mild opening pressure high CSF 80 lymph protein90 glucose22 blood95 India ink positive encapsulated budding yeast halo. Dx induction?
+A. Cryptococcal meningitis; Liposomal amphotericin B + flucytosine 2 weeks induction then fluconazole 8w consolidation then maintenance, serial LPs for high ICP, start ART 2-5 weeks avoid IRIS
+B. Bacterial amox
+C. HSV acyclovir
+D. Neurocysticercosis albendazole
+E. TB ATT only
+Answer: A.
+Explanation: Crypto.
+
+Q79. A 34-year-old 4 months fatigue arthralgia jaundice amenorrhea acne AST680 ALT720 bilirubin3.5 ALP160 IgG3200 high ANA1:320 ASMA+ LKM1- viral negative ceruloplasmin normal biopsy interface hepatitis plasma cells. Dx Rx?
+A. Type1 AIH - steroids prednisolone + azathioprine surveillance cirrhosis HCC
+B. PBC UDCA AMA+
+C. PSC ERCP beading
+D. Alcoholic abstinence
+E. Wilson penicillamine
+Answer: A.
+Explanation: Autoimmune hepatitis.
+
+Q80. A 19-year-old acute liver failure Coombs-negative hemolytic anemia ataxia dysarthria KF rings slit lamp ceruloplasmin12 low urinary copper280 high serum copper low hemolysis high LDH. Defect chelator?
+A. ATP7B mutation defective biliary copper excretion Wilson - chelators penicillamine/trientine + zinc urgent transplant if ALF
+B. HFE phlebotomy
+C. ATP7A copper sup
+D. A1AT transplant only
+E. Porphyria hemin
+Answer: A.
+Explanation: Wilson.
+
+Q81. A 23-year-old evening diplopia ptosis worsens sustained upgaze rest improves normal pupils no diurnal? actually worse evening. Edrophonium improves. Antibody dangerous complication fever bulbar weakness?
+A. Anti-AChR most specific; Myasthenic crisis respiratory failure infection/surgery trigger need ventilation, avoid aminoglycosides beta-blockers
+B. Anti-MuSK cholinergic crisis over-treatment SLUDGE
+C. Anti-GQ1b descending Miller Fisher
+D. Anti-dsDNA cerebritis
+E. Anti-VGCC LEMS incremental response
+Answer: A.
+Explanation: MG fluctuating.
+
+Q82. A 28-year-old 2 first-trimester abortions DVT 26y now 30w HTN160/105 proteinuria2.5g platelet90k aPTT prolonged not correcting mixing PT normal. Underlying diagnosis?
+A. Antiphospholipid syndrome with preeclampsia - lupus anticoagulant + anticardiolipin + anti-β2 glycoprotein, arterial/venous thrombosis + fetal loss + thrombocytopenia
+B. ITP gestational HTN
+C. DIC abruption consumption
+D. HELLP alone hemolysis high LFT low platelets no aPTT prolong
+E. SLE without APS - but prolonged aPTT suggests LA
+Answer: A.
+Explanation: APS.
+
+Q83. A 30-year-old malar rash photosensitivity oral ulcers arthralgia knee swelling protein3+ RBC casts creatinine1.8 low C3 C4 anti-dsDNA high biopsy diffuse endocapillary wire-loop subendothelial IgG C3. WHO class induction?
+A. Class IV diffuse proliferative LN - most severe - induction high dose steroids + mycophenolate or IV cyclophosphamide, maintenance MMF/AZA + HCQ + ACE-I
+B. Class II mesangial NSAIDs
+C. Class V ritux alone
+D. Minimal change steroids alone
+E. Class I no treatment
+Answer: A.
+Explanation: LN class IV.
+
+Q84. A 55-year-old CKD stage4 K6.9 peaked T wide QRS sine wave risk on ACE-I spironolactone history missed dialysis hypotensive. Immediate sequence life-saving?
+A. IV calcium gluconate/chloride stabilize membrane, insulin 10U + glucose 25g shift, nebulized salbutamol shift, sodium bicarb if acidotic, kayexalate/dialysis removal, stop offending drugs
+B. Ca + oral KCl supplement - worsens
+C. Kayexalate alone slow onset
+D. Furosemide alone if oliguric no
+E. Bicarb alone non-acidotic no
+Answer: A.
+Explanation: Hyperkalemia ECG changes.
+
+Q85. A 62-year-old SCLC 40 pack-year confusion seizures 2 episodes Na118 serum osmolality240 low urine osm550 high urine Na65 euvolemic no edema BP normal thyroid adrenal normal cortisol normal. Diagnosis safest correction limit?
+A. SIADH euvolemic hypo-osmolar hyponatremia high urine osm natriuresis due ectopic ADH - fluid restriction 800mL + hypertonic 3% if severe symptoms seizures, correct <8-10 mmol/day avoid ODS central pontine myelinolysis
+B. Cerebral salt wasting hypovolemic isotonic saline
+C. Polydipsia water restriction only low urine osm
+D. Addison hydrocortisone low cortisol high ACTH pigmentation
+E. Diuretic-induced hypovolemia
+Answer: A.
+Explanation: SIADH.
+
+Q86. A 19-year-old T1DM 6y non-compliant vomiting abdominal pain Kussmaul breathing fruity breath dehydrated glucose480 pH7.12 HCO38 K5.6 ketones strongly positive WBC14k. What management error harmful?
+A. Giving bicarbonate routinely pH7.12 without indication pH<6.9 or life-threatening hyperK - worsens hypokalemia paradoxical CNS acidosis delays keto clearance
+B. Isotonic fluids NS/LR immediate correct
+C. IV insulin after fluid K check correct infusion 0.1U/kg/hr
+D. K replacement when <5.2 correct insulin drives K intracellular
+E. Monitoring mental status cerebral edema risk correct
+Answer: A.
+Explanation: DKA mainstay fluids insulin K.
+
+Q87. A 33-year-old Graves disease stopped carbimazole 2 weeks ago fever39.5 HR145 irregular AF agitation delirium vomiting diarrhea goiter bruit exophthalmos tremor free T4 very high TSH suppressed Burch-Wartofsky55. Scoring and immediate treatment combination?
+A. Thyroid storm BW>45; PTU 500-1000 load then methimazole, iodine Lugol after 1hr, propranolol 60-80mg, hydrocortisone 100mg q8h prevents T4→T3 and adrenal insufficiency, cooling, treat precipitant
+B. Wells high heparin warfarin
+C. CURB high antibiotics
+D. APACHE high supportive only
+E. CHADS high anticoag only
+Answer: A.
+Explanation: Storm endocrine emergency.
+
+Q88. A 40-year-old paroxysmal headaches sweating palpitations BP 210/130 during attack 4cm right adrenal mass urinary metanephrines elevated VMA high. Adrenalectomy scheduled. Correct pre-op management to prevent intra-op crisis?
+A. Alpha-blockade phenoxybenzamine 10-14 days liberal salt fluids, then beta-blockade if tachy persists, avoid beta first unopposed alpha → crisis, volume expansion prevents post-op hypotension
+B. Beta-blockade alone first
+C. Immediate surgery without preparation → hypertensive crisis on induction
+D. Hydralazine alone
+E. CCB alone definitive
+Answer: A.
+Explanation: Pheo.
+
+Q89. A 50-year-old hemoptysis sinusitis bloody nasal discharge saddle nose deformity rapidly rising creatinine 2.8 active sediment RBC casts c-ANCA PR3 positive biopsy crescentic GN pauci-immune little deposits. Treatment?
+A. Granulomatosis polyangiitis Wegener ANCA small vessel vasculitis triad upper airway lungs kidney - high dose steroids + cyclophosphamide or rituximab + plasmapheresis if severe pulmonary hemorrhage/rapid decline creatinine>5.7
+B. Anti-TB therapy - granuloma caseating
+C. Anticoagulation - not
+D. Hydralazine withdrawal alone - ANCA drug induced
+E. NSAIDs - no
+Answer: A.
+Explanation: GPA.
+
+Q90. A 67-year-old HTN DM hyperlipidemia sudden severe lower back pain tearing abdominal pain hypotension 80/50 pulsatile abdominal mass tender US AAA7.5cm free fluid intraperitoneal. What next best step not delay?
+A. Immediate vascular surgery consult permissive hypotension SBP80-100 until control massive transfusion protocol crossmatch 10 units urgent repair EVAR/open do not delay for CT oral contrast unstable
+B. CT angio with oral contrast - delay unstable
+C. Colonoscopy
+D. Thrombolysis - contraindicated
+E. D-dimer wait
+Answer: A.
+Explanation: Ruptured AAA.
+
+Q91. A 27-year-old recurrent calcium oxalate renal stones polyuria polydipsia Ca11.2 P low PTH markedly high sestamibi parathyroid adenoma. Renal defect polyuria mechanism?
+A. Hypercalcemia-induced nephrogenic DI ADH resistance downregulates aquaporin-2 collecting duct impairs concentrating
+B. Central DI lack ADH head trauma
+C. Primary polydipsia high intake low osm
+D. SIADH low output high osm
+E. Bartter loop defect hypoK alkalosis
+Answer: A.
+Explanation: Primary hyperpara hyperCa NDI.
+
+Q92. A 68-year-old AF on warfarin INR therapeutic usually but now acute severe knee pain swelling after minor twist warm tense ecchymotic hemarthrosis knee. INR6.8 arthrocentesis bloody fluid 40k RBC no crystals no infection. Likely and immediate reversal if life-threatening?
+A. Hemarthrosis supratherapeutic INR - hold warfarin IV vitamin K 10mg slow + 4-factor PCC 50U/kg rapid reversal vs FFP, assess bleed
+B. Septic arthritis antibiotics urgent - WBC high would be
+C. Gout colchicine - crystals negative
+D. OA flare NSAIDs - would worsen bleed
+E. Pseudogout - chondrocalcinosis
+Answer: A.
+Explanation: Warfarin bleed reversal.
+
+Q93. A 35-year-old weight gain constipation cold intolerance menorrhagia fatigue dry skin non-pitting edema delayed DTR TSH45 free T4 very low bradycardic 48 hypotensive hypothermic infection precipitates emergency?
+A. Myxedema coma - altered mentation hypothermia hypoventilation bradycardia hypotension hyponatremia hypoglycemia - high mortality need IV levothyroxine + hydrocortisone + warming supportive ICU
+B. Thyroid storm high T4
+C. Adrenal crisis alone
+D. DKA high glucose
+E. Pheo crisis high BP
+Answer: A.
+Explanation: Severe hypo decompensation.
+
+Q94. A 45-year-old alcoholic confusion horizontal nystagmus ataxic gait vomiting 3 days history not eaten. At risk irreversible. Prevent?
+A. Wernicke encephalopathy - high dose IV thiamine 200-500mg TDS 3-5 days then oral 100mg TDS long-term before any glucose, correct Mg, prevent Korsakoff anterograde amnesia confabulation irreversible
+B. Oral multivitamin alone insufficient
+C. Glucose 50% alone worsens
+D. Haloperidol no
+E. Phenytoin no
+Answer: A.
+Explanation: Thiamine.
+
+Q95. A 29-year-old 12 weeks pregnancy hyperemesis BP155/95 fundal height larger than dates 16 weeks size vaginal bleeding spotting US snowstorm honeycomb no fetus theca-lutein cysts bilateral ovaries beta-hCG250k extremely high. Anticipate?
+A. Complete hydatidiform mole - early severe preeclampsia <20w, hyperthyroidism hCG TSH-like, theca-lutein cysts, risk choriocarcinoma 15-20% requires evacuation suction curettage + hCG follow-up + contraception 6-12 months
+B. Ectopic rupture
+C. Abruption
+D. Normal variation
+E. Ovarian torsion only
+Answer: A.
+Explanation: GTD.
+
+Q96. A 60-year-old long-standing RA 15y proteinuria 4g/day hepatosplenomegaly fatigue diarrhea. Biopsy kidney Congo red apple-green birefringence polarized light. Serum amyloid A high. Protein type mechanism?
+A. AA amyloidosis secondary chronic inflammation RA - SAA acute phase protein deposits in kidney liver spleen nephrotic syndrome
+B. AL amyloidosis myeloma light chain
+C. Transthyretin senile cardiac
+D. IgA nephropathy mesangial
+E. Lupus nephritis
+Answer: A.
+Explanation: Secondary amyloid.
+
+Q97. A 55-year-old chest pain worse inspiration supine better leaning forward fever 38.2 pericardial rub ECG diffuse concave ST elevation PR depression echo pericardial effusion no tamponade 2 weeks after viral URI. Progression to tamponade indicator?
+A. Beck triad hypotension muffled heart sounds JVD pulsus paradoxus>10mmHg diastolic collapse RV RA echo equalization pressures electrical alternans
+B. Loud S1 opening snap MS
+C. Machinery murmur PDA
+D. New systolic murmur MR
+E. Tall peaked T hyperK
+Answer: A.
+Explanation: Pericarditis → tamponade.
+
+Q98. A 42-year-old SLE on steroids 20mg daily fever headache neck stiffness photophobia. CSF 120 WBC predominantly neutrophils 85% low glucose 28 protein 80 Gram stain gram-positive diplococci lancet shaped. Predisposing factor organism?
+A. Complement deficiency low C3 C4 + functional asplenia SLE + steroid immunosuppression → increased encapsulated S pneumoniae N meningitidis H influenzae meningitis
+B. Hypercalcemia
+C. Hypokalemia
+D. Iron deficiency
+E. Warfarin therapy
+Answer: A.
+Explanation: SLE infection risk.
+
+Q99. A 38-year-old episodic HTN palpitations headaches neurofibromas café-au-lait spots axillary freckling family history medullary thyroid cancer hyperparathyroidism serum metanephrines high calcitonin high Ca high PTH high. Genetic syndrome mutation inheritance?
+A. MEN 2A RET proto-oncogene AD - medullary thyroid cancer calcitonin + pheochromocytoma + primary hyperparathyroidism screening family RET testing
+B. MEN1 MENIN parathyroid pituitary pancreatic
+C. NF1 neurofibromin alone pheo can occur but with MEN features think MEN
+D. VHL VHL hemangioblastoma pheo RCC
+E. MEN 2B RET marfanoid mucosal neuromas no hyperPTH
+Answer: A.
+Explanation: MEN2A.
+
+Q100. A 50-year-old progressive dysphagia solids then liquids weight loss regurgitation undigested food nocturnal cough halitosis barium dilated esophagus food retention bird-beak GE junction manometry absent peristalsis incomplete LES relaxation high LES pressure. Additional test and long-term surveillance complication?
+A. Achalasia loss myenteric plexus ganglion cells - do endoscopy to rule out pseudoachalasia malignancy at GE junction especially in elderly rapid weight loss; increased risk esophageal SCC due chronic stasis - surveillance endoscopy
+B. pH monitoring Barrett adenocarcinoma lower third
+C. CT chest mesothelioma
+D. No further testing no cancer risk
+E. Colonoscopy CRC
+Answer: A.
+Explanation: Achalasia bird-beak. this is surgery Bilkul bai — start karte hain Surgery Tough Mock 100 MCQs. Same pattern, tough + tricky + medium-long, aur surgical procedures ke names included.
+

@@ -1,0 +1,900 @@
+Q1. A 4-day-old male newborn develops progressive abdominal distension, bilious vomiting, and failure to pass stool. He was born at term after an uncomplicated pregnancy. On examination, the abdomen is markedly distended, and digital rectal examination is followed by explosive passage of stool and gas. Contrast enema demonstrates a narrow distal segment with proximal colonic dilatation. Which of the following is the most appropriate definitive management?
+A. Immediate ileostomy without further evaluation
+B. Rectal suction biopsy followed by definitive pull-through surgery if confirmed
+C. Pyloromyotomy followed by enteral feeding
+D. Ladd procedure with division of Ladd bands
+E. Conservative management with repeated enemas
+Answer: B.
+Explanation: Hirschsprung disease results from failure of neural crest cell migration, producing an aganglionic distal bowel segment. The classic presentation is delayed meconium passage, abdominal distension, bilious vomiting, and explosive stool after rectal examination. Rectal suction biopsy confirms absence of ganglion cells, while definitive treatment is a pull-through procedure such as Soave, Swenson, or Duhamel.
+
+Q2. A 7-week-old male infant is brought because of progressively worsening projectile vomiting after feeds. The vomitus is non-bilious, and the infant remains hungry immediately after vomiting. He has lost weight and appears mildly dehydrated. Laboratory testing demonstrates hypochloremic, hypokalemic metabolic alkalosis. A small, firm, mobile mass is palpated in the epigastrium. Which of the following is the most appropriate next step in management?
+A. Immediate Ramstedt pyloromyotomy without correction of electrolytes
+B. Intravenous fluid and electrolyte correction followed by Ramstedt pyloromyotomy
+C. Ladd procedure with correction of intestinal malrotation
+D. Nasogastric feeding followed by observation
+E. Broad-spectrum antibiotics followed by laparotomy
+Answer: B.
+Explanation: Infantile hypertrophic pyloric stenosis classically presents at 2–8 weeks, with projectile non-bilious vomiting and persistent hunger. The characteristic biochemical abnormality is hypochloremic, hypokalemic metabolic alkalosis. Surgery is Ramstedt pyloromyotomy, but dehydration and electrolyte abnormalities must be corrected first.
+
+Q3. A 3-month-old infant presents with recurrent episodes of sudden crying, drawing the legs toward the abdomen, and intermittent lethargy. Between episodes, the infant appears relatively comfortable. During one episode, vomiting occurs, and later the parents notice blood mixed with mucus in the diaper. Abdominal examination reveals a sausage-shaped mass in the right upper quadrant. Ultrasound demonstrates a characteristic target or doughnut sign. Which intervention is most appropriate in a hemodynamically stable child without evidence of perforation?
+A. Immediate laparotomy in every case
+B. Pneumatic or hydrostatic enema reduction
+C. Oral rehydration followed by observation
+D. Ramstedt pyloromyotomy
+E. Antibiotics alone until symptoms resolve
+Answer: B.
+Explanation: This is intussusception, commonly occurring between 6 months and 3 years, although it can occur in younger infants. The classic triad of episodic abdominal pain, palpable sausage-shaped mass, and currant-jelly stool is often incomplete. In a stable child without perforation or peritonitis, air or contrast enema is both diagnostic and therapeutic.
+
+Q4. A premature infant develops increasing abdominal distension, feeding intolerance, lethargy, and bloody stools on the 12th day of life. Abdominal radiography demonstrates dilated bowel loops and multiple linear or bubbly collections of gas within the intestinal wall. The infant becomes increasingly unstable despite initial supportive therapy. Which finding would most strongly indicate progression to a surgical emergency?
+A. Mild abdominal distension
+B. Feeding intolerance alone
+C. Pneumatosis intestinalis without systemic deterioration
+D. Pneumoperitoneum indicating intestinal perforation
+E. Small amounts of occult blood in stool
+Answer: D.
+Explanation: Necrotizing enterocolitis (NEC) is particularly associated with premature infants. Pneumatosis intestinalis is highly characteristic. Initial management includes bowel rest, nasogastric decompression, IV fluids, antibiotics, and parenteral nutrition. Pneumoperitoneum indicates perforation and is an indication for surgical intervention.
+
+Q5. A 5-year-old child presents with fever, severe sore throat, drooling, muffled speech, and increasing respiratory distress. He prefers to sit upright and refuses to lie down. Examination of the throat is avoided because of concern that manipulation may precipitate complete airway obstruction. Which organism is classically associated with this presentation in an inadequately immunized child?
+A. Streptococcus pneumoniae
+B. Haemophilus influenzae type b
+C. Mycoplasma pneumoniae
+D. Bordetella pertussis
+E. Corynebacterium diphtheriae
+Answer: B.
+Explanation: Acute epiglottitis classically presents with high fever, drooling, dysphagia, muffled voice, tripod positioning, and rapidly progressive airway obstruction. Historically, H. influenzae type b was the major cause, although vaccination has dramatically reduced its incidence. Airway management is the priority; aggressive throat examination should be avoided.
+
+Q6. A 2-year-old child develops barking cough, hoarseness, and inspiratory stridor that becomes worse at night. He has a low-grade fever but does not appear toxic. There is no drooling or difficulty swallowing. Radiography of the neck, if obtained, demonstrates subglottic narrowing. Which treatment is most appropriate for a child with moderate symptoms and persistent stridor?
+A. Oral amoxicillin alone
+B. Nebulized salbutamol only
+C. Dexamethasone with nebulized epinephrine for significant stridor
+D. Immediate tonsillectomy
+E. Antitoxin therapy
+Answer: C.
+Explanation: Croup is usually caused by parainfluenza virus and produces a barking cough, hoarseness, and inspiratory stridor due to subglottic edema. Dexamethasone is used across severity levels, while nebulized epinephrine provides rapid temporary relief in moderate-to-severe croup with stridor at rest.
+
+Q7. A 6-month-old infant is brought with recurrent episodes of wheezing and cough. Symptoms occur predominantly at night and during viral upper respiratory infections. The infant has eczema, and the mother has a history of allergic rhinitis. Between episodes, the physical examination is normal. Which underlying mechanism best explains the infant's recurrent airway symptoms?
+A. Irreversible destruction of alveolar septa
+B. Reversible bronchial smooth-muscle constriction with airway inflammation and hyperresponsiveness
+C. Destruction of bronchial cartilage due to bacterial infection
+D. Fixed obstruction caused by pulmonary fibrosis
+E. Reduced pulmonary surfactant production
+Answer: B.
+Explanation: The pattern suggests early childhood asthma, particularly given the atopic background. Asthma involves airway inflammation, bronchial hyperresponsiveness, mucus production, and reversible bronchoconstriction. Viral infections are common triggers in young children.
+
+Q8. A newborn develops respiratory distress shortly after birth. He was delivered at 34 weeks by cesarean section and has tachypnea, nasal flaring, grunting, and intercostal retractions. Chest radiography demonstrates diffuse reticulogranular or “ground-glass” appearance with air bronchograms. Which pathophysiologic abnormality is primarily responsible for this condition?
+A. Excessive pulmonary fluid due to delayed clearance
+B. Deficiency of pulmonary surfactant causing increased alveolar surface tension
+C. Aspiration of meconium causing airway obstruction
+D. Pulmonary vascular remodeling due to chronic hypoxia
+E. Congenital absence of pulmonary arteries
+Answer: B.
+Explanation: Neonatal respiratory distress syndrome (RDS) occurs primarily in premature infants because type II pneumocytes have inadequate surfactant production. Reduced surfactant increases surface tension, causing alveolar collapse and impaired gas exchange. Management includes respiratory support and exogenous surfactant when indicated.
+
+Q9. A 9-month-old infant is brought because of poor growth, recurrent respiratory infections, and sweating during feeds. Examination reveals tachypnea and a harsh holosystolic murmur at the lower left sternal border. Echocardiography demonstrates a defect between the ventricles with significant left-to-right shunting. Which complication is most likely if a large defect remains untreated for years?
+A. Immediate severe cyanosis at birth
+B. Eisenmenger syndrome due to progressive pulmonary vascular disease
+C. Tetralogy of Fallot
+D. Complete heart block in every patient
+E. Severe pulmonary stenosis caused by ductal closure
+Answer: B.
+Explanation: A significant ventricular septal defect (VSD) produces a left-to-right shunt, increasing pulmonary blood flow. Over time, pulmonary vascular resistance may rise, eventually reversing the shunt and causing cyanosis—Eisenmenger syndrome. Large VSDs can cause heart failure and recurrent respiratory infections during infancy.
+
+Q10. A cyanotic newborn becomes increasingly hypoxemic shortly after birth. Echocardiography demonstrates a single arterial trunk arising from the heart and supplying the systemic, pulmonary, and coronary circulations. The child also has a ventricular septal defect. Which embryologic abnormality most directly explains this congenital cardiac lesion?
+A. Failure of endocardial cushion formation
+B. Failure of neural crest–dependent separation of the truncus arteriosus
+C. Failure of closure of the ductus arteriosus
+D. Failure of atrial septation by septum primum
+E. Failure of ventricular myocardial compaction
+Answer: B.
+Explanation: Persistent truncus arteriosus results from failure of separation of the embryonic truncus into the aorta and pulmonary trunk. It is associated with a VSD and produces mixing of oxygenated and deoxygenated blood. Neural crest cells are crucial for conotruncal development.
+
+Q11. A 4-year-old child has fever, pallor, easy bruising, and generalized lymphadenopathy. Laboratory testing reveals anemia, thrombocytopenia, and a markedly elevated white blood cell count with circulating lymphoblasts. Bone marrow examination demonstrates replacement by immature lymphoid cells. Which immunophenotypic finding would most strongly support the common childhood leukemia in this patient?
+A. CD3-positive mature T cells only
+B. CD19/CD10-positive precursor B cells
+C. CD8-positive mature cytotoxic lymphocytes
+D. CD138-positive plasma cells
+E. CD56-positive mature NK cells
+Answer: B.
+Explanation: Acute lymphoblastic leukemia (ALL) is the most common childhood malignancy. Most childhood B-ALL cases arise from precursor B cells and commonly express CD19 and CD10 along with other immature markers. Clinical features result from marrow replacement: anemia, thrombocytopenia, infection, fever, and bone pain.
+
+Q12. A 3-year-old child presents with abdominal distension and a large, firm abdominal mass that does not cross the midline. Urinalysis shows microscopic hematuria. Imaging reveals a heterogeneous renal mass. The child has no significant hypertension or neurologic abnormalities. Which diagnosis is most likely?
+A. Neuroblastoma
+B. Wilms tumor
+C. Hepatoblastoma
+D. Rhabdomyosarcoma
+E. Renal cell carcinoma
+Answer: B.
+Explanation: Wilms tumor (nephroblastoma) is the most common primary renal malignancy in children and usually presents between 2–5 years with an abdominal mass. The mass is classically smooth and does not cross the midline, although this is not absolute. Hematuria and hypertension may occur.
+
+Q13. A 2-year-old child is evaluated for a firm abdominal mass that extends across the midline. The child has weight loss, fever, and periorbital ecchymosis. Urinary testing reveals markedly increased catecholamine metabolites. Imaging demonstrates a heterogeneous mass arising from the adrenal region with calcifications. Which additional finding would be most characteristic of this disease?
+A. Decreased urinary VMA
+B. Homer-Wright rosettes on histology
+C. Absence of sympathetic nervous system involvement
+D. Exclusive occurrence in adolescents
+E. Association with nephrotic syndrome
+Answer: B.
+Explanation: Neuroblastoma arises from neural crest-derived sympathetic tissue, frequently the adrenal medulla. It may cross the midline and can produce periorbital ecchymosis due to orbital metastases. Elevated urinary VMA/HVA is characteristic. Histology may demonstrate Homer-Wright rosettes.
+
+Q14. A 18-month-old child is brought with progressive difficulty walking and frequent falls. Examination reveals widened wrists, bowing of the legs, delayed dentition, and hypotonia. Laboratory studies show low serum phosphate with elevated alkaline phosphatase. Calcium is normal. Which abnormality most directly accounts for the underlying disorder?
+A. Increased intestinal calcium absorption due to excess vitamin D
+B. Defective mineralization of osteoid due to vitamin D deficiency
+C. Excess parathyroid hormone caused by hypercalcemia
+D. Increased calcitonin production
+E. Primary collagen type I mutation
+Answer: B.
+Explanation: The presentation is classic for rickets, particularly nutritional vitamin D deficiency. Defective mineralization causes bone deformities, widened wrists, delayed dentition, and growth abnormalities. Alkaline phosphatase is typically elevated. Chronic vitamin D deficiency causes secondary hyperparathyroidism and phosphate wasting.
+
+Q15. A 4-year-old child develops generalized edema, especially around the eyes, after an upper respiratory infection. Urinalysis shows heavy proteinuria without significant hematuria. Serum albumin is markedly reduced, and cholesterol is elevated. Renal function is normal. Which renal lesion is most likely in this child?
+A. Crescentic glomerulonephritis
+B. Diffuse proliferative glomerulonephritis
+C. Minimal change disease
+D. Membranous nephropathy
+E. Focal segmental glomerulosclerosis in every case
+Answer: C.
+Explanation: The classic childhood nephrotic syndrome is minimal change disease. It causes selective albuminuria, hypoalbuminemia, edema, and hyperlipidemia with usually normal renal function and no significant hematuria. It generally responds dramatically to corticosteroids.
+
+Q16. A 7-year-old child develops periorbital edema and cola-colored urine approximately 2 weeks after recovering from a sore throat. Blood pressure is elevated, and laboratory testing shows low serum C3. Urinalysis demonstrates red blood cell casts and significant hematuria. Which mechanism best explains this renal disease?
+A. Anti-glomerular basement membrane antibodies
+B. Immune-complex deposition following streptococcal infection
+C. Podocyte slit-diaphragm mutation
+D. Direct bacterial invasion of glomeruli
+E. Renal artery thrombosis
+Answer: B.
+Explanation: This is post-streptococcal glomerulonephritis, a nephritic syndrome occurring typically 1–3 weeks after streptococcal pharyngitis or skin infection. Immune-complex deposition activates complement, causing glomerular inflammation. Classic findings include hematuria, RBC casts, edema, hypertension, and low C3.
+
+Q17. A 10-year-old child develops palpable purpura over both lower limbs and buttocks following an upper respiratory infection. He subsequently develops colicky abdominal pain and arthralgia. Urinalysis reveals microscopic hematuria. Platelet count and coagulation studies are normal. Which pathological mechanism is most likely responsible?
+A. IgA-containing immune-complex deposition in small vessels
+B. Severe thrombocytopenia causing spontaneous bleeding
+C. Deficiency of factor VIII
+D. Anti-neutrophil cytoplasmic antibody–mediated vasculitis
+E. Direct invasion of vessels by Streptococcus
+Answer: A.
+Explanation: IgA vasculitis (Henoch-Schönlein purpura) commonly affects children after an upper respiratory infection. The classic tetrad includes palpable purpura, abdominal pain, arthralgia, and renal involvement. Platelets are normal because the purpura results from small-vessel vasculitis rather than thrombocytopenia.
+
+Q18. A 6-year-old child presents with 6 days of high fever, bilateral nonpurulent conjunctival injection, cracked red lips, strawberry tongue, cervical lymphadenopathy, and erythematous changes of the hands and feet. The child is irritable and has a polymorphous rash. Which complication must be specifically prevented because of its potentially life-threatening cardiovascular consequences?
+A. Pulmonary fibrosis
+B. Coronary artery aneurysm
+C. Aortic dissection
+D. Mitral stenosis
+E. Ventricular septal rupture
+Answer: B.
+Explanation: This is Kawasaki disease, an acute medium-vessel vasculitis primarily affecting young children. The major feared complication is coronary artery aneurysm, which can lead to thrombosis, myocardial ischemia, or infarction. Treatment is IVIG plus aspirin.
+
+Q19. A 3-year-old child is brought with generalized weakness and developmental delay. The child has sparse, depigmented hair with a characteristic “flag sign,” abdominal distension, and bilateral pedal edema. Dietary history reveals a diet consisting mainly of starchy foods with very little protein. Which biochemical abnormality is most likely?
+A. Increased serum albumin
+B. Reduced serum albumin with impaired protein synthesis
+C. Increased serum transferrin
+D. Severe hypercalcemia due to increased protein intake
+E. Increased hepatic lipoprotein clearance
+Answer: B.
+Explanation: The presentation is consistent with kwashiorkor, a severe form of protein-energy malnutrition characterized by edema, growth failure, muscle wasting, skin/hair changes, and fatty liver. Reduced protein availability leads to hypoalbuminemia, contributing significantly to edema.
+
+Q20. A 6-year-old previously healthy child develops fever, severe headache, photophobia, vomiting, and neck stiffness. Shortly afterward, a rapidly spreading petechial and purpuric rash appears. The child becomes hypotensive and confused. Which organism is most strongly associated with this fulminant presentation?
+A. Streptococcus pyogenes
+B. Neisseria meningitidis
+C. Haemophilus influenzae type B
+D. Staphylococcus epidermidis
+E. Mycoplasma pneumoniae
+Answer: B.
+Explanation: Meningococcemia with meningitis can progress rapidly to septic shock, disseminated intravascular coagulation, purpura, and Waterhouse-Friderichsen syndrome. The combination of meningitis, petechial/purpuric rash, and rapidly developing shock is a major NLE emergency clue. Immediate empiric IV antibiotics are required.👶 PEDIATRICS — TOUGH NLE MOCK
+
+Q21. A 2-day-old newborn develops progressive abdominal distension and bilious vomiting. He has not passed meconium since birth. Abdominal radiography demonstrates multiple dilated bowel loops, while contrast enema shows a microcolon. At laparotomy, the ileum contains thick, tenacious material that is difficult to wash out. Which underlying defect most likely explains this presentation?
+A. Absence of enteric ganglion cells
+B. CFTR dysfunction causing abnormally thick intestinal secretions
+C. Failure of midgut rotation
+D. Congenital absence of the ileocecal valve
+E. Defective intestinal smooth-muscle development
+Answer: B.
+Explanation: This is meconium ileus, a classic neonatal manifestation of cystic fibrosis. Defective CFTR-mediated chloride and water transport produces thick, sticky intestinal secretions that obstruct the distal ileum. A microcolon may be seen because little material reaches the colon.
+
+Q22. A 5-month-old infant presents with persistent cough, recurrent chest infections, poor weight gain, and bulky, foul-smelling stools that are difficult to flush. Sweat chloride testing is markedly elevated. Genetic testing confirms a pathogenic CFTR mutation. Which pulmonary abnormality is most directly responsible for the progressive respiratory disease in this child?
+A. Destruction of alveolar macrophages
+B. Impaired mucociliary clearance with thick airway secretions
+C. Reduced pulmonary blood flow from pulmonary stenosis
+D. Primary deficiency of surfactant production
+E. Recurrent aspiration caused by esophageal atresia
+Answer: B.
+Explanation: Cystic fibrosis causes defective chloride and water movement, producing dehydrated, viscous airway secretions. Impaired mucociliary clearance predisposes to recurrent infection and bronchiectasis. Pancreatic insufficiency additionally causes malabsorption and failure to thrive.
+
+Q23. A 4-year-old child develops sudden severe respiratory distress and unilateral absent breath sounds after choking while eating peanuts. The child is cyanotic and has marked respiratory effort. Chest radiography demonstrates unilateral hyperinflation with mediastinal shift. Which mechanism best explains the radiographic finding?
+A. Complete airway obstruction causing immediate lung collapse
+B. Ball-valve obstruction producing air trapping during expiration
+C. Bilateral bronchospasm caused by viral infection
+D. Pleural fluid accumulation compressing the lung
+E. Pulmonary edema caused by aspiration
+Answer: B.
+Explanation: A foreign body may act as a ball-valve, allowing air to enter during inspiration but preventing adequate expiration. This causes unilateral air trapping and hyperinflation. Complete obstruction can instead produce atelectasis. Significant airway foreign bodies require urgent bronchoscopy.
+
+Q24. A 7-year-old child presents with fever, sore throat, tender anterior cervical lymphadenopathy, and tonsillar exudates without cough. A rapid antigen test is positive. The child is treated appropriately. Several weeks later, he develops migratory pain involving the knees and ankles, fever, and a new apical systolic murmur. Which mechanism best explains the cardiac manifestation?
+A. Direct invasion of myocardium by Streptococcus pyogenes
+B. Molecular mimicry causing immune-mediated tissue injury
+C. Deposition of bacterial endotoxin in coronary arteries
+D. Autoantibodies against acetylcholine receptors
+E. Immune-complex deposition limited exclusively to the kidneys
+Answer: B.
+Explanation: Acute rheumatic fever is a delayed immune-mediated complication of group A Streptococcus pharyngitis. Antibodies against streptococcal antigens cross-react with host tissues through molecular mimicry. Carditis may produce valvular regurgitation, especially mitral regurgitation.
+
+Q25. A 10-year-old boy presents with recurrent episodes of severe abdominal pain and vomiting. His mother reports that similar attacks occurred in his maternal uncle. During an acute episode, he develops facial swelling without urticaria or itching. Serum C4 is low. Which treatment is most appropriate for a severe acute attack?
+A. Epinephrine as the only definitive treatment
+B. C1 esterase inhibitor replacement
+C. Oral antihistamines alone
+D. High-dose antibiotics
+E. Immediate splenectomy
+Answer: B.
+Explanation: Recurrent angioedema without urticaria, family history, and low C4 suggest hereditary angioedema due to C1 inhibitor deficiency or dysfunction. Bradykinin, rather than histamine, mediates the edema. Acute severe attacks can be treated with C1 esterase inhibitor concentrate or other bradykinin-targeted therapy.
+
+Q26. A 6-year-old child presents with fever, cough, conjunctivitis, and rhinorrhea followed several days later by a diffuse erythematous maculopapular rash beginning on the face and spreading downward. Small bluish-white lesions are observed on the buccal mucosa before the rash appears. Which complication is particularly important to recognize because it may occur years after the initial infection?
+A. Rheumatic heart disease
+B. Subacute sclerosing panencephalitis
+C. Poststreptococcal glomerulonephritis
+D. Guillain-Barré syndrome
+E. Hemolytic uremic syndrome
+Answer: B.
+Explanation: The presentation is classic for measles, with cough, coryza, conjunctivitis, Koplik spots, followed by a cephalocaudal rash. A rare but devastating late complication is subacute sclerosing panencephalitis (SSPE), a progressive neurodegenerative disease caused by persistent defective measles virus.
+
+Q27. A 3-month-old infant is brought because of episodes of coughing that occur in prolonged bursts followed by vomiting and a high-pitched inspiratory sound. During severe episodes, the infant becomes cyanotic. There is no significant fever. Which organism is most likely responsible for this illness?
+A. Bordetella pertussis
+B. Respiratory syncytial virus
+C. Streptococcus pneumoniae
+D. Corynebacterium diphtheriae
+E. Adenovirus
+Answer: A.
+Explanation: Pertussis causes paroxysmal coughing, post-tussive vomiting, and the classic inspiratory whoop, although infants may instead develop apnea and cyanosis. The organism produces several toxins, including pertussis toxin, which contributes to lymphocytosis. Macrolides are used for treatment and transmission control.
+
+Q28. A 18-month-old unvaccinated child develops fever, irritability, difficulty swallowing, and a gray-white adherent membrane over the tonsillar region. Attempts to remove the membrane result in bleeding. The child develops cervical swelling and a “bull neck” appearance. Which toxin-mediated mechanism is responsible for the major systemic complications?
+A. Inhibition of DNA gyrase
+B. ADP-ribosylation of elongation factor-2
+C. Activation of adenylate cyclase by Gs protein
+D. Cleavage of SNARE proteins
+E. Inhibition of 30S ribosomal subunit
+Answer: B.
+Explanation: Corynebacterium diphtheriae produces an exotoxin that ADP-ribosylates EF-2, inhibiting protein synthesis. The pseudomembrane can bleed when forcibly removed. Major complications include myocarditis and peripheral neuropathy. Treatment requires antitoxin plus antibiotics and isolation.
+
+Q29. A 9-month-old infant presents with persistent fever, irritability, vomiting, and a bulging anterior fontanelle. Lumbar puncture demonstrates neutrophilic pleocytosis, markedly elevated protein, and low glucose. Which organism is especially important in an incompletely immunized infant as a cause of this presentation?
+A. Haemophilus influenzae type b
+B. Rotavirus
+C. Epstein-Barr virus
+D. Candida albicans
+E. Giardia lamblia
+Answer: A.
+Explanation: Bacterial meningitis in infants can be caused by several organisms. H. influenzae type b was historically a major cause in children and remains important in under-immunized populations. Bacterial meningitis typically causes neutrophils, high protein, and low CSF glucose.
+
+Q30. A 2-year-old child presents with profuse watery diarrhea and repeated vomiting for 24 hours. He is lethargic, has sunken eyes, dry mucous membranes, and delayed capillary refill. He cannot drink adequately. Which intervention is the highest priority before addressing the underlying infectious cause?
+A. Immediate antidiarrheal medication
+B. Rapid assessment and correction of dehydration with appropriate IV fluids
+C. Routine corticosteroid therapy
+D. Immediate colonoscopy
+E. High-dose oral iron therapy
+Answer: B.
+Explanation: Severe dehydration is the immediate life-threatening problem in acute pediatric diarrhea. Management follows IMNCI/WHO dehydration principles, with appropriate IV rehydration when the child cannot adequately drink or has severe dehydration. Zinc supplementation and continued feeding are also important once stabilization occurs.
+
+Q31. A 14-month-old child presents with recurrent loose stools, abdominal distension, poor appetite, and failure to gain weight. The symptoms worsen after introduction of wheat-containing foods. Laboratory testing shows iron-deficiency anemia, and screening demonstrates antibodies against tissue transglutaminase. Which histologic finding would most strongly support the suspected diagnosis?
+A. Gastric parietal-cell hyperplasia
+B. Villous atrophy with crypt hyperplasia
+C. Transmural granulomatous inflammation
+D. Colonic pseudopolyps
+E. Pancreatic acinar destruction
+Answer: B.
+Explanation: Celiac disease results from immune-mediated injury triggered by gluten in genetically susceptible individuals. Small-intestinal biopsy demonstrates villous atrophy, crypt hyperplasia, and increased intraepithelial lymphocytes. Malabsorption may cause iron deficiency and growth failure.
+
+Q32. A 5-year-old boy presents with recurrent episodes of pallor and jaundice, particularly after febrile illnesses. His spleen is enlarged, and laboratory testing demonstrates chronic hemolysis. Peripheral smear reveals numerous small, dense red cells without a central area of pallor. Which defect most likely explains this condition?
+A. β-globin chain substitution
+B. Spectrin or ankyrin membrane defect
+C. G6PD enzyme deficiency
+D. Pyruvate kinase excess
+E. Defective DNA synthesis
+Answer: B.
+Explanation: Hereditary spherocytosis results from defects in RBC membrane proteins such as spectrin, ankyrin, band 3, or protein 4.2. Spherocytes are seen on smear, with extravascular hemolysis occurring predominantly in the spleen. Splenectomy may be considered in severe disease.
+
+Q33. A 6-year-old boy develops jaundice and dark urine two days after receiving medication for a bacterial infection. He has no previous history of anemia. Peripheral smear demonstrates bite cells and Heinz bodies. Which enzyme deficiency is most likely responsible?
+A. Pyruvate kinase
+B. Glucose-6-phosphate dehydrogenase
+C. Hexokinase
+D. Lactate dehydrogenase
+E. Glutathione reductase
+Answer: B.
+Explanation: G6PD deficiency impairs production of NADPH, reducing the ability of RBCs to maintain glutathione in its reduced form. Oxidative stress from infections or oxidant medications can produce Heinz bodies and bite cells. Hemolysis is often episodic.
+
+Q34. A 8-year-old child presents with fever, severe bone pain, anemia, and repeated episodes of painful swelling of the hands and feet. Peripheral smear demonstrates sickled erythrocytes. The child develops acute chest pain, fever, and hypoxemia during a painful crisis. Which complication is most likely represented by the new respiratory findings?
+A. Acute chest syndrome
+B. Bronchiolitis
+C. Croup
+D. Epiglottitis
+E. Simple viral rhinitis
+Answer: A.
+Explanation: Acute chest syndrome is a major complication of sickle cell disease and presents with a new pulmonary infiltrate plus fever, chest pain, cough, or hypoxemia. It may be triggered by infection, pulmonary vaso-occlusion, or fat embolism. Management includes oxygenation, antibiotics when infection is suspected, analgesia, and sometimes transfusion.
+
+Q35. A 2-year-old child develops sudden severe pallor and lethargy following an episode of viral gastroenteritis. Laboratory testing reveals profound anemia with a very low reticulocyte count. Previous blood counts had been normal. Which diagnosis best explains this transient episode?
+A. Transient aplastic crisis due to parvovirus B19
+B. Iron-deficiency anemia
+C. Hereditary spherocytosis
+D. Autoimmune hemolytic anemia
+E. Thalassemia major
+Answer: A.
+Explanation: Parvovirus B19 temporarily suppresses erythroid precursor production, producing an abrupt fall in hemoglobin and marked reticulocytopenia. It is particularly dangerous in children with underlying chronic hemolytic disorders such as sickle cell disease or hereditary spherocytosis.
+
+Q36. A 10-month-old infant presents with recurrent episodes of apnea, poor feeding, and generalized hypotonia. Examination reveals a large tongue, umbilical hernia, and poor muscle tone. The infant also has prolonged jaundice and difficulty achieving developmental milestones. Which endocrine abnormality most likely explains the presentation?
+A. Excess cortisol
+B. Deficiency of thyroid hormone
+C. Excess growth hormone
+D. Hyperaldosteronism
+E. Excess parathyroid hormone
+Answer: B.
+Explanation: Untreated congenital hypothyroidism can cause prolonged neonatal jaundice, hypotonia, macroglossia, umbilical hernia, poor feeding, and developmental delay. Early newborn screening and treatment with levothyroxine are crucial because prolonged deficiency can cause irreversible intellectual impairment.
+
+Q37. A 7-year-old child presents with excessive thirst, frequent urination, weight loss, abdominal pain, vomiting, and progressive lethargy. Laboratory testing reveals marked hyperglycemia, metabolic acidosis, and elevated serum ketones. Which initial treatment principle is most appropriate?
+A. Give subcutaneous long-acting insulin only
+B. Begin appropriate IV fluid resuscitation followed by carefully monitored insulin therapy
+C. Administer sodium bicarbonate routinely to every patient
+D. Restrict all fluids to prevent cerebral edema
+E. Give oral glucose immediately
+Answer: B.
+Explanation: This is diabetic ketoacidosis (DKA), usually associated with type 1 diabetes in children. Management requires carefully controlled fluid replacement, IV insulin, and close monitoring of potassium, glucose, acid-base status, and neurologic status. Excessively rapid correction increases the risk of cerebral edema.
+
+Q38. A 5-year-old child presents with recurrent episodes of sweating, tremulousness, confusion, and behavioral changes that improve rapidly after eating. During an episode, blood glucose is very low, while insulin and C-peptide levels are inappropriately elevated. Which mechanism best explains the biochemical findings?
+A. Exogenous insulin administration
+B. Endogenous hyperinsulinism
+C. Severe glucagon excess
+D. Cortisol excess
+E. Growth hormone excess
+Answer: B.
+Explanation: Hypoglycemia accompanied by inappropriately elevated insulin and C-peptide suggests endogenous insulin secretion. Exogenous insulin would produce high insulin but suppressed C-peptide. In infants and young children, congenital hyperinsulinism is an important cause of persistent hypoglycemia.
+
+Q39. A newborn develops severe respiratory distress, cyanosis, and abdominal scaphoid appearance immediately after birth. Breath sounds are decreased on the left side. Chest radiography demonstrates bowel loops within the left hemithorax with mediastinal shift toward the opposite side. Which embryologic defect most likely caused this condition?
+A. Failure of pleuropericardial membrane formation
+B. Failure of closure of the posterolateral diaphragm
+C. Failure of tracheoesophageal septation
+D. Abnormal rotation of the foregut
+E. Failure of abdominal wall closure
+Answer: B.
+Explanation: Congenital diaphragmatic hernia, most commonly a Bochdalek hernia, results from failure of posterolateral diaphragmatic closure. Herniation of abdominal viscera into the thorax causes pulmonary hypoplasia and pulmonary hypertension. Immediate aggressive bag-mask ventilation should be avoided because it can worsen intestinal distension.
+
+Q40. A newborn develops coughing, choking, cyanosis, and respiratory distress during the first attempted feeding. A nasogastric tube cannot be advanced into the stomach. Prenatal ultrasound had demonstrated polyhydramnios. Which congenital anomaly most likely accounts for this presentation?
+A. Hypertrophic pyloric stenosis
+B. Esophageal atresia with tracheoesophageal fistula
+C. Hirschsprung disease
+D. Meconium ileus
+E. Duodenal stenosis
+Answer: B.
+Explanation: Esophageal atresia with distal tracheoesophageal fistula classically presents with excessive secretions, choking, coughing, cyanosis during feeding, and inability to pass an NG tube. Polyhydramnios may occur because the fetus cannot swallow amniotic fluid normally. Definitive treatment is surgical repair after stabilization.Bilkul — Q41–100 same pattern, same lengthy level, tough + tricky, with A–E options, answer aur explanation.
+
+Q41. A 6-week-old infant is brought with persistent vomiting and progressive abdominal distension. The vomiting initially occurred after feeds but has become increasingly forceful. The vomitus is now greenish. The infant is irritable and appears dehydrated. Abdominal imaging demonstrates abnormal positioning of the duodenojejunal junction with twisting of the proximal small bowel around the superior mesenteric artery. Which surgical procedure is the definitive treatment for this condition?
+A. Ramstedt pyloromyotomy
+B. Ladd procedure with division of Ladd bands
+C. Swenson pull-through procedure
+D. Kasai portoenterostomy
+E. Duodenoduodenostomy
+Answer: B.
+Explanation: Midgut malrotation with volvulus can present with acute bilious vomiting, which is a surgical emergency in a neonate or young infant. Ladd procedure involves counterclockwise detorsion of the volvulus, division of obstructing Ladd bands, widening of the mesenteric base, and placement of bowel in a nonrotated position.
+
+Q42. A newborn develops respiratory distress and cyanosis shortly after birth. The mother had poorly controlled diabetes during pregnancy. Examination reveals a harsh systolic murmur, a single loud second heart sound, and marked cyanosis that does not improve substantially with supplemental oxygen. Echocardiography demonstrates the aorta arising from the right ventricle and the pulmonary artery from the left ventricle. Which intervention is most important to maintain systemic oxygenation before definitive correction?
+A. Indomethacin administration
+B. Prostaglandin E1 infusion
+C. High-dose furosemide
+D. Digoxin alone
+E. Immediate closure of the ductus arteriosus
+Answer: B.
+Explanation: This is transposition of the great arteries (TGA). The systemic and pulmonary circulations run in parallel, producing severe cyanosis. Maintaining the ductus arteriosus with PGE1 improves mixing while definitive repair, usually an arterial switch operation, is arranged.
+
+Q43. A 4-year-old child develops episodes of cyanosis and shortness of breath while playing. During one episode, the child instinctively squats down and rapidly improves. Examination reveals a harsh systolic murmur at the left upper sternal border. Echocardiography demonstrates ventricular septal defect, overriding aorta, right ventricular outflow obstruction, and right ventricular hypertrophy. Which immediate maneuver is most appropriate during a severe cyanotic episode?
+A. Place the child in knee-chest position and provide oxygen
+B. Give intravenous indomethacin
+C. Place the child completely supine and restrict oxygen
+D. Administer a rapid potassium infusion
+E. Perform immediate balloon mitral valvotomy
+Answer: A.
+Explanation: This is a Tetralogy of Fallot hypercyanotic spell. The knee-chest position increases systemic vascular resistance, reducing right-to-left shunting. Oxygen, calming the child, and morphine may also be used. Propranolol can reduce infundibular spasm in selected cases.
+
+Q44. A 2-day-old newborn develops severe cyanosis and respiratory distress. Echocardiography demonstrates pulmonary atresia with an intact ventricular septum. The infant's pulmonary blood flow is therefore dependent on a persistent fetal vascular connection. Which medication should be administered urgently while definitive intervention is planned?
+A. Indomethacin
+B. Prostaglandin E1
+C. Ibuprofen
+D. Propranolol
+E. Spironolactone
+Answer: B.
+Explanation: In duct-dependent pulmonary circulation, such as pulmonary atresia, systemic-to-pulmonary blood flow depends on the ductus arteriosus. PGE1 keeps the ductus open, improving pulmonary blood flow until catheter-based or surgical intervention can be performed.
+
+Q45. A 2-year-old child presents with recurrent episodes of barking cough and stridor. The episodes occur mainly at night and improve with exposure to cool air. He has no drooling and remains comfortable between attacks. Examination during a severe episode shows inspiratory stridor at rest. Which medication provides the most rapid temporary reduction in airway edema?
+A. Nebulized epinephrine
+B. Oral amoxicillin
+C. Inhaled corticosteroid only
+D. Nebulized acetylcysteine
+E. Oral antihistamine
+Answer: A.
+Explanation: Nebulized epinephrine produces rapid vasoconstriction of the edematous upper airway and is used in moderate-to-severe croup with stridor at rest. Its effect is temporary, so the child requires observation after treatment. Dexamethasone provides longer-lasting anti-inflammatory benefit.
+
+Q46. A 7-year-old child with known asthma develops severe respiratory distress despite repeated doses of inhaled short-acting β2 agonist. He is unable to speak full sentences, has marked accessory muscle use, and initially has widespread wheezing. After several minutes, the wheezing becomes minimal despite worsening fatigue and hypoxemia. Which interpretation is most concerning?
+A. Complete clinical recovery
+B. Mild bronchospasm resolving spontaneously
+C. Impending respiratory failure with severely reduced airflow
+D. Isolated upper airway obstruction
+E. Hyperventilation caused by anxiety
+Answer: C.
+Explanation: In a severe asthma attack, a “silent chest” is a dangerous sign, not improvement. As airflow becomes critically reduced, wheezing may disappear. The child requires aggressive emergency management, including oxygen, repeated bronchodilators, systemic corticosteroids, and escalation of respiratory support when necessary.
+
+Q47. A 4-month-old infant develops cough, tachypnea, wheezing, poor feeding, and increased work of breathing during winter. Examination reveals diffuse expiratory wheezing and fine crackles. Oxygen saturation is reduced. The infant has no previous history of chronic lung disease. Which organism is the most common cause of this illness?
+A. Respiratory syncytial virus
+B. Bordetella pertussis
+C. Streptococcus pyogenes
+D. Mycobacterium tuberculosis
+E. Corynebacterium diphtheriae
+Answer: A.
+Explanation: RSV bronchiolitis is a common cause of lower respiratory tract disease in infants, particularly during winter. It presents with rhinorrhea followed by cough, wheezing, tachypnea, and feeding difficulty. Treatment is primarily supportive, including hydration and oxygen when indicated.
+
+Q48. A 6-month-old infant with severe bronchiolitis develops increasing respiratory distress and episodes of apnea. Oxygen saturation remains low despite supplemental oxygen. Blood gas demonstrates worsening hypercapnia. Which factor most strongly increases the risk of severe disease in this patient?
+A. Age greater than 10 years
+B. Prematurity and young age
+C. Previous uncomplicated otitis media
+D. Normal birth weight with no comorbidities
+E. Exclusive breastfeeding
+Answer: B.
+Explanation: Severe bronchiolitis is particularly likely in young infants, especially those born prematurely or with chronic lung disease, congenital heart disease, or immunodeficiency. Apnea, exhaustion, hypoxemia, and hypercapnia indicate severe disease requiring escalation of respiratory support.
+
+Q49. A 5-year-old child develops fever, productive cough, tachypnea, and pleuritic chest discomfort. Chest radiography demonstrates lobar consolidation. Blood culture grows a gram-positive, lancet-shaped diplococcus that is α-hemolytic and optochin-sensitive. Which organism is responsible?
+A. Staphylococcus aureus
+B. Streptococcus pneumoniae
+C. Klebsiella pneumoniae
+D. Mycoplasma pneumoniae
+E. Haemophilus influenzae
+Answer: B.
+Explanation: Streptococcus pneumoniae is an important cause of community-acquired pneumonia in children. It is an encapsulated, gram-positive, lancet-shaped diplococcus that is α-hemolytic and optochin-sensitive. Vaccination has significantly reduced invasive pneumococcal disease.
+
+Q50. A 9-year-old child develops persistent dry cough, low-grade fever, headache, and malaise. Chest radiography shows diffuse interstitial infiltrates rather than dense lobar consolidation. The child is otherwise relatively well despite the respiratory symptoms. Which organism is most likely responsible?
+A. Mycoplasma pneumoniae
+B. Streptococcus pneumoniae
+C. Group B Streptococcus
+D. Klebsiella pneumoniae
+E. Pseudomonas aeruginosa
+Answer: A.
+Explanation: Mycoplasma pneumoniae commonly causes an atypical pneumonia in school-aged children and adolescents. It produces a persistent dry cough, headache, fever, and diffuse/interstitial infiltrates. Because it lacks a cell wall, β-lactam antibiotics are ineffective.
+
+Q51. A 3-year-old child presents with fever, cough, and difficulty breathing. Respiratory rate is significantly elevated, and lower chest wall indrawing is present. There is no stridor. Oxygen saturation is low on room air. According to standard pediatric clinical assessment, which finding most strongly indicates severe pneumonia requiring urgent management?
+A. Mild rhinorrhea alone
+B. Tachypnea without any respiratory distress
+C. Hypoxemia with significant respiratory distress
+D. Mild cough with normal feeding
+E. Fever lasting less than 24 hours
+Answer: C.
+Explanation: In pediatric pneumonia, hypoxemia and significant respiratory distress are major severity indicators. Management includes oxygen when saturation is low, appropriate antibiotics for suspected bacterial infection, hydration, and monitoring for complications.
+
+Q52. A 6-year-old child develops fever and painful swelling of the parotid glands. He has not received the recommended childhood vaccination series. Several days later, he complains of severe headache and neck stiffness. Which complication is most likely associated with the underlying viral infection?
+A. Aseptic meningitis
+B. Poststreptococcal glomerulonephritis
+C. Rheumatic carditis
+D. Epiglottic abscess
+E. Pseudomembranous colitis
+Answer: A.
+Explanation: Mumps, caused by an enveloped RNA paramyxovirus, classically causes parotitis but can produce complications including aseptic meningitis, encephalitis, orchitis, pancreatitis, and hearing loss. MMR vaccination provides effective prevention.
+
+Q53. A 8-year-old child develops fever, migratory joint pain, and a transient rash several weeks after an untreated sore throat. Examination reveals a new cardiac murmur. Which valve is most commonly affected during the acute episode of rheumatic carditis?
+A. Pulmonary valve
+B. Tricuspid valve
+C. Mitral valve
+D. Aortic valve exclusively
+E. Pulmonary and tricuspid valves equally
+Answer: C.
+Explanation: Mitral valve involvement is characteristic of acute rheumatic carditis. Mitral regurgitation is common during the acute phase, whereas chronic rheumatic heart disease may eventually produce mitral stenosis. Secondary antibiotic prophylaxis is important to prevent recurrence.
+
+Q54. A 4-year-old child presents with fever, abdominal pain, vomiting, and watery diarrhea followed by bloody stools. Several days later, he develops pallor, reduced urine output, and lethargy. Laboratory studies reveal anemia, thrombocytopenia, and elevated creatinine. Peripheral smear demonstrates fragmented red cells. Which complication has most likely developed?
+A. Nephrotic syndrome
+B. Hemolytic uremic syndrome
+C. Acute rheumatic fever
+D. Disseminated tuberculosis
+E. Hereditary spherocytosis
+Answer: B.
+Explanation: HUS classically consists of microangiopathic hemolytic anemia, thrombocytopenia, and acute kidney injury. In children, it often follows infection with Shiga toxin-producing E. coli, particularly after bloody diarrhea. Schistocytes are seen on peripheral smear.
+
+Q55. A 3-year-old child develops profuse watery diarrhea after consuming contaminated food. The child has severe dehydration and hypovolemic shock. Which mechanism is responsible for the massive intestinal fluid loss in classic cholera?
+A. Inhibition of chloride secretion
+B. Persistent activation of adenylate cyclase through Gs protein
+C. Destruction of intestinal villi by intracellular bacteria
+D. Direct invasion of colonic mucosa
+E. Blockade of sodium-glucose cotransport
+Answer: B.
+Explanation: Cholera toxin ADP-ribosylates the Gs protein, locking adenylate cyclase in an activated state. Increased cAMP stimulates chloride secretion and inhibits sodium absorption, producing massive watery diarrhea. Rapid fluid and electrolyte replacement is the cornerstone of treatment.
+
+Q56. A 2-year-old child has chronic diarrhea, abdominal distension, weight loss, and foul-smelling stools after drinking untreated water. Stool examination demonstrates trophozoites with a characteristic pear-shaped appearance and multiple flagella. Which organism is responsible?
+A. Entamoeba histolytica
+B. Giardia lamblia
+C. Cryptosporidium parvum
+D. Shigella dysenteriae
+E. Salmonella typhi
+Answer: B.
+Explanation: Giardia lamblia causes malabsorption and steatorrhea through colonization of the proximal small intestine. It is transmitted through contaminated water and causes bloating, abdominal discomfort, and foul-smelling greasy stools. Metronidazole or another appropriate antigiardial agent can be used.
+
+Q57. A 5-year-old child develops fever, severe abdominal pain, tenesmus, and frequent small-volume stools containing blood and mucus. Stool microscopy reveals numerous neutrophils and red blood cells. Which organism most commonly causes this invasive dysenteric illness?
+A. Shigella species
+B. Giardia lamblia
+C. Vibrio cholerae
+D. Rotavirus
+E. Enterobius vermicularis
+Answer: A.
+Explanation: Shigellosis causes inflammatory diarrhea characterized by fever, abdominal cramps, tenesmus, and frequent small-volume bloody stools. Shigella invades colonic mucosa and can produce severe disease in children. Some strains also produce Shiga toxin.
+
+Q58. A 14-month-old child develops severe watery diarrhea and vomiting followed by signs of dehydration. Several other children at the daycare center have similar symptoms. The illness occurs predominantly during the colder months. Which pathogen is classically associated with this presentation and is preventable through routine infant vaccination?
+A. Rotavirus
+B. Entamoeba histolytica
+C. Vibrio cholerae
+D. Salmonella typhi
+E. Giardia lamblia
+Answer: A.
+Explanation: Rotavirus is a major cause of severe gastroenteritis in infants and young children. It produces watery diarrhea and vomiting and can cause significant dehydration. Oral rotavirus vaccination markedly reduces severe disease and hospitalization.
+
+Q59. A 6-year-old child presents with fever, severe abdominal pain, and vomiting. The pain initially began around the umbilicus but later localized to the right lower quadrant. Examination reveals guarding and rebound tenderness. Which physical finding is most consistent with acute appendicitis?
+A. Pain relieved by eating
+B. Migration of pain from periumbilical region to right lower quadrant
+C. Painless jaundice
+D. Bilious vomiting immediately after birth
+E. Projectile non-bilious vomiting
+Answer: B.
+Explanation: Acute appendicitis classically begins with visceral periumbilical pain followed by localization to the right lower quadrant as parietal peritoneal inflammation develops. Fever, anorexia, nausea, vomiting, guarding, and rebound may occur. Delay increases the risk of perforation.
+
+Q60. A 9-month-old infant develops sudden crying, vomiting, and abdominal distension. The infant appears well between painful episodes. Later, a stool containing blood and mucus is passed. Ultrasound demonstrates concentric bowel rings. Which statement best describes the definitive treatment if nonoperative reduction fails or perforation is suspected?
+A. Immediate pyloromyotomy
+B. Surgical reduction with resection of nonviable bowel when necessary
+C. Oral rehydration alone
+D. Kasai portoenterostomy
+E. Long-term corticosteroid therapy
+Answer: B.
+Explanation: The presentation is intussusception. Air or hydrostatic enema is first-line in a stable child without perforation. Surgery is required when enema reduction fails, perforation/peritonitis is present, or bowel ischemia and necrosis are suspected. Resection is performed if bowel is nonviable.
+
+Q61. A 2-month-old infant is brought because of poor feeding, sweating during feeds, rapid breathing, and inadequate weight gain. Examination reveals tachycardia, hepatomegaly, and a large pansystolic murmur. Echocardiography shows a large left-to-right shunt with pulmonary overcirculation. Which medication can temporarily reduce symptoms of congestive heart failure in this infant?
+A. Furosemide
+B. Indomethacin
+C. Atropine
+D. Prostaglandin E1
+E. Acetazolamide only
+Answer: A.
+Explanation: A large VSD can cause pulmonary overcirculation and heart failure during infancy. Symptoms include tachypnea, feeding difficulty, sweating, poor weight gain, and hepatomegaly. Diuretics such as furosemide can reduce pulmonary congestion while definitive management is planned.
+
+Q62. A premature newborn develops respiratory distress immediately after birth. The infant has grunting, nasal flaring, and retractions. The mother received antenatal corticosteroids only shortly before delivery. Chest radiography shows diffuse reticulogranular opacities and air bronchograms. Which intervention would most directly correct the underlying deficiency?
+A. Exogenous pulmonary surfactant
+B. Oral bronchodilator therapy
+C. Intravenous antihistamines
+D. Prostaglandin E1
+E. Nebulized epinephrine
+Answer: A.
+Explanation: Prematurity leads to inadequate surfactant production by type II pneumocytes. Exogenous surfactant decreases alveolar surface tension and improves lung compliance and oxygenation. Antenatal corticosteroids accelerate fetal lung maturation and reduce the risk of RDS.
+
+Q63. A 1-day-old newborn develops respiratory distress, cyanosis, and severe hypoxemia. The mother reports that the infant passed meconium before delivery. Chest radiography demonstrates patchy bilateral infiltrates, hyperinflation, and areas of atelectasis. Which mechanism most directly contributes to the pulmonary disease?
+A. Aspiration of meconium causing chemical pneumonitis and airway obstruction
+B. Surfactant deficiency due exclusively to prematurity
+C. Failure of pulmonary vascular development
+D. Congenital absence of the diaphragm
+E. Complete obstruction of the esophagus
+Answer: A.
+Explanation: Meconium aspiration syndrome can cause airway obstruction, chemical pneumonitis, surfactant dysfunction, and pulmonary hypertension. Radiographs may show patchy infiltrates and hyperinflation due to a ball-valve effect.
+
+Q64. A newborn develops respiratory distress and cyanosis after birth. Echocardiography demonstrates severe pulmonary hypertension, and oxygenation remains poor despite supplemental oxygen. The infant was delivered after prolonged fetal distress. Which physiologic process is most likely responsible?
+A. Persistent pulmonary vascular resistance causing right-to-left shunting
+B. Increased pulmonary blood flow from a large VSD only
+C. Complete closure of the ductus causing pulmonary edema
+D. Reduced systemic vascular resistance causing left-to-right shunting
+E. Excess surfactant production
+Answer: A.
+Explanation: Persistent pulmonary hypertension of the newborn (PPHN) occurs when pulmonary vascular resistance fails to fall after birth. Blood bypasses the lungs through fetal channels, producing right-to-left shunting and severe hypoxemia. It may follow hypoxia, meconium aspiration, or pulmonary disease.
+
+Q65. A 3-day-old newborn becomes jaundiced. The total bilirubin is elevated, but the infant is otherwise feeding well and has normal urine and stool color. The bilirubin rises predominantly after the first 24 hours of life. Which diagnosis is most consistent with an otherwise healthy term newborn?
+A. Physiologic neonatal jaundice
+B. Biliary atresia
+C. Neonatal hepatitis
+D. Rh hemolytic disease
+E. Choledochal cyst
+Answer: A.
+Explanation: Physiologic jaundice typically appears after the first 24 hours, peaks during the first several days, and results from increased bilirubin production combined with immature hepatic conjugation and increased enterohepatic circulation. Jaundice appearing within the first 24 hours is considered pathologic until proven otherwise.
+
+Q66. A newborn develops severe jaundice within the first day of life. The mother is Rh-negative and the infant is Rh-positive. Laboratory testing demonstrates anemia, reticulocytosis, and a positive direct antiglobulin test. Which mechanism is responsible for the hemolysis?
+A. Maternal IgG antibodies crossing the placenta and destroying fetal RBCs
+B. Maternal IgM antibodies crossing the placenta
+C. Deficiency of fetal vitamin K
+D. Intrinsic platelet destruction
+E. Congenital absence of bilirubin production
+Answer: A.
+Explanation: Rh hemolytic disease results from maternal IgG antibodies against fetal Rh(D) antigen crossing the placenta. This causes fetal and neonatal hemolysis, anemia, and potentially severe hyperbilirubinemia. Prevention is achieved with anti-D immunoglobulin administration to Rh-negative mothers.
+
+Q67. A 3-week-old infant develops progressive jaundice with dark urine and pale, clay-colored stools. Examination reveals hepatomegaly. Laboratory testing demonstrates predominantly conjugated hyperbilirubinemia. Which diagnosis should be urgently considered because early surgical treatment improves outcome?
+A. Physiologic jaundice
+B. Breastfeeding jaundice
+C. Biliary atresia
+D. Gilbert syndrome
+E. Crigler-Najjar syndrome type II
+Answer: C.
+Explanation: Biliary atresia causes progressive extrahepatic bile duct obstruction, resulting in conjugated jaundice, dark urine, pale stools, and hepatomegaly. Early diagnosis is critical because Kasai portoenterostomy is most successful when performed early.
+
+Q68. A newborn is found to have jaundice, hypotonia, macroglossia, prolonged jaundice, and an umbilical hernia. Newborn screening reveals markedly elevated TSH with low free T4. Which treatment should be initiated promptly?
+A. Methimazole
+B. Levothyroxine
+C. Hydrocortisone only
+D. Propranolol
+E. Radioactive iodine
+Answer: B.
+Explanation: These findings indicate congenital hypothyroidism. Prompt treatment with levothyroxine prevents irreversible neurodevelopmental impairment. Newborn screening is essential because clinical findings may initially be subtle.
+
+Q69. A 5-year-old child presents with excessive thirst, polyuria, nocturia, and poor weight gain. Serum sodium is elevated and serum osmolality is increased, while urine remains very dilute. A water deprivation test fails to concentrate the urine, but administration of desmopressin produces marked improvement in urine concentration. Which diagnosis is most likely?
+A. Nephrogenic diabetes insipidus
+B. Central diabetes insipidus
+C. SIADH
+D. Diabetes mellitus
+E. Primary polydipsia
+Answer: B.
+Explanation: In central diabetes insipidus, ADH secretion is deficient. Urine remains dilute despite hyperosmolar plasma and water deprivation, but responds to desmopressin. Nephrogenic DI would show little or no response to desmopressin.
+
+Q70. A 9-year-old child develops generalized edema and frothy urine. Urinalysis demonstrates heavy proteinuria, and serum albumin is low. After appropriate steroid treatment, the proteinuria completely resolves. Several months later, another episode occurs and again responds rapidly to corticosteroids. Which diagnosis best fits this clinical course?
+A. Steroid-sensitive minimal change disease
+B. Alport syndrome
+C. Rapidly progressive glomerulonephritis
+D. IgA nephropathy
+E. Poststreptococcal glomerulonephritis
+Answer: A.
+Explanation: Minimal change disease is the most common cause of nephrotic syndrome in young children. It typically presents with edema and heavy proteinuria while renal function remains preserved. Most children respond dramatically to corticosteroids, although relapses can occur.
+
+Q71. A 7-year-old child develops cola-colored urine, facial puffiness, and hypertension approximately two weeks after an episode of pharyngitis. Urinalysis shows red blood cell casts. Which laboratory abnormality would be expected during the acute phase?
+A. Increased C3 level
+B. Decreased C3 level
+C. Markedly increased serum albumin
+D. Severe isolated eosinophilia
+E. Absent urinary protein
+Answer: B.
+Explanation: Poststreptococcal glomerulonephritis is an immune-complex-mediated nephritic syndrome. Complement activation causes low C3, which usually returns toward normal during recovery. Hematuria, RBC casts, edema, hypertension, and mild-to-moderate proteinuria are typical.
+
+Q72. A 5-year-old child develops palpable purpura over the lower extremities, abdominal pain, arthralgia, and microscopic hematuria after a recent respiratory infection. Platelet count is normal. Which organ involvement most strongly determines the long-term prognosis?
+A. Skin
+B. Joints
+C. Kidneys
+D. Spleen
+E. Thyroid
+Answer: C.
+Explanation: IgA vasculitis usually has a favorable course, but renal involvement determines long-term prognosis. Patients can develop IgA nephropathy-like glomerular disease. Monitoring urinalysis, blood pressure, and renal function is therefore important.
+
+Q73. A 10-year-old child presents with fever, sore throat, generalized lymphadenopathy, and marked fatigue. He develops abdominal discomfort, and examination reveals splenomegaly. Peripheral blood smear shows atypical lymphocytes. Which organism is most likely responsible?
+A. Epstein-Barr virus
+B. Parvovirus B19
+C. Rotavirus
+D. Hepatitis A virus
+E. Varicella-zoster virus
+Answer: A.
+Explanation: Infectious mononucleosis caused by EBV classically produces fever, pharyngitis, posterior cervical lymphadenopathy, fatigue, and splenomegaly. Atypical reactive CD8+ T cells are seen. Ampicillin or amoxicillin may produce a characteristic rash in patients with EBV infection.
+
+Q74. A 6-year-old child develops fever followed by a generalized vesicular rash. Lesions are present simultaneously at different stages, with papules, vesicles, and crusts seen together. The rash is more prominent on the trunk than the extremities. Which pathogen is most likely responsible?
+A. Measles virus
+B. Varicella-zoster virus
+C. Rubella virus
+D. Parvovirus B19
+E. Coxsackievirus A16
+Answer: B.
+Explanation: Varicella classically produces a pruritic vesicular rash with lesions in different stages simultaneously. The distribution is predominantly centripetal, involving the trunk and face. Complications include bacterial superinfection, pneumonia, and cerebellar ataxia.
+
+Q75. A 5-year-old child develops fever followed by painful oral ulcers and small vesicular lesions on the palms and soles. Several classmates have similar symptoms. The child remains hemodynamically stable and recovers spontaneously. Which virus is most likely responsible?
+A. Coxsackievirus A
+B. Epstein-Barr virus
+C. Measles virus
+D. Respiratory syncytial virus
+E. Parainfluenza virus
+Answer: A.
+Explanation: Hand-foot-and-mouth disease is commonly caused by coxsackievirus A, particularly A16, and can also be caused by enterovirus 71. Oral vesicles/ulcers accompanied by lesions on the hands and feet are characteristic.
+
+Q76. A 2-year-old child develops fever, cough, conjunctivitis, and a maculopapular rash beginning on the face and spreading downward. His vaccination history is incomplete. Which vaccination strategy is most effective for preventing future cases in the population?
+A. Single-antigen tetanus vaccine
+B. Measles-containing vaccine as part of routine immunization
+C. Oral polio vaccine only
+D. BCG vaccine
+E. Hepatitis B vaccine alone
+Answer: B.
+Explanation: Measles vaccination, usually delivered as part of an MMR-containing vaccine, is highly effective at preventing infection and outbreaks. High population coverage is necessary because measles is extremely contagious.
+
+Q77. A 6-month-old infant has not yet achieved expected motor milestones and has marked hypotonia. On examination, the infant demonstrates tongue fasciculations and reduced deep tendon reflexes. Creatine kinase is elevated. Which diagnosis is most likely?
+A. Duchenne muscular dystrophy
+B. Spinal muscular atrophy
+C. Cerebral palsy
+D. Myasthenia gravis
+E. Guillain-Barré syndrome
+Answer: B.
+Explanation: Spinal muscular atrophy type I presents in infancy with severe hypotonia, weakness, tongue fasciculations, and absent/reduced reflexes due to degeneration of anterior horn cells. It is associated with SMN1 gene abnormalities. Modern disease-modifying therapies have significantly improved outcomes when given early.
+
+Q78. A 4-year-old boy develops progressive difficulty climbing stairs and frequently falls. Examination reveals proximal muscle weakness and enlarged calves. He uses his hands to push himself upright from the floor. His maternal uncle died from a similar disorder in childhood. Which genetic inheritance pattern is most likely?
+A. Autosomal dominant
+B. Autosomal recessive
+C. X-linked recessive
+D. X-linked dominant
+E. Mitochondrial
+Answer: C.
+Explanation: The presentation is classic for Duchenne muscular dystrophy, caused by dystrophin deficiency. It is inherited in an X-linked recessive pattern and primarily affects boys. Gowers sign, calf pseudohypertrophy, and progressive proximal weakness are characteristic.
+
+Q79. A 6-year-old child develops ascending weakness several days after an upper respiratory infection. Examination demonstrates symmetrical weakness and reduced deep tendon reflexes. Sensory findings are minimal. Which investigation would most strongly support the suspected diagnosis?
+A. CSF showing elevated protein with relatively few cells
+B. CT showing an intracranial mass
+C. Serum bilirubin showing isolated unconjugated elevation
+D. Bone marrow showing lymphoblasts
+E. EEG showing generalized spike-and-wave activity
+Answer: A.
+Explanation: Guillain-Barré syndrome is an acute inflammatory demyelinating polyradiculoneuropathy that often follows an infection. It causes ascending symmetrical weakness and areflexia. CSF classically demonstrates albuminocytologic dissociation—high protein with few or no cells.
+
+Q80. A 3-year-old child has recurrent episodes of staring lasting several seconds. During each episode, the child stops activity and becomes unresponsive, then immediately resumes normal behavior without confusion. Hyperventilation in the clinic reproduces an episode. Which EEG pattern is most characteristic?
+A. 3-Hz generalized spike-and-wave discharges
+B. Hypsarrhythmia
+C. Focal temporal sharp waves only
+D. Burst suppression
+E. Continuous generalized slowing
+Answer: A.
+Explanation: Absence seizures commonly occur in school-aged children and present with brief staring spells, behavioral arrest, and immediate recovery without postictal confusion. Hyperventilation can provoke them. EEG demonstrates classic 3-Hz generalized spike-and-wave activity.
+
+Q81. A 7-month-old infant develops clusters of sudden flexion movements involving the head and trunk, particularly shortly after awakening. The parents initially think the child is having repeated startle responses, but developmental regression becomes evident. EEG demonstrates a chaotic high-amplitude pattern with multifocal spikes. Which diagnosis is most likely?
+A. Absence epilepsy
+B. Infantile spasms
+C. Febrile seizure
+D. Juvenile myoclonic epilepsy
+E. Simple partial seizure
+Answer: B.
+Explanation: Infantile spasms usually occur during the first year of life and present as clusters of flexor, extensor, or mixed spasms, often associated with developmental regression. EEG classically demonstrates hypsarrhythmia. Early treatment is important because prolonged uncontrolled spasms can impair neurodevelopment.
+
+Q82. A 20-month-old child develops a generalized tonic-clonic seizure during a temperature of 39.5°C. The seizure lasts 4 minutes and does not recur during the illness. Neurologic examination after recovery is normal, and there is no evidence of meningitis. Which classification best describes this event?
+A. Complex febrile seizure
+B. Simple febrile seizure
+C. Absence seizure
+D. Status epilepticus
+E. Infantile spasm
+Answer: B.
+Explanation: A simple febrile seizure occurs between approximately 6 months and 5 years, is generalized, lasts less than 15 minutes, and occurs only once during a febrile illness. It is usually benign and does not imply epilepsy.
+
+Q83. A 3-year-old child presents with fever, headache, vomiting, photophobia, and neck stiffness. Lumbar puncture demonstrates elevated opening pressure, neutrophilic pleocytosis, high protein, and low glucose. Which immediate management principle is most appropriate?
+A. Delay antibiotics until culture results return
+B. Begin empiric IV antibiotics promptly after appropriate cultures when feasible
+C. Treat only with oral antihistamines
+D. Administer antidiarrheal medication
+E. Begin long-term corticosteroids without antimicrobial therapy
+Answer: B.
+Explanation: The CSF findings indicate acute bacterial meningitis. Treatment must not be unnecessarily delayed. Empiric therapy is selected according to age and local resistance patterns and may include a third-generation cephalosporin plus vancomycin in appropriate pediatric settings.
+
+Q84. A 2-year-old child presents with fever, irritability, and painful swelling of the hip. The child refuses to bear weight. Laboratory testing reveals elevated inflammatory markers. Ultrasound demonstrates a hip joint effusion, and aspiration produces purulent fluid. Which management is most appropriate?
+A. Reassurance and observation only
+B. Urgent joint drainage plus appropriate IV antibiotics
+C. Oral antihistamines
+D. Immobilization without antibiotics
+E. Corticosteroid injection as first-line treatment
+Answer: B.
+Explanation: Septic arthritis is an orthopedic emergency because delayed treatment can rapidly destroy articular cartilage and impair growth. The affected joint requires urgent drainage and appropriate antimicrobial therapy, commonly targeting Staphylococcus aureus.
+
+Q85. A 6-year-old child develops fever and severe pain in the right thigh. He refuses to walk. Blood cultures grow Staphylococcus aureus, and MRI demonstrates marrow edema involving the femur. Which diagnosis best explains these findings?
+A. Osteomyelitis
+B. Juvenile idiopathic arthritis
+C. Rickets
+D. Osteogenesis imperfecta
+E. Slipped capital femoral epiphysis
+Answer: A.
+Explanation: Acute hematogenous osteomyelitis commonly affects children and is frequently caused by S. aureus. Long bones such as the femur and tibia are common sites. MRI is highly sensitive for early disease, while prolonged antibiotic therapy is usually required.
+
+Q86. A 13-year-old obese adolescent develops sudden severe pain in the hip and knee with difficulty walking. Examination reveals that the affected leg is held in external rotation. Radiography demonstrates displacement of the femoral head relative to the femoral neck through the growth plate. Which treatment is required to prevent further displacement and complications?
+A. Immediate internal fixation
+B. Long-term antibiotics
+C. High-dose corticosteroids
+D. Physical therapy alone
+E. Closed reduction followed by unrestricted activity
+Answer: A.
+Explanation: Slipped capital femoral epiphysis (SCFE) commonly occurs in obese adolescents. The adolescent may present with hip or referred knee pain and an externally rotated limb. The affected epiphysis must be stabilized with surgical fixation to prevent further displacement and avascular necrosis.
+
+Q87. A 9-year-old child develops a painful swollen knee and ankle several weeks after a diarrheal illness. The child has conjunctival irritation and dysuria. No organisms are recovered from joint aspiration. Which diagnosis is most likely?
+A. Septic arthritis
+B. Reactive arthritis
+C. Juvenile idiopathic arthritis
+D. Hemophilic arthropathy
+E. Osteomyelitis
+Answer: B.
+Explanation: Reactive arthritis occurs after certain gastrointestinal or genitourinary infections. The classic clinical pattern includes arthritis with conjunctivitis and urethritis. The joint itself is sterile because the inflammation is an immune-mediated response rather than direct infection.
+
+Q88. A 4-year-old child has persistent fever, rash, and swelling of multiple joints for more than 6 weeks. Laboratory studies reveal elevated inflammatory markers and anemia of chronic disease. No infectious cause is identified. Which diagnosis should be considered?
+A. Juvenile idiopathic arthritis
+B. Acute appendicitis
+C. Hemolytic uremic syndrome
+D. Kawasaki disease only
+E. Osteomyelitis exclusively
+Answer: A.
+Explanation: Juvenile idiopathic arthritis (JIA) is chronic arthritis beginning before age 16 and persisting for at least 6 weeks after exclusion of other causes. Systemic JIA may cause quotidian fever and an evanescent rash. Uveitis is an important extra-articular complication in selected subtypes.
+
+Q89. A 5-year-old child has chronic pallor and fatigue. CBC demonstrates microcytic, hypochromic anemia. Dietary history reveals excessive cow's milk consumption with limited iron-rich foods. Which laboratory pattern is most consistent with iron-deficiency anemia?
+A. High ferritin and low TIBC
+B. Low ferritin and increased TIBC
+C. High ferritin and high serum iron
+D. Normal ferritin with markedly increased vitamin B12
+E. Increased transferrin saturation
+Answer: B.
+Explanation: Iron-deficiency anemia is characterized by low serum ferritin, low serum iron, increased total iron-binding capacity, and reduced transferrin saturation. In children, excessive cow's milk consumption and inadequate dietary iron are common contributors.
+
+Q90. A 7-year-old child presents with fatigue, pallor, bruising, fever, and bone pain. CBC shows anemia and thrombocytopenia. Peripheral smear reveals blasts. Bone marrow examination confirms acute lymphoblastic leukemia. Which complication is particularly important before initiating certain treatments because rapid tumor destruction can produce metabolic abnormalities?
+A. Tumor lysis syndrome
+B. Scurvy
+C. Rickets
+D. Achalasia
+E. Croup
+Answer: A.
+Explanation: Tumor lysis syndrome can occur spontaneously or after chemotherapy, especially in high-burden malignancies such as ALL. Rapid cell destruction releases potassium, phosphate, and nucleic acids, causing hyperkalemia, hyperphosphatemia, hypocalcemia, and hyperuricemia, potentially leading to acute kidney injury.
+
+Q91. A 3-year-old child develops fever, pallor, petechiae, and generalized lymphadenopathy. Bone marrow examination reveals lymphoblasts. The oncology team performs lumbar puncture as part of staging and prophylactic management. Why is central nervous system-directed therapy important in this malignancy?
+A. Leukemic cells cannot enter the CNS
+B. The CNS can serve as a sanctuary site for leukemic cells
+C. CNS treatment prevents iron deficiency
+D. It prevents bacterial pneumonia only
+E. It is required only for solid tumors
+Answer: B.
+Explanation: In ALL, leukemic cells may persist within the CNS because many systemic chemotherapeutic agents have limited penetration across the blood-brain barrier. Therefore, intrathecal chemotherapy is an important component of treatment and helps reduce CNS relapse.
+
+Q92. A 2-year-old child is found to have a large abdominal mass. Imaging reveals a renal tumor, and genetic evaluation demonstrates a deletion involving a tumor suppressor gene on chromosome 11. Which syndrome is classically associated with increased risk of this tumor along with aniridia?
+A. WAGR syndrome
+B. Turner syndrome
+C. Marfan syndrome
+D. DiGeorge syndrome
+E. Klinefelter syndrome
+Answer: A.
+Explanation: WAGR syndrome consists of Wilms tumor, aniridia, genitourinary abnormalities, and intellectual/developmental disability. It is associated with abnormalities involving 11p13, including the WT1 region. Wilms tumor risk is increased in several congenital syndromes.
+
+Q93. A newborn has a midline abdominal wall defect through which abdominal viscera protrude. The organs are covered by a translucent membrane. Which congenital anomaly is being described?
+A. Gastroschisis
+B. Omphalocele
+C. Diaphragmatic hernia
+D. Meckel diverticulum
+E. Umbilical hernia
+Answer: B.
+Explanation: Omphalocele is a congenital midline abdominal wall defect in which herniated abdominal contents are covered by a membrane. It is frequently associated with other congenital abnormalities, particularly cardiac and chromosomal disorders. Gastroschisis, in contrast, is usually paraumbilical and lacks a covering membrane.
+
+Q94. A newborn is found to have bowel protruding through a defect immediately lateral to the umbilicus. The exposed bowel is not covered by a membrane. Which complication is particularly concerning because of direct exposure of the bowel to amniotic fluid?
+A. Bowel inflammation and fluid/electrolyte losses
+B. Immediate development of pyloric stenosis
+C. Hyperthyroidism
+D. Nephrotic syndrome
+E. Isolated hemolytic anemia
+Answer: A.
+Explanation: Gastroschisis involves uncovered bowel protruding through an abdominal wall defect, usually to the right of the umbilicus. Exposure causes bowel inflammation, edema, heat and fluid loss, and potential ischemic complications. Surgical protection and repair are required.
+
+Q95. A newborn develops abdominal distension and bilious vomiting. Imaging demonstrates a “double-bubble” appearance with little gas distal to the obstruction. The infant also has features suggesting Down syndrome. Which diagnosis is most likely?
+A. Duodenal atresia
+B. Pyloric stenosis
+C. Hirschsprung disease
+D. Intussusception
+E. Meconium ileus
+Answer: A.
+Explanation: Duodenal atresia classically produces early bilious vomiting and a double-bubble sign on abdominal radiography. It is strongly associated with trisomy 21. Surgical repair is required after stabilization.
+
+Q96. A 2-week-old infant has persistent vomiting and poor feeding. The vomitus is non-bilious, and the infant remains hungry after vomiting. Ultrasound confirms thickening of the pyloric muscle. Which acid-base abnormality is classically associated with this disorder?
+A. Hyperchloremic metabolic acidosis
+B. Hypochloremic, hypokalemic metabolic alkalosis
+C. Respiratory acidosis
+D. Hyperkalemic metabolic alkalosis
+E. Lactic acidosis without electrolyte abnormalities
+Answer: B.
+Explanation: Hypertrophic pyloric stenosis causes repeated loss of gastric hydrochloric acid through vomiting. This produces hypochloremia and metabolic alkalosis; potassium depletion may develop. The infant should undergo fluid/electrolyte correction before Ramstedt pyloromyotomy.
+
+Q97. A 5-year-old child has poor growth, chronic cough, recurrent sinus and lung infections, and steatorrhea. Sweat chloride testing is positive. The child is started on pancreatic enzyme replacement. Which additional nutritional deficiency is particularly likely without appropriate supplementation?
+A. Fat-soluble vitamins A, D, E, and K
+B. Vitamin C only
+C. Vitamin B12 only
+D. Folate only
+E. Iron only
+Answer: A.
+Explanation: Cystic fibrosis causes exocrine pancreatic insufficiency, resulting in impaired digestion and absorption of fats and fat-soluble vitamins. Supplementation with A, D, E, and K is therefore commonly required, along with pancreatic enzyme replacement.
+
+Q98. A 4-year-old child is brought for evaluation because he cannot see well at night and has difficulty adapting to dim environments. Examination demonstrates conjunctival dryness and foamy Bitot spots. His diet is severely deficient in animal products and colorful vegetables. Which deficiency is most likely responsible?
+A. Vitamin A deficiency
+B. Vitamin C deficiency
+C. Vitamin D deficiency
+D. Vitamin K deficiency
+E. Vitamin B1 deficiency
+Answer: A.
+Explanation: Vitamin A deficiency causes impaired dark adaptation and can progress to xerophthalmia, Bitot spots, corneal ulceration, and blindness. Vitamin A is essential for retinal photopigment function and maintenance of normal epithelial surfaces.
+
+Q99. A 3-year-old child presents with bleeding gums, painful swollen joints, and multiple perifollicular hemorrhages. The diet consists almost entirely of processed foods with very little fruit or vegetables. Which biochemical process is impaired in this condition?
+A. Hydroxylation of proline and lysine during collagen synthesis
+B. γ-carboxylation of clotting factors
+C. Conversion of bilirubin to urobilinogen
+D. Synthesis of surfactant phospholipids
+E. Oxidative phosphorylation in skeletal muscle only
+Answer: A.
+Explanation: Vitamin C deficiency (scurvy) impairs collagen synthesis because vitamin C is required for hydroxylation of proline and lysine. Children may develop gingival bleeding, perifollicular hemorrhage, bone pain, poor wound healing, and anemia.
+
+Q100. A 6-year-old child is brought for routine evaluation. His height and weight have consistently tracked along the same percentiles, he performs age-appropriate activities, and examination is normal. The parents are concerned because he is shorter than several classmates. His mother is 155 cm tall and his father is 165 cm tall. There are no systemic symptoms or signs of endocrine disease. Which explanation is most likely?
+A. Familial short stature
+B. Growth hormone deficiency
+C. Hypothyroidism
+D. Cushing syndrome
+E. Chronic inflammatory disease
+Answer: A.
+Explanation: Familial short stature is characterized by short parents, normal growth velocity, and height tracking along a lower but appropriate percentile. Bone age is generally consistent with chronological age. In contrast, endocrine disease usually causes reduced growth velocity and progressive crossing downward of growth percentiles.
+
