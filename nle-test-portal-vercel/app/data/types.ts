@@ -1,5 +1,5 @@
 export type Question={id:number;question:string;options:string[];answer:number;explanation:string};
-export type TestInfo={slug:string;name:string;short:string;icon:string;color:string;questionCount:number;duration:number;category:"systems"|"basic"|"grand"|"major"};
+export type TestInfo={slug:string;name:string;short:string;icon:string;color:string;questionCount:number;duration:number;category:"systems"|"basic"|"grand"|"major"|"grand2026";group?:"systems"|"basic"};
 export const tests:TestInfo[]=[
   {
     "slug": "cvs",
