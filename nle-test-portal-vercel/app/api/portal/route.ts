@@ -13,8 +13,8 @@ const PUBLIC_COOKIE_3 = "nle_public_visitor_3";
 const PUBLIC_CUSTOM_COOKIE = "nle_public_custom";
 const PUBLIC_MOCK_2={slug:"public-grand-mock-2",name:"Free Mock Test 2",short:"FREE MOCK 2",icon:"★",color:"#e09b24",questionCount:100,duration:120,category:"grand" as const};
 const PUBLIC_MOCK_3={slug:"public-grand-mock-3",name:"Free Mock Test 3",short:"FREE MOCK 3",icon:"★",color:"#b45309",questionCount:100,duration:120,category:"grand" as const};
-type Category="systems"|"basic"|"grand"|"major";
-const CATEGORY_CODES:Record<Category,string>={systems:process.env.CATEGORY_SYSTEMS_CODE||"",basic:process.env.CATEGORY_BASIC_CODE||"",grand:process.env.CATEGORY_GRAND_CODE||"",major:process.env.CATEGORY_MAJOR_CODE||process.env.CATEGORY_SYSTEMS_CODE||""};
+type Category="systems"|"basic"|"grand"|"major"|"grand2026";
+const CATEGORY_CODES:Record<Category,string>={systems:process.env.CATEGORY_SYSTEMS_CODE||"",basic:process.env.CATEGORY_BASIC_CODE||"",grand:process.env.CATEGORY_GRAND_CODE||"",major:process.env.CATEGORY_MAJOR_CODE||process.env.CATEGORY_SYSTEMS_CODE||"",grand2026:process.env.CATEGORY_GRAND2026_CODE||process.env.CATEGORY_GRAND_CODE||""};
 type RawStatement={
   bind:(...values:unknown[])=>RawStatement;
   first:<T>()=>Promise<T|null>;
@@ -263,7 +263,7 @@ export async function POST(request:Request){
   if(action==="unlockCategory"){
     const session=await sessionFrom(request);if(!session)return json({error:"Session expired."},401);
     const category=String(data.category||"") as Category,accessCode=String(data.accessCode||"").trim();
-    if(!(["systems","basic","grand","major"] as string[]).includes(category))return json({error:"Invalid category."},400);
+    if(!(["systems","basic","grand","major","grand2026"] as string[]).includes(category))return json({error:"Invalid category."},400);
     const expected=CATEGORY_CODES[category];
     if(!expected)return json({error:"This category password has not been configured by the administrator."},503);
     if(accessCode!==expected)return json({error:"Incorrect category password."},403);
