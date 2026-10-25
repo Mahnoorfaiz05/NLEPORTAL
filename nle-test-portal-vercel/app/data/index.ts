@@ -32,6 +32,49 @@ import { pediatricsQuestions } from "./pediatrics";
 import { entQuestions } from "./ent";
 import { surgeryQuestions } from "./surgery";
 import { medicineQuestions } from "./medicine";
-import { tests } from "./types";
-export { tests } from "./types"; export type { Question,TestInfo } from "./types";
-export const questionBanks:Record<string,typeof cvsQuestions>={cvs:cvsQuestions,git:gitQuestions,respiratory:respiratoryQuestions,endocrinology:endocrinologyQuestions,renal:renalQuestions,neurology:neurologyQuestions,rheumatology:rheumatologyQuestions,reproductive:reproductiveQuestions,hematology:hematologyQuestions,immunology:immunologyQuestions,biochemistry:biochemistryQuestions,microbiology:microbiologyQuestions,anatomy:anatomyQuestions,physiology:physiologyQuestions,"general-pathology":generalPathologyQuestions,"community-family-medicine":communityFamilyMedicineQuestions,pharmacology:pharmacologyQuestions,"grand-mock-tough":grandMockToughQuestions,"grand-mock-moderate":grandMockModerateQuestions,"grand-mock-exam-1":grandMockExam1Questions,"grand-mock-exam-2":grandMockExam2Questions,"grand-mock-exam-3":grandMockExam3Questions,"grand-mock-exam-4":grandMockExam4Questions,"grand-mock-exam-5":grandMockExam5Questions,"grand-mock-exam-6":grandMockExam6Questions,"grand-mock-exam-7":grandMockExam7Questions,"grand-mock-exam-8":grandMockExam8Questions,"public-grand-mock":publicGrandMockQuestions,"public-grand-mock-2":publicGrandMock2Questions,"public-grand-mock-3":publicGrandMock3Questions,pediatrics:pediatricsQuestions,ent:entQuestions,surgery:surgeryQuestions,medicine:medicineQuestions};
+import { tests as baseTests } from "./types";
+import { grandMock2026BankAliases, grandMock2026Tests } from "./grand-mock-2026";
+export type { Question, TestInfo } from "./types";
+
+const coreBanks: Record<string, typeof cvsQuestions> = {
+  cvs: cvsQuestions,
+  git: gitQuestions,
+  respiratory: respiratoryQuestions,
+  endocrinology: endocrinologyQuestions,
+  renal: renalQuestions,
+  neurology: neurologyQuestions,
+  rheumatology: rheumatologyQuestions,
+  reproductive: reproductiveQuestions,
+  hematology: hematologyQuestions,
+  immunology: immunologyQuestions,
+  biochemistry: biochemistryQuestions,
+  microbiology: microbiologyQuestions,
+  anatomy: anatomyQuestions,
+  physiology: physiologyQuestions,
+  "general-pathology": generalPathologyQuestions,
+  "community-family-medicine": communityFamilyMedicineQuestions,
+  pharmacology: pharmacologyQuestions,
+  "grand-mock-tough": grandMockToughQuestions,
+  "grand-mock-moderate": grandMockModerateQuestions,
+  "grand-mock-exam-1": grandMockExam1Questions,
+  "grand-mock-exam-2": grandMockExam2Questions,
+  "grand-mock-exam-3": grandMockExam3Questions,
+  "grand-mock-exam-4": grandMockExam4Questions,
+  "grand-mock-exam-5": grandMockExam5Questions,
+  "grand-mock-exam-6": grandMockExam6Questions,
+  "grand-mock-exam-7": grandMockExam7Questions,
+  "grand-mock-exam-8": grandMockExam8Questions,
+  "public-grand-mock": publicGrandMockQuestions,
+  "public-grand-mock-2": publicGrandMock2Questions,
+  "public-grand-mock-3": publicGrandMock3Questions,
+  pediatrics: pediatricsQuestions,
+  ent: entQuestions,
+  surgery: surgeryQuestions,
+  medicine: medicineQuestions,
+};
+
+export const tests = [...baseTests, ...grandMock2026Tests];
+export const questionBanks: Record<string, typeof cvsQuestions> = {
+  ...coreBanks,
+  ...grandMock2026BankAliases(coreBanks),
+};

@@ -10,11 +10,14 @@ body{font-family:"Segoe UI Variable","Segoe UI",Inter,Arial,sans-serif}.brandCop
 
 /* Grand Mock Tests */
 @media(min-width:951px){.categoryGrid{grid-template-columns:repeat(2,1fr)}}
-.grandCategory{background:linear-gradient(135deg,#b7791f,#744210)}
-.majorCategory{background:linear-gradient(135deg,#1d7a6a,#0f4f4a)}
-.grandTests{grid-template-columns:repeat(2,minmax(0,1fr));max-width:900px}
-.grandTest{padding:30px}.grandTest h2{min-height:auto}
-@media(max-width:600px){.grandTests{grid-template-columns:1fr}.grandTest{padding:22px}}
+.grand2026Category{background:linear-gradient(135deg,#0e7490,#164e63);grid-column:1/-1}
+.gm2026Sections{width:min(1180px,calc(100% - 30px));margin:0 auto 60px;display:grid;gap:34px}
+.gm2026Group{display:grid;gap:18px}
+.gm2026Header{padding:0 4px}
+.gm2026Header h2{margin:6px 0;font-size:28px}
+.gm2026Tests{margin:0}
+.gm2026Test button{width:100%}
+@media(max-width:600px){.gm2026Header h2{font-size:24px}}
 .publicMockPromo{position:relative;overflow:hidden;padding:20px;border:1px solid #f1bf55;border-radius:18px;background:linear-gradient(135deg,#fff9e8,#fff2c6);box-shadow:0 14px 34px #b7791f1f}.publicMockPromo:after{content:"★";position:absolute;right:-10px;top:-26px;color:#d89a2520;font-size:120px}.publicMockPromo h2{position:relative;z-index:1!important;margin:8px 0 5px!important;font-size:25px!important;color:#633c08}.publicMockPromo p{position:relative;z-index:1;margin:0 0 14px;color:#7a541b;font-size:13px;font-weight:650}.publicMockPromo button{position:relative;z-index:1;width:100%;background:linear-gradient(135deg,#e29c22,#a85f05);box-shadow:0 8px 18px #a85f0530}.freeBadge{position:relative;z-index:1;color:#9a5c05;font-size:10px;font-weight:950;letter-spacing:.11em}.loginDivider{display:flex;align-items:center;gap:10px;color:#8a9a9e;font-size:9px;font-weight:900;letter-spacing:.12em}.loginDivider:before,.loginDivider:after{content:"";height:1px;flex:1;background:#d8e4e5}
 .loginPanel form{gap:14px}.publicMock2Attempts{width:min(1180px,calc(100% - 30px));margin:0 auto 18px}
 .testBuilder{width:min(1180px,calc(100% - 30px));margin:0 auto 18px;display:grid;gap:16px}.testBuilder h3{margin:8px 0 0}.builderForm,.builderGrid,.builderActions,.builderChecks{display:grid;gap:12px}.builderGrid{grid-template-columns:repeat(3,1fr)}.builderChecks{grid-template-columns:repeat(3,1fr);align-items:center}.builderChecks label,.uploadBtn{display:flex;align-items:center;gap:8px;font-size:13px}.pasteBox,.builderForm textarea,.testBuilder select{width:100%;padding:12px;border:1px solid #bdd3d6;border-radius:11px}.importSummary{padding:14px;border-radius:12px;background:#fff6dc}.importReview{display:grid;gap:12px}.builderRowActions{display:flex;flex-wrap:wrap;gap:6px}.builderRowActions button{padding:7px 10px;width:auto}@media(max-width:800px){.builderGrid,.builderChecks{grid-template-columns:1fr}}
